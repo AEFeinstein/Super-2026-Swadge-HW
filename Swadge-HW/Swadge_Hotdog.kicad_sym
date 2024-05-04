@@ -6,7 +6,7 @@
     (property "Value" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Swadge_Gunship:acrylic" (at 0 0 0)
+    (property "Footprint" "Swadge_Hotdog:acrylic" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 0 0)
