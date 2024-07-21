@@ -166,6 +166,7 @@
 	(net 84 "Net-(R15-Pad2)")
 	(net 85 "Net-(R16-Pad2)")
 	(net 86 "Net-(R17-Pad2)")
+	(net 87 "unconnected-(RV1-Pad3)")
 	(footprint "Swadge_Parts:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "028059c0-f070-4003-8509-ef8d34e0674f")
@@ -1046,7 +1047,7 @@
 	(footprint "Swadge_Parts:PJ-307C"
 		(layer "F.Cu")
 		(uuid "0d6fa275-bf29-48e7-90ac-1b17356f0f55")
-		(at 107.085 144.807 180)
+		(at 110.641 144.807 180)
 		(property "Reference" "J2"
 			(at 0 8.5 180)
 			(unlocked yes)
@@ -1321,6 +1322,213 @@
 			)
 			(rotate
 				(xyz -90 0 180)
+			)
+		)
+	)
+	(footprint "Swadge_Parts:RK10J11E0034"
+		(layer "F.Cu")
+		(uuid "113fa5c2-6542-489e-97ce-2afbbb5ab1e5")
+		(at 94.55 144.842 180)
+		(property "Reference" "RV1"
+			(at -7.62 7.62 180)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "274c2632-2f69-4f12-9c90-c3a25f6116a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "R_Potentiometer_US"
+			(at -8 0 -90)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "8babda77-48f6-42d4-ab4c-f3a32cd8ee34")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "Swadge_Parts:RK10J11E0034"
+			(at 0 0 360)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "51614287-89d4-4238-9f99-25349ae2fc73")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_ALPSALPINE-RK10J11E002Y_C470644.pdf"
+			(at 0 0 360)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "551f40a4-82ca-499d-ab92-63fd59cd99c7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "RK10J11E0034"
+			(at 0 0 360)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4dc9ef4-3878-4d56-aaa3-3794a51701c9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C470644"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d036f737-674b-4495-bc90-3fcfd66e553f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost @ 2.5k" "0.4924"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2fc39362-d31d-4efe-8b13-b492f1e00486")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Potentiometer*")
+		(path "/0d5e2399-1b20-46b2-9b26-f9aceecb5df8")
+		(sheetname "Root")
+		(sheetfile "Swadge-HW.kicad_sch")
+		(attr through_hole)
+		(fp_rect
+			(start 5.35 0)
+			(end 7 4)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.CrtYd")
+			(uuid "2c10a992-3dbf-44b2-a9bf-1fdb9c762192")
+		)
+		(fp_rect
+			(start -6 0)
+			(end 5.35 7.5)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.CrtYd")
+			(uuid "5ae1e461-275a-45e6-8b5b-2bc492768306")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 7 0)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.CrtYd")
+			(uuid "dccecd93-856a-445c-8b3d-2588a43ff0be")
+		)
+		(pad "" thru_hole oval
+			(at -5 -2.5 180)
+			(size 1.1 1.6)
+			(drill oval 0.7 1.2)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(thermal_bridge_angle 45)
+			(uuid "5d69de34-cc76-4800-aafe-2374e4ae9c98")
+		)
+		(pad "" thru_hole circle
+			(at -2 7.5 180)
+			(size 1.4 1.4)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "59927f03-0ad5-4aa4-b207-9b634b9bc623")
+		)
+		(pad "" thru_hole circle
+			(at 2 7.5 180)
+			(size 1.4 1.4)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "4f2aa0ff-638c-4d2f-a624-206a624f3e0e")
+		)
+		(pad "" thru_hole oval
+			(at 5 -2.5 180)
+			(size 1.1 1.6)
+			(drill oval 0.7 1.2)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(thermal_bridge_angle 45)
+			(uuid "76227281-b3ac-4c72-ae6c-03c351b9b0bd")
+		)
+		(pad "1" thru_hole circle
+			(at -4 7.5 180)
+			(size 1.4 1.4)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 79 "Net-(U8-IN-)")
+			(pinfunction "1")
+			(pintype "passive")
+			(uuid "f93da434-800b-44ca-8300-d630f0a966d4")
+		)
+		(pad "2" thru_hole circle
+			(at 0 7.5 180)
+			(size 1.4 1.4)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 45 "Net-(U8-VO1)")
+			(pinfunction "2")
+			(pintype "passive")
+			(uuid "f691d1a4-cc72-4c01-a28e-e7dc276b0d7a")
+		)
+		(pad "3" thru_hole circle
+			(at 4 7.5 180)
+			(size 1.4 1.4)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 87 "unconnected-(RV1-Pad3)")
+			(pinfunction "3")
+			(pintype "passive+no_connect")
+			(uuid "49b19de6-dac5-4f2c-9673-a4a9757f6501")
+		)
+		(model "${KIPRJMOD}/../Swadge-Parts/package3d/RK10J1_E.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -6887,7 +7095,6 @@
 			)
 		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
-		(path "/b215c15a-5e0a-4c80-b61b-cfc4b711ad94")
 		(sheetname "Root")
 		(sheetfile "Swadge-HW.kicad_sch")
 		(attr smd)
@@ -11713,7 +11920,7 @@
 	(footprint "Swadge_Parts:INGHAi_MIC_GMI4013S-2C58DB"
 		(layer "F.Cu")
 		(uuid "70424ad7-56b0-4365-b0c7-397911f08f1d")
-		(at 90.171776 143.541776)
+		(at 83.567776 143.541776)
 		(property "Reference" "MK1"
 			(at 0 -4.2 0)
 			(unlocked yes)
