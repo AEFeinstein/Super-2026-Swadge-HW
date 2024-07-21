@@ -160,6 +160,12 @@
 	(net 78 "SPK_SHDN")
 	(net 79 "Net-(U8-IN-)")
 	(net 80 "Net-(U8-VO2)")
+	(net 81 "Net-(R10-Pad2)")
+	(net 82 "Net-(R11-Pad2)")
+	(net 83 "Net-(R12-Pad2)")
+	(net 84 "Net-(R15-Pad2)")
+	(net 85 "Net-(R16-Pad2)")
+	(net 86 "Net-(R17-Pad2)")
 	(footprint "Swadge_Parts:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "028059c0-f070-4003-8509-ef8d34e0674f")
@@ -1066,7 +1072,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:PJ-307C"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cdd50fcd-68e5-49b6-84ee-34817ae25355")
@@ -1078,7 +1084,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811040611_BOOMELE-Boom-Precision-Elec-PJ-307C_C16684.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e6042c19-4db6-4275-81ba-3fd08d694042")
@@ -1090,7 +1096,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f9963093-faea-4c1e-bbce-0d17f27257ff")
@@ -3119,7 +3125,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C86295"
+		(property "LCSC" "C159801"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3132,7 +3138,7 @@
 				)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0097"
+		(property "Cost @ 2.5k" "0.0079"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6854,7 +6860,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C311888"
+		(property "LCSC" "C2907011"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6867,7 +6873,7 @@
 				)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0056"
+		(property "Cost @ 2.5k" "0.0007"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7129,7 +7135,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C86295"
+		(property "LCSC" "C159801"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7142,7 +7148,7 @@
 				)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0097"
+		(property "Cost @ 2.5k" "0.0079"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7404,7 +7410,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C86295"
+		(property "LCSC" "C159801"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7417,7 +7423,7 @@
 				)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0097"
+		(property "Cost @ 2.5k" "0.0079"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9679,6 +9685,281 @@
 			)
 		)
 	)
+	(footprint "Swadge_Parts:R_0603_1608Metric"
+		(layer "F.Cu")
+		(uuid "66af0710-5f61-4d06-bafe-18dd74606d27")
+		(at 252.457 69.335)
+		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
+		(tags "resistor")
+		(property "Reference" "R10"
+			(at 0 -1.43 0)
+			(layer "F.SilkS")
+			(uuid "04a0bfe8-2c45-4905-b142-ad7617cae2a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "510Ω"
+			(at 0 1.43 0)
+			(layer "F.SilkS")
+			(uuid "7f9407b3-f5c3-454a-a864-698834db473b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "Swadge_Parts:R_0603_1608Metric"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "38a65303-9fd8-4bfb-8853-354946ca58f5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ab6c56d-a656-4cbe-8a6e-634cf0c00dde")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f4a6e95-0955-4d5e-bf47-2cf2bc63532f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0877d993-8bde-4775-af12-9c2049f76ecc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost100" "10"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5cba3a2d-a5ed-4649-b9bd-5fb5324f7266")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Substitutable" "Y"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "98b3f7f8-049b-49dc-8a72-694fe82008ec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2907048"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1dbec60e-c446-4821-9da9-980a57aab2aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0007"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "84b12fd2-6f25-4472-8ff9-047e852f2dac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
+		(path "/66fbfc6a-1524-4418-909f-cef4e266b22a")
+		(sheetname "Root")
+		(sheetfile "Swadge-HW.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -1.48 -0.73)
+			(end 1.48 -0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "9491bc86-eece-4fa3-8976-1d1035b28cf8")
+		)
+		(fp_line
+			(start -1.48 0.73)
+			(end -1.48 -0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "4da76c64-779c-468c-bd06-d9a59ef7cd6e")
+		)
+		(fp_line
+			(start 1.48 -0.73)
+			(end 1.48 0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "deed2b94-d0db-4f5b-b4e9-19635c3208b9")
+		)
+		(fp_line
+			(start 1.48 0.73)
+			(end -1.48 0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "68b991dc-9d85-472b-a2ba-559331d5635c")
+		)
+		(fp_line
+			(start -0.8 -0.4)
+			(end 0.8 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "b6fba5e7-eee0-4165-b127-8a5c7d7ad21f")
+		)
+		(fp_line
+			(start -0.8 0.4)
+			(end -0.8 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "712dbf9f-732f-45fd-a031-16179e15b035")
+		)
+		(fp_line
+			(start -0.162779 -0.51)
+			(end 0.162779 -0.51)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "943536b5-6cbb-45d2-bcad-31cba7b0bfb7")
+		)
+		(fp_line
+			(start -0.162779 0.51)
+			(end 0.162779 0.51)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "6b177f4f-2e31-4be4-8e4c-048c3a488df4")
+		)
+		(fp_line
+			(start 0.8 -0.4)
+			(end 0.8 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "c1303aac-7107-4087-a8e1-a15e916c62ed")
+		)
+		(fp_line
+			(start 0.8 0.4)
+			(end -0.8 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "257a5232-38c9-40f3-ba3d-8703d230d800")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "422bfe1c-c641-4aa7-8f8b-ef34382bcd11")
+			(effects
+				(font
+					(size 0.4 0.4)
+					(thickness 0.06)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.7875 0)
+			(size 0.875 0.95)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 67 "TOUCH_1")
+			(pintype "passive")
+			(uuid "b92fe0f4-b729-4772-a48d-35bf4bdd64d0")
+		)
+		(pad "2" smd roundrect
+			(at 0.7875 0)
+			(size 0.875 0.95)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 81 "Net-(R10-Pad2)")
+			(pintype "passive")
+			(uuid "f5b0d3aa-8754-41f8-b645-a588cc0c706e")
+		)
+		(model "${KIPRJMOD}/../Swadge-Parts/package3d/R_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Swadge_Parts:4020PAD"
 		(layer "F.Cu")
 		(uuid "678717c9-d19a-4811-b66e-24607daa52e9")
@@ -10818,6 +11099,281 @@
 			(uuid "fcae31d6-b81f-4b53-8215-29345bf770b5")
 		)
 		(model "${KIPRJMOD}/../Swadge-Parts/package3d/C_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Swadge_Parts:R_0603_1608Metric"
+		(layer "F.Cu")
+		(uuid "6f4d2e7d-fb61-4eab-974b-15e7c77cfe9c")
+		(at 252.457 76.865)
+		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
+		(tags "resistor")
+		(property "Reference" "R15"
+			(at 0 -1.43 0)
+			(layer "F.SilkS")
+			(uuid "deaeff61-7a50-4da1-bd60-760d8342e6f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "510Ω"
+			(at 0 1.43 0)
+			(layer "F.SilkS")
+			(uuid "cf67277e-6176-46d4-936a-6786b20526fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "Swadge_Parts:R_0603_1608Metric"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "928f24b9-8845-41b9-990e-747999612893")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2ea40267-669f-485e-96bf-32b91b861709")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf2f81a3-0889-4b1a-aa14-1d04c651a446")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f8a04d7-4df1-4b4d-8221-3d3c1e2a4b08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost100" "10"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ab75a39a-5740-4c97-a9c5-8a9a2e8ef52b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Substitutable" "Y"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c2ac3d27-1824-4be8-861c-e72f9284108b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2907048"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8675540b-cda6-4758-8bed-086658cf663e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0007"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8b9c871-6717-45e9-9f8d-2ccac9a16df1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
+		(path "/1c31a40f-0dc5-4f1d-b1db-a052ed059b89")
+		(sheetname "Root")
+		(sheetfile "Swadge-HW.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -1.48 -0.73)
+			(end 1.48 -0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "2b5dd394-3d8a-4ef4-96c8-54f6f5729dc6")
+		)
+		(fp_line
+			(start -1.48 0.73)
+			(end -1.48 -0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "99adc66e-8ae8-4617-bc99-8df374fcc381")
+		)
+		(fp_line
+			(start 1.48 -0.73)
+			(end 1.48 0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "464ee177-30a9-496b-829e-1e48c9f9db8f")
+		)
+		(fp_line
+			(start 1.48 0.73)
+			(end -1.48 0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "811f80de-9c69-4a92-92f9-f2da51079932")
+		)
+		(fp_line
+			(start -0.8 -0.4)
+			(end 0.8 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "b78fd69f-3210-4753-8092-97307f36c177")
+		)
+		(fp_line
+			(start -0.8 0.4)
+			(end -0.8 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "ac521ffb-a510-45d0-ad5c-f7754583be44")
+		)
+		(fp_line
+			(start -0.162779 -0.51)
+			(end 0.162779 -0.51)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "01dfa8b7-0d45-4791-9a63-9bd0d11cf97a")
+		)
+		(fp_line
+			(start -0.162779 0.51)
+			(end 0.162779 0.51)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "b221aadd-e3c9-4e90-ba05-2ca527d70cae")
+		)
+		(fp_line
+			(start 0.8 -0.4)
+			(end 0.8 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "2b56c540-3aa8-4d20-9eaf-00d5167c8608")
+		)
+		(fp_line
+			(start 0.8 0.4)
+			(end -0.8 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "b670de21-1ac3-46e5-9a6f-d39d2804589d")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "11905aaa-552f-49fe-9aa6-73e51a91d1e8")
+			(effects
+				(font
+					(size 0.4 0.4)
+					(thickness 0.06)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.7875 0)
+			(size 0.875 0.95)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 63 "TOUCH_6")
+			(pintype "passive")
+			(uuid "199a2eb9-7eb9-4eb8-bc7f-1bc306f515dc")
+		)
+		(pad "2" smd roundrect
+			(at 0.7875 0)
+			(size 0.875 0.95)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 84 "Net-(R15-Pad2)")
+			(pintype "passive")
+			(uuid "c6fe4e2a-b1f9-429d-aa24-d21539cb236b")
+		)
+		(model "${KIPRJMOD}/../Swadge-Parts/package3d/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12526,7 +13082,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C311888"
+		(property "LCSC" "C2907011"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12539,7 +13095,7 @@
 				)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0056"
+		(property "Cost @ 2.5k" "0.0007"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14255,7 +14811,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C86295"
+		(property "LCSC" "C159801"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14268,7 +14824,7 @@
 				)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0097"
+		(property "Cost @ 2.5k" "0.0079"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14805,7 +15361,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C86295"
+		(property "LCSC" "C159801"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14818,7 +15374,7 @@
 				)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0097"
+		(property "Cost @ 2.5k" "0.0079"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15241,6 +15797,281 @@
 			(uuid "9b1f7c5c-7e0c-4458-ba14-82a369754a79")
 		)
 		(model "${KIPRJMOD}/../Swadge-Parts/package3d/C_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Swadge_Parts:R_0603_1608Metric"
+		(layer "F.Cu")
+		(uuid "96ccadd8-85a1-4b27-b3e8-2393d9f4c0dc")
+		(at 252.457 74.355)
+		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
+		(tags "resistor")
+		(property "Reference" "R12"
+			(at 0 -1.43 0)
+			(layer "F.SilkS")
+			(uuid "161d030d-0d5f-498b-92eb-2ac6cee622e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "510Ω"
+			(at 0 1.43 0)
+			(layer "F.SilkS")
+			(uuid "c9a6b255-96d1-47bf-99bf-5b2e846af8e5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "Swadge_Parts:R_0603_1608Metric"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "845fd9c9-bc6d-4cd8-b1ab-7fa40fd7b7b6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "02f05cdf-d370-474b-a3d2-4696f1ee8b34")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e6efe65b-cfd7-4dcf-b83f-1490616d6ad5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8503639-5784-4a1e-9a2e-7fc551b911c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost100" "10"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9c24d556-c00a-4eac-96aa-464f8d49d791")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Substitutable" "Y"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd1ab877-7fe1-48f1-9b08-acf7ee38ed99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2907048"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa45798a-5826-48ab-a999-93d74b5c48cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0007"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc3771e9-8e44-4d6c-87e7-7d128788868d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
+		(path "/73e87f03-237d-4fe9-b8b8-f9f55f6f16b4")
+		(sheetname "Root")
+		(sheetfile "Swadge-HW.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -1.48 -0.73)
+			(end 1.48 -0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "2c9a6216-e10d-42a4-a465-8cba40ada45c")
+		)
+		(fp_line
+			(start -1.48 0.73)
+			(end -1.48 -0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "f8036e97-ec78-45fb-ab37-ab0ca62fa210")
+		)
+		(fp_line
+			(start 1.48 -0.73)
+			(end 1.48 0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "87813506-270f-4c5f-8d96-0bec09d980fe")
+		)
+		(fp_line
+			(start 1.48 0.73)
+			(end -1.48 0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "f2c6e5b4-50df-4795-ae65-22ecf2aced36")
+		)
+		(fp_line
+			(start -0.8 -0.4)
+			(end 0.8 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "625e93b3-bec0-4341-bc41-9af8e890febd")
+		)
+		(fp_line
+			(start -0.8 0.4)
+			(end -0.8 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "512e7370-08fd-431d-a27e-b06c122e2ce3")
+		)
+		(fp_line
+			(start -0.162779 -0.51)
+			(end 0.162779 -0.51)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "3fb40f7e-2dba-4a08-9fea-3fe46d10e87b")
+		)
+		(fp_line
+			(start -0.162779 0.51)
+			(end 0.162779 0.51)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "62624dc5-5f12-4ff6-bfc9-f6f3f2786de4")
+		)
+		(fp_line
+			(start 0.8 -0.4)
+			(end 0.8 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "744df0f8-3266-4952-b368-8a129c4a6337")
+		)
+		(fp_line
+			(start 0.8 0.4)
+			(end -0.8 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "a192ee24-7048-4972-8408-aeb7b0832361")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "943d6b18-5ca7-47eb-86df-f9a8c5c0e159")
+			(effects
+				(font
+					(size 0.4 0.4)
+					(thickness 0.06)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.7875 0)
+			(size 0.875 0.95)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 72 "TOUCH_5")
+			(pintype "passive")
+			(uuid "c21eb8b1-7874-4c5e-a1b9-155ad6cc70cb")
+		)
+		(pad "2" smd roundrect
+			(at 0.7875 0)
+			(size 0.875 0.95)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 83 "Net-(R12-Pad2)")
+			(pintype "passive")
+			(uuid "66c3101c-8c4b-4dc2-bcf4-faf337fc5051")
+		)
+		(model "${KIPRJMOD}/../Swadge-Parts/package3d/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17522,7 +18353,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C311888"
+		(property "LCSC" "C2907011"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17535,7 +18366,7 @@
 				)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0056"
+		(property "Cost @ 2.5k" "0.0007"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20218,6 +21049,556 @@
 			(net 50 "Net-(U3-FB)")
 			(pintype "passive")
 			(uuid "f7b68224-34d3-48bf-afaa-2a597248a19c")
+		)
+		(model "${KIPRJMOD}/../Swadge-Parts/package3d/R_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Swadge_Parts:R_0603_1608Metric"
+		(layer "F.Cu")
+		(uuid "c1a89f86-dbef-4534-83fc-edd1dd263e9d")
+		(at 252.457 71.845)
+		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
+		(tags "resistor")
+		(property "Reference" "R11"
+			(at 0 -1.43 0)
+			(layer "F.SilkS")
+			(uuid "c8f18742-1e82-4693-9a2c-71f2716672e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "510Ω"
+			(at 0 1.43 0)
+			(layer "F.SilkS")
+			(uuid "56c81747-4304-43c6-8c0f-dce23b5520b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "Swadge_Parts:R_0603_1608Metric"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e205171-fb59-4d0a-8cd7-752ab8eea4f2")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b1badedf-11b4-4509-a7d2-8780c8643784")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc71e601-8bef-4702-816d-236fe4a41fc1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b189ea96-f234-4a1f-9755-b93a068c6479")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost100" "10"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8ee343a-c028-4243-9cf2-de9b8d6c640a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Substitutable" "Y"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e364dfc3-0411-480a-9339-28ce9ef396bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2907048"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6b91cc85-0dfe-4ce9-af9c-d345fa1952b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0007"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f64511a1-323d-4e1f-b5e2-a1429c4c613e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
+		(path "/9c3b887e-4682-4c57-8104-7eeac4d12822")
+		(sheetname "Root")
+		(sheetfile "Swadge-HW.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -1.48 -0.73)
+			(end 1.48 -0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "5a4da9ec-574c-4379-9647-481944437b03")
+		)
+		(fp_line
+			(start -1.48 0.73)
+			(end -1.48 -0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "7faac320-b6fc-44f0-ac43-d0627480ef9a")
+		)
+		(fp_line
+			(start 1.48 -0.73)
+			(end 1.48 0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "75bedf89-58a2-4bbb-9615-f4051cfe5431")
+		)
+		(fp_line
+			(start 1.48 0.73)
+			(end -1.48 0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "3af60404-a160-4d1f-b7b2-8c53718ccab6")
+		)
+		(fp_line
+			(start -0.8 -0.4)
+			(end 0.8 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "1e66980d-5c05-440f-b503-c64b2c2432db")
+		)
+		(fp_line
+			(start -0.8 0.4)
+			(end -0.8 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "cc561637-8d99-43df-888b-6b85310c0cf5")
+		)
+		(fp_line
+			(start -0.162779 -0.51)
+			(end 0.162779 -0.51)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "4506e491-5f36-4ab3-a358-e6c1a6afb005")
+		)
+		(fp_line
+			(start -0.162779 0.51)
+			(end 0.162779 0.51)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "0ae728ba-6083-4374-80cc-cabddcb3c228")
+		)
+		(fp_line
+			(start 0.8 -0.4)
+			(end 0.8 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "321c07f1-6e2d-486e-bc2c-9287637da229")
+		)
+		(fp_line
+			(start 0.8 0.4)
+			(end -0.8 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "1b3a26df-1c13-4ae3-b12b-8ed349fc9eec")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "9b9e015d-c729-474c-afb0-8750742714e4")
+			(effects
+				(font
+					(size 0.4 0.4)
+					(thickness 0.06)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.7875 0)
+			(size 0.875 0.95)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 64 "TOUCH_2")
+			(pintype "passive")
+			(uuid "9ad877ec-0f47-4f90-96b2-558eee089f27")
+		)
+		(pad "2" smd roundrect
+			(at 0.7875 0)
+			(size 0.875 0.95)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 82 "Net-(R11-Pad2)")
+			(pintype "passive")
+			(uuid "d3c40e35-da83-423e-88d0-21ff1e5469cd")
+		)
+		(model "${KIPRJMOD}/../Swadge-Parts/package3d/R_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Swadge_Parts:R_0603_1608Metric"
+		(layer "F.Cu")
+		(uuid "c2ee4212-0c21-44c9-947f-0edd851f5e07")
+		(at 252.457 81.885)
+		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
+		(tags "resistor")
+		(property "Reference" "R17"
+			(at 0 -1.43 0)
+			(layer "F.SilkS")
+			(uuid "d6de6cca-ebd9-4a8a-a700-ea99a4abacc2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "510Ω"
+			(at 0 1.43 0)
+			(layer "F.SilkS")
+			(uuid "16da9d0c-d5d9-4dd3-9a57-c6825657b338")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "Swadge_Parts:R_0603_1608Metric"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21d36f7b-ca36-4727-b007-0c875d29d493")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0033bd03-e7f8-4013-bd97-e5bd126ca7d0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e63b9502-15af-4d43-a8ca-071a87ffdd25")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54db2fb5-c79e-4ad5-a293-eb8249266543")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost100" "10"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "510b8cbc-1ad6-4d0d-96b8-ddfbc7508b09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Substitutable" "Y"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b2f29709-8ae4-436e-bccc-aeda873b15f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2907048"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "70963417-de0b-4d3d-80a5-becedbacdd3f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0007"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "56f12b36-b20f-4b8d-af49-3aabad8ab9cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
+		(path "/ada9e36f-b0d9-46fc-81af-0d00a8b1f93d")
+		(sheetname "Root")
+		(sheetfile "Swadge-HW.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -1.48 -0.73)
+			(end 1.48 -0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "b7801cd4-d0a8-4323-b1da-9f81c3abacb7")
+		)
+		(fp_line
+			(start -1.48 0.73)
+			(end -1.48 -0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "565ef600-b600-4e6f-9140-bec7cb9932b2")
+		)
+		(fp_line
+			(start 1.48 -0.73)
+			(end 1.48 0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "ef2a871c-f4cb-421e-98b0-3ac7bcb22ef5")
+		)
+		(fp_line
+			(start 1.48 0.73)
+			(end -1.48 0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "0a840344-2c3c-451a-a239-e2f9b90ac42a")
+		)
+		(fp_line
+			(start -0.8 -0.4)
+			(end 0.8 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "8c31df42-092b-4608-a669-5372ba5c74e6")
+		)
+		(fp_line
+			(start -0.8 0.4)
+			(end -0.8 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "aa40b93e-5b37-496a-a87e-2b7bbdae1d82")
+		)
+		(fp_line
+			(start -0.162779 -0.51)
+			(end 0.162779 -0.51)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "725476cb-5f5e-4b8e-b630-504af8721d86")
+		)
+		(fp_line
+			(start -0.162779 0.51)
+			(end 0.162779 0.51)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "41ae6c17-de69-4838-841f-52283ef130da")
+		)
+		(fp_line
+			(start 0.8 -0.4)
+			(end 0.8 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "59c07fd4-fc97-4d21-810f-829973e1cf20")
+		)
+		(fp_line
+			(start 0.8 0.4)
+			(end -0.8 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "be772667-aa20-43ea-bcab-47fc0b328701")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "edc4621d-0c87-4cc8-8b8f-e07c9106d5ae")
+			(effects
+				(font
+					(size 0.4 0.4)
+					(thickness 0.06)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.7875 0)
+			(size 0.875 0.95)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 73 "TOUCH_3")
+			(pintype "passive")
+			(uuid "b9f614c9-0238-4e76-b92a-244574f629c4")
+		)
+		(pad "2" smd roundrect
+			(at 0.7875 0)
+			(size 0.875 0.95)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 86 "Net-(R17-Pad2)")
+			(pintype "passive")
+			(uuid "bd324402-25ae-45d2-9601-099c3e047668")
 		)
 		(model "${KIPRJMOD}/../Swadge-Parts/package3d/R_0603_1608Metric.step"
 			(offset
@@ -29433,6 +30814,281 @@
 			)
 		)
 	)
+	(footprint "Swadge_Parts:R_0603_1608Metric"
+		(layer "F.Cu")
+		(uuid "e0f7b516-43ce-4720-8439-3b97461f4f17")
+		(at 252.457 79.375)
+		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
+		(tags "resistor")
+		(property "Reference" "R16"
+			(at 0 -1.43 0)
+			(layer "F.SilkS")
+			(uuid "716992da-abcc-48c8-a39e-f69da3f6c83f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "510Ω"
+			(at 0 1.43 0)
+			(layer "F.SilkS")
+			(uuid "648acd26-b1c8-4f5a-bd1e-bf4b3bf2919c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "Swadge_Parts:R_0603_1608Metric"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0dd3c7d4-4ea7-4f5b-96ca-ae1c5727498c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2893f9ef-7b82-4e86-93b2-1d103e8f9a15")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e3711fe2-def7-4d2b-8540-11a7a6f9fd01")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1fd1aade-f63f-45a0-b82f-0f01faf978af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost100" "10"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a580a3e6-65e0-4575-961a-df30f4431df7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Substitutable" "Y"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9863ba6a-2a46-47ec-bbd4-47e9e50d0a9b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2907048"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b132f125-1733-4bb1-b3e8-f1038034eef1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0007"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc54f493-009f-48c1-9d79-95a93f87b515")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
+		(path "/014edec8-bd96-492e-a2f3-4eb64dda3396")
+		(sheetname "Root")
+		(sheetfile "Swadge-HW.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -1.48 -0.73)
+			(end 1.48 -0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "9a6b1bfa-c726-4ae2-8fe6-2359f756e63f")
+		)
+		(fp_line
+			(start -1.48 0.73)
+			(end -1.48 -0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "2ccae57f-7562-402b-bdb7-c3f3d73cb8ea")
+		)
+		(fp_line
+			(start 1.48 -0.73)
+			(end 1.48 0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "6e35eb7a-38ee-401b-b6fa-b5bb3f36422c")
+		)
+		(fp_line
+			(start 1.48 0.73)
+			(end -1.48 0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "9f672437-1f45-4da1-a045-71c5ade9b09e")
+		)
+		(fp_line
+			(start -0.8 -0.4)
+			(end 0.8 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "f05aa550-2b3a-4e4a-b0f0-6ef73cec9fcb")
+		)
+		(fp_line
+			(start -0.8 0.4)
+			(end -0.8 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "bfe334bd-8bc8-4eee-bcbc-2495ecc09ad0")
+		)
+		(fp_line
+			(start -0.162779 -0.51)
+			(end 0.162779 -0.51)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "371bba1f-1876-431f-8bc8-ee64dff9e2e1")
+		)
+		(fp_line
+			(start -0.162779 0.51)
+			(end 0.162779 0.51)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9335aa8e-db8c-495d-bdc4-729722764b27")
+		)
+		(fp_line
+			(start 0.8 -0.4)
+			(end 0.8 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "847d4c8a-fb38-4953-a5f9-ecb434f542b2")
+		)
+		(fp_line
+			(start 0.8 0.4)
+			(end -0.8 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "13bd77e4-eca7-409a-948a-5f8057f7a8d7")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "eadad3b7-d9de-45aa-9d31-0e49214a5708")
+			(effects
+				(font
+					(size 0.4 0.4)
+					(thickness 0.06)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.7875 0)
+			(size 0.875 0.95)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 68 "TOUCH_4")
+			(pintype "passive")
+			(uuid "8dd69e0b-45cc-4691-bd96-f6e3b174922e")
+		)
+		(pad "2" smd roundrect
+			(at 0.7875 0)
+			(size 0.875 0.95)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 85 "Net-(R16-Pad2)")
+			(pintype "passive")
+			(uuid "d889ebba-ccd6-4d67-9b48-074b5383f998")
+		)
+		(model "${KIPRJMOD}/../Swadge-Parts/package3d/R_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Swadge_Parts:INGHAi GSPK2308P-8R0.5W"
 		(layer "F.Cu")
 		(uuid "e32363a6-a802-43d5-975a-db1dbef67f2c")
@@ -30498,7 +32154,7 @@
 			(uuid "44cdb398-8d0e-4f36-9723-3961d7b8ad6f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -1.27 2.54 360)
+			(at -1.27 2.54 0)
 			(layer "F.Fab")
 			(uuid "4a70be7b-af1e-4710-9f3a-bbe804d240d0")
 			(effects
