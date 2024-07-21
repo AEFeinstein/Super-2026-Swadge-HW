@@ -13673,6 +13673,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0155"
+			(at 156.21 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4cb30d8f-057d-48f3-ae8d-8835585a2c63")
 		)
@@ -13924,6 +13933,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0226"
+			(at 274.32 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "24bed695-0c1c-4e44-8d2b-3799ebb2f198")
 		)
@@ -14095,6 +14113,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0007"
+			(at 143.51 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a8d516d8-3881-4ff2-84b8-a9e761992e6a")
 		)
@@ -14255,6 +14282,15 @@
 			)
 		)
 		(property "LCSC" "C23140"
+			(at 17.78 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0008"
 			(at 17.78 134.62 0)
 			(effects
 				(font
@@ -14561,7 +14597,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7434165"
+		(property "LCSC" "C5446701"
+			(at 58.42 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0352"
 			(at 58.42 138.43 0)
 			(effects
 				(font
@@ -14745,6 +14790,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0008"
+			(at 215.9 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "08c56e55-672c-4eaf-827b-a738648c2521")
 		)
@@ -14843,6 +14897,15 @@
 			)
 		)
 		(property "LCSC" "C282519"
+			(at 54.61 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0015"
 			(at 54.61 17.78 0)
 			(effects
 				(font
@@ -14954,6 +15017,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0007"
+			(at 294.64 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0ea2a0f5-89e1-461c-9143-57102a6626c2")
 		)
@@ -15057,6 +15129,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0008"
+			(at 68.58 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3516a1cc-8c28-4a5e-b977-d57a4618cddc")
 		)
@@ -15152,6 +15233,15 @@
 			)
 		)
 		(property "LCSC" "C22790"
+			(at 200.66 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0008"
 			(at 200.66 26.67 0)
 			(effects
 				(font
@@ -15267,6 +15357,15 @@
 			)
 		)
 		(property "LCSC" "C2910918"
+			(at 129.54 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0155"
 			(at 129.54 63.5 0)
 			(effects
 				(font
@@ -15441,6 +15540,15 @@
 			)
 		)
 		(property "Digikey" "~"
+			(at 151.13 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0331"
 			(at 151.13 186.69 0)
 			(effects
 				(font
@@ -15684,6 +15792,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0008"
+			(at 35.56 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fd7c8cac-b31e-4848-afad-7e1e4541e3ca")
 		)
@@ -15856,6 +15973,15 @@
 			)
 		)
 		(property "LCSC" "C2910918"
+			(at 156.21 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0155"
 			(at 156.21 63.5 0)
 			(effects
 				(font
@@ -16495,6 +16621,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0035"
+			(at 156.21 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "274e71f1-27a2-4595-b3a8-d3984c899eb1")
 		)
@@ -16592,6 +16727,15 @@
 			)
 		)
 		(property "LCSC" "C2682275"
+			(at 48.26 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0481"
 			(at 48.26 165.1 0)
 			(effects
 				(font
@@ -16766,6 +16910,15 @@
 			)
 		)
 		(property "Digikey" "~"
+			(at 285.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0545"
 			(at 285.75 113.03 0)
 			(effects
 				(font
@@ -17114,6 +17267,15 @@
 			)
 		)
 		(property "LCSC" "C3013908"
+			(at 58.42 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "2.0267"
 			(at 58.42 66.04 0)
 			(effects
 				(font
@@ -17741,6 +17903,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0035"
+			(at 20.32 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "904c81db-a34b-43f8-b6cf-2802f3583032")
 		)
@@ -17854,6 +18025,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.11"
+			(at 107.95 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c656a490-ab9b-4255-9aed-2ebe8ef6625f")
 		)
@@ -17952,6 +18132,15 @@
 			)
 		)
 		(property "LCSC" "C86295"
+			(at 195.58 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0097"
 			(at 195.58 35.56 0)
 			(effects
 				(font
@@ -18068,6 +18257,15 @@
 			)
 		)
 		(property "Substitutable" "Y"
+			(at 60.96 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0334"
 			(at 60.96 191.77 0)
 			(effects
 				(font
@@ -18212,7 +18410,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7434165"
+		(property "LCSC" "C5446701"
+			(at 124.46 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0352"
 			(at 124.46 138.43 0)
 			(effects
 				(font
@@ -18321,7 +18528,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C311888"
+			(at 201.93 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0056"
 			(at 201.93 66.04 0)
 			(effects
 				(font
@@ -18427,6 +18643,15 @@
 			)
 		)
 		(property "LCSC" "C23186"
+			(at 24.13 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0008"
 			(at 24.13 179.07 0)
 			(effects
 				(font
@@ -18671,6 +18896,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0035"
+			(at 132.08 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0c63afb6-39fa-4383-9bd7-d013c001f965")
 		)
@@ -18904,7 +19138,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7434165"
+		(property "LCSC" "C5446701"
+			(at 25.4 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0352"
 			(at 25.4 138.43 0)
 			(effects
 				(font
@@ -19056,6 +19299,15 @@
 		)
 		(property "LCSC" "C94625"
 			(at 205.994 88.392 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0258"
+			(at 205.74 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19324,6 +19576,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.11"
+			(at 87.63 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4fae3293-da8c-4dd7-a594-158636a86f31")
 		)
@@ -19419,6 +19680,15 @@
 			)
 		)
 		(property "LCSC" "C23140"
+			(at 190.5 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0008"
 			(at 190.5 26.67 0)
 			(effects
 				(font
@@ -19532,6 +19802,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0015"
+			(at 266.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aaa7e426-2d5f-4923-8bd8-dbacd034349d")
 		)
@@ -19629,6 +19908,15 @@
 			)
 		)
 		(property "LCSC" "C15849"
+			(at 185.42 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0035"
 			(at 185.42 72.39 0)
 			(effects
 				(font
@@ -19805,6 +20093,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0007"
+			(at 31.75 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "957c178c-81e6-42b1-b822-6e6b526a6b85")
 		)
@@ -19902,6 +20199,15 @@
 			)
 		)
 		(property "LCSC" "C282519"
+			(at 259.08 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0015"
 			(at 259.08 33.02 0)
 			(effects
 				(font
@@ -20017,6 +20323,15 @@
 			)
 		)
 		(property "LCSC" "C2910918"
+			(at 156.21 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0155"
 			(at 156.21 25.4 0)
 			(effects
 				(font
@@ -20203,6 +20518,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0254"
+			(at 280.67 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e55215a-948d-4fd1-a196-bb44d0383998")
 		)
@@ -20306,7 +20630,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7434165"
+		(property "LCSC" "C5446701"
+			(at 140.97 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0352"
 			(at 140.97 138.43 0)
 			(effects
 				(font
@@ -20481,6 +20814,15 @@
 			)
 		)
 		(property "LCSC" "C23140"
+			(at 68.58 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0008"
 			(at 68.58 162.56 0)
 			(effects
 				(font
@@ -20791,6 +21133,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0097"
+			(at 294.64 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5a129d24-0c50-43f8-a4e8-c74dd5a44d84")
 		)
@@ -20961,6 +21312,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0015"
+			(at 257.81 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7e81f8d0-2713-4de5-97ac-498744305f8c")
 		)
@@ -21123,6 +21483,15 @@
 			)
 		)
 		(property "LCSC" "C15849"
+			(at 260.35 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0035"
 			(at 260.35 116.84 0)
 			(effects
 				(font
@@ -21506,6 +21875,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0123"
+			(at 121.92 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3cfd6398-5360-4c97-b34a-99ca534aad56")
 		)
@@ -21683,7 +22061,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7434165"
+		(property "LCSC" "C5446701"
+			(at 74.93 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0352"
 			(at 74.93 138.43 0)
 			(effects
 				(font
@@ -21804,6 +22191,15 @@
 			)
 		)
 		(property "LCSC" "C530531"
+			(at 237.49 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.412"
 			(at 237.49 81.28 0)
 			(effects
 				(font
@@ -21984,6 +22380,15 @@
 			)
 		)
 		(property "LCSC" "C2929546"
+			(at 146.05 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0461"
 			(at 146.05 93.98 0)
 			(effects
 				(font
@@ -22175,6 +22580,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0688"
+			(at 281.94 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e120478c-78db-4884-b729-ad7ddb810832")
 		)
@@ -22326,6 +22740,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0097"
+			(at 43.18 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "85b96ce8-85d9-434a-9bbc-029fb9fc7d80")
 		)
@@ -22423,6 +22846,15 @@
 			)
 		)
 		(property "LCSC" "C15849"
+			(at 66.04 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0035"
 			(at 66.04 127 0)
 			(effects
 				(font
@@ -22593,6 +23025,15 @@
 			)
 		)
 		(property "LCSC" "C23172"
+			(at 134.62 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0008"
 			(at 134.62 170.18 0)
 			(effects
 				(font
@@ -22901,6 +23342,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0097"
+			(at 213.36 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6783768f-63f0-4c6b-9906-c9edeb57dfc5")
 		)
@@ -22935,7 +23385,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "PJ-307C"
 			(at 245.11 69.85 0)
 			(effects
 				(font
@@ -22973,6 +23423,15 @@
 		)
 		(property "LCSC" "C16684"
 			(at 232.41 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0261"
+			(at 232.41 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23092,7 +23551,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7434165"
+		(property "LCSC" "C5446701"
+			(at 157.48 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0352"
 			(at 157.48 138.43 0)
 			(effects
 				(font
@@ -23129,8 +23597,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "a55c1b99-3293-490d-831c-cf15a08bdfa8")
 		(property "Reference" "J3"
 			(at 229.362 187.9599 0)
@@ -23214,6 +23682,15 @@
 			)
 		)
 		(property "Substitutable" "Y"
+			(at 228.6 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" ""
 			(at 228.6 189.23 0)
 			(effects
 				(font
@@ -23394,6 +23871,15 @@
 			)
 		)
 		(property "LCSC" "C25804"
+			(at 156.21 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0007"
 			(at 156.21 171.45 0)
 			(effects
 				(font
@@ -23626,7 +24112,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C311888"
+			(at 207.01 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0056"
 			(at 207.01 85.09 0)
 			(effects
 				(font
@@ -23738,7 +24233,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7434165"
+		(property "LCSC" "C5446701"
+			(at 41.91 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0352"
 			(at 41.91 138.43 0)
 			(effects
 				(font
@@ -23859,6 +24363,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0008"
+			(at 156.21 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0f745a06-9ba5-4977-8fcd-a75599824aab")
 		)
@@ -23945,6 +24458,15 @@
 			)
 		)
 		(property "Substitutable" "Y"
+			(at 267.97 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0123"
 			(at 267.97 152.4 0)
 			(effects
 				(font
@@ -24202,6 +24724,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0461"
+			(at 116.84 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "78ab2d4d-7a31-4176-9348-f0a8da0f1c7e")
 		)
@@ -24317,6 +24848,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Cost @ 2.5k" "3.00"
+			(at 283.21 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(instances
@@ -24483,6 +25023,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0035"
+			(at 165.1 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a4c2e271-a6b2-45c6-9b28-d01ddd82d9d0")
 		)
@@ -24586,7 +25135,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7434165"
+		(property "LCSC" "C5446701"
+			(at 91.44 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0352"
 			(at 91.44 138.43 0)
 			(effects
 				(font
@@ -24772,6 +25330,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0097"
+			(at 142.24 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a28f3edc-62ec-430e-a09e-8b4a90ea1434")
 		)
@@ -24868,7 +25435,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C376833"
+			(at 189.23 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0071"
 			(at 189.23 77.47 0)
 			(effects
 				(font
@@ -24973,6 +25549,15 @@
 			)
 		)
 		(property "LCSC" "C22452"
+			(at 92.71 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0254"
 			(at 92.71 173.99 0)
 			(effects
 				(font
@@ -25149,7 +25734,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7434165"
+		(property "LCSC" "C5446701"
+			(at 107.95 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0352"
 			(at 107.95 138.43 0)
 			(effects
 				(font
@@ -25261,6 +25855,15 @@
 			)
 		)
 		(property "LCSC" "C282519"
+			(at 231.14 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0015"
 			(at 231.14 121.92 0)
 			(effects
 				(font
@@ -25439,6 +26042,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.002"
+			(at 229.87 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b06717a8-479b-4510-9b4c-da8f2564d668")
 		)
@@ -25601,6 +26213,15 @@
 			)
 		)
 		(property "LCSC" "C15849"
+			(at 33.02 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0035"
 			(at 33.02 127 0)
 			(effects
 				(font
@@ -25833,7 +26454,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C311888"
+			(at 198.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0056"
 			(at 198.12 77.47 0)
 			(effects
 				(font
@@ -25947,6 +26577,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0035"
+			(at 298.45 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7aa80e12-02ad-45bf-98e1-49ee00dd9ebf")
 		)
@@ -26014,7 +26653,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "NOPOP_C92272"
+		(property "LCSC" "C92272"
 			(at 193.04 189.23 0)
 			(effects
 				(font
@@ -26051,6 +26690,15 @@
 			)
 		)
 		(property "Substitutable" "Y"
+			(at 193.04 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0471"
 			(at 193.04 189.23 0)
 			(effects
 				(font
@@ -26242,6 +26890,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.1825"
+			(at 209.55 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b13efd4e-7ee7-43e7-99d4-5666f344f3ed")
 		)
@@ -26393,8 +27050,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d7868730-1a2c-4690-80a4-53c7715e722e")
 		(property "Reference" "U4"
@@ -26433,6 +27090,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 209.55 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" ""
 			(at 209.55 153.67 0)
 			(effects
 				(font
@@ -26623,6 +27289,15 @@
 			)
 		)
 		(property "LCSC" "~"
+			(at 97.79 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.11"
 			(at 97.79 194.31 0)
 			(effects
 				(font
@@ -26867,6 +27542,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0015"
+			(at 220.98 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3a5e615b-50d8-4eaf-86d8-e87952e33ef5")
 		)
@@ -27045,6 +27729,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0237"
+			(at 146.05 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "41f0c2e5-40a3-4084-a88a-cc09eeef2bd7")
 		)
@@ -27169,6 +27862,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0155"
+			(at 129.54 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dd412e32-31ca-4e97-ad4c-332482d64e7a")
 		)
@@ -27272,6 +27974,15 @@
 			)
 		)
 		(property "LCSC" "C15849"
+			(at 190.5 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0035"
 			(at 190.5 58.42 0)
 			(effects
 				(font
@@ -27442,6 +28153,15 @@
 			)
 		)
 		(property "LCSC" "C15849"
+			(at 99.06 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0035"
 			(at 99.06 127 0)
 			(effects
 				(font
@@ -27683,6 +28403,15 @@
 				(hide yes)
 			)
 		)
+		(property "Cost @ 2.5k" "0.0007"
+			(at 269.24 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1487b806-2e2e-48c4-838a-07c397baf8a7")
 		)
@@ -27827,6 +28556,15 @@
 		)
 		(property "LCSC" "C967633"
 			(at 199.39 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.5171"
+			(at 200.66 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28042,6 +28780,15 @@
 			)
 		)
 		(property "LCSC" "C2910918"
+			(at 129.54 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0155"
 			(at 129.54 25.4 0)
 			(effects
 				(font
