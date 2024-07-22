@@ -24434,7 +24434,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
+		(on_board yes)
 		(dnp yes)
 		(uuid "a55c1b99-3293-490d-831c-cf15a08bdfa8")
 		(property "Reference" "J3"
@@ -27887,7 +27887,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
+		(on_board yes)
 		(dnp yes)
 		(uuid "d7868730-1a2c-4690-80a4-53c7715e722e")
 		(property "Reference" "U4"
