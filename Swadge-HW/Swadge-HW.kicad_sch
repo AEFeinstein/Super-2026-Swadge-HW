@@ -5276,6 +5276,67 @@
 				)
 			)
 		)
+		(symbol "Swadge_Parts:NULL"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "N"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Value"
+				(at 5.334 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "NULL_1_1"
+				(rectangle
+					(start -2.54 2.54)
+					(end 2.54 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+		)
 		(symbol "Swadge_Parts:PJ-307C"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -6372,7 +6433,7 @@
 				)
 			)
 		)
-		(symbol "Swadge_Parts:R_Potentiometer_US"
+		(symbol "Swadge_Parts:R_Potentiometer_US_SMD"
 			(pin_names
 				(offset 1.016) hide)
 			(exclude_from_sim no)
@@ -6386,7 +6447,7 @@
 					)
 				)
 			)
-			(property "Value" "R_Potentiometer_US"
+			(property "Value" "R_Potentiometer_US_SMD"
 				(at -2.54 0 90)
 				(effects
 					(font
@@ -6394,7 +6455,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Swadge_Parts:RK10J11E0034"
+			(property "Footprint" "Swadge_Parts:RK10J11R001Y"
 				(at 0 -15.24 0)
 				(effects
 					(font
@@ -6403,7 +6464,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_ALPSALPINE-RK10J11E0034_C470643.pdf"
+			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_ALPSALPINE-RK10J11R001Y_C470765.pdf"
 				(at 0 -12.7 0)
 				(effects
 					(font
@@ -6412,7 +6473,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "RK10J11E0034"
+			(property "Description" "RK10J11R001Y"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6421,7 +6482,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC" "C470643"
+			(property "LCSC" "C470765"
 				(at 0 -17.78 0)
 				(effects
 					(font
@@ -6448,7 +6509,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "R_Potentiometer_US_0_1"
+			(symbol "R_Potentiometer_US_SMD_0_1"
 				(polyline
 					(pts
 						(xy 0 -2.54) (xy 0 -3.81)
@@ -6558,7 +6619,7 @@
 					)
 				)
 			)
-			(symbol "R_Potentiometer_US_1_1"
+			(symbol "R_Potentiometer_US_SMD_1_1"
 				(pin passive line
 					(at 0 5.08 270)
 					(length 1.27)
@@ -10537,6 +10598,16 @@
 	)
 	(polyline
 		(pts
+			(xy 314.96 12.7) (xy 314.96 15.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcd354a7-23b1-493b-8544-9e4099d15008")
+	)
+	(polyline
+		(pts
 			(xy 189.23 16.51) (xy 189.23 12.7)
 		)
 		(stroke
@@ -10714,6 +10785,16 @@
 			(type default)
 		)
 		(uuid "cff722ca-0359-4cc0-af20-48c4a7d7fd85")
+	)
+	(polyline
+		(pts
+			(xy 309.88 15.24) (xy 314.96 15.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d32f9e7a-e466-4ba8-a85a-b79c2750812e")
 	)
 	(polyline
 		(pts
@@ -11200,6 +11281,18 @@
 		(uuid c859e64f-84b0-467c-aaa5-52a479364ac7)
 	)
 	(rectangle
+		(start 309.88 12.7)
+		(end 342.9 43.18)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid dadb21b8-3c89-461a-9a93-597edae710ab)
+	)
+	(rectangle
 		(start 175.26 172.72)
 		(end 234.95 203.2)
 		(stroke
@@ -11431,6 +11524,16 @@
 			(justify left bottom)
 		)
 		(uuid "f2620c1f-3259-40eb-888f-5c8242211e1a")
+	)
+	(text "Misc"
+		(exclude_from_sim no)
+		(at 312.42 14.478 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fab06158-07f2-45b2-ac55-7626df6f1c21")
 	)
 	(global_label "TOUCH_4"
 		(shape input)
@@ -14325,7 +14428,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Swadge_Parts:R_Potentiometer_US")
+		(lib_id "Swadge_Parts:R_Potentiometer_US_SMD")
 		(at 203.2 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14343,7 +14446,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_Potentiometer_US"
+		(property "Value" "R_Potentiometer_US_SMD"
 			(at 200.66 85.0899 0)
 			(effects
 				(font
@@ -14352,7 +14455,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Swadge_Parts:RK10J11E0034"
+		(property "Footprint" "Swadge_Parts:RK10J11R001Y"
 			(at 203.2 99.06 0)
 			(effects
 				(font
@@ -14361,7 +14464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_ALPSALPINE-RK10J11E002Y_C470644.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_ALPSALPINE-RK10J11R001Y_C470765.pdf"
 			(at 203.2 96.52 0)
 			(effects
 				(font
@@ -14370,7 +14473,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RK10J11E0034"
+		(property "Description" "RK10J11R001Y"
 			(at 203.2 83.82 0)
 			(effects
 				(font
@@ -14379,7 +14482,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C470644"
+		(property "LCSC" "C470765"
 			(at 203.2 101.6 0)
 			(effects
 				(font
@@ -14388,7 +14491,7 @@
 				(hide yes)
 			)
 		)
-		(property "Cost @ 2.5k" "0.4924"
+		(property "Cost @ 2.5k" "0.514"
 			(at 203.2 83.82 0)
 			(effects
 				(font
@@ -16199,6 +16302,70 @@
 			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Swadge_Parts:NULL")
+		(at 314.96 21.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "22e58635-488f-475f-8230-88baccde7472")
+		(property "Reference" "N1"
+			(at 318.77 20.3199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Acrylic Sausage"
+			(at 318.77 22.8599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Swadge_Hotdog:Sausage"
+			(at 314.96 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 314.96 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 314.96 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
+					(reference "N1")
 					(unit 1)
 				)
 			)
