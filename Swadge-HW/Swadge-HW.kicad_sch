@@ -5570,6 +5570,175 @@
 				)
 			)
 		)
+		(symbol "Swadge_Parts:QMC6309"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Swadge_Parts:BGA-4-.83x.83"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2203021830_QST-QMC6308_C462705.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Digikey" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost100" "0.2229"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Substitutable" "N"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C462705"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "QMC6309_1_1"
+				(rectangle
+					(start -5.08 2.54)
+					(end 5.08 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin bidirectional line
+					(at -7.62 1.27 0)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 7.62 1.27 180)
+					(length 2.54)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -7.62 -1.27 0)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 7.62 -1.27 180)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Swadge_Parts:Q_PMOS_GSD"
 			(pin_names
 				(offset 0) hide)
@@ -8787,6 +8956,12 @@
 		)
 	)
 	(junction
+		(at 261.62 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "019ab9d2-87e6-4d47-abde-8b83752f5199")
+	)
+	(junction
 		(at 60.96 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8823,7 +8998,7 @@
 		(uuid "2ac5b9ef-12de-49ff-afb1-053fed168cc7")
 	)
 	(junction
-		(at 280.67 113.03)
+		(at 314.96 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2ad887c4-edf2-4b34-99fe-c37041768362")
@@ -8835,7 +9010,7 @@
 		(uuid "2d81a2ae-4ae6-4c3f-8a71-4ca603e96439")
 	)
 	(junction
-		(at 260.35 113.03)
+		(at 294.64 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2ff9b615-c18c-4a35-b54e-9b0d428cc478")
@@ -8859,7 +9034,7 @@
 		(uuid "370a2fd6-54b4-47c5-b48e-83e7f0d10bba")
 	)
 	(junction
-		(at 213.36 118.11)
+		(at 205.74 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3f6039b3-e57b-4132-8f0a-97b6229356bf")
@@ -8877,7 +9052,7 @@
 		(uuid "48c2bae8-903e-4cc5-a968-b8cf746ced89")
 	)
 	(junction
-		(at 257.81 152.4)
+		(at 293.37 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "511789f4-447a-4a20-a755-36de971f6251")
@@ -8937,7 +9112,7 @@
 		(uuid "6fede8c7-94ea-4ceb-a02f-bbc0e20c4fdf")
 	)
 	(junction
-		(at 294.64 113.03)
+		(at 328.93 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "71f84fb6-f635-4a65-b522-cbdc9c60cce0")
@@ -8991,7 +9166,7 @@
 		(uuid "8ec8c01d-e2b2-41e1-ae80-88aa47976554")
 	)
 	(junction
-		(at 274.32 121.92)
+		(at 308.61 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a9fec83b-d562-46a8-9432-a60240026e4f")
@@ -9039,7 +9214,7 @@
 		(uuid "c320f1ba-43e1-4447-82d1-0425b09d9062")
 	)
 	(junction
-		(at 215.9 118.11)
+		(at 208.28 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c3370b3e-2bd9-4bac-9190-c281a68afa11")
@@ -9081,7 +9256,7 @@
 		(uuid "e2057dfa-5ebc-434e-954a-f932f9f87408")
 	)
 	(junction
-		(at 265.43 113.03)
+		(at 299.72 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e75e3c22-87b1-4daf-9c1a-4da34458c946")
@@ -9127,15 +9302,15 @@
 		(uuid "16b96bee-63f6-4211-b62e-656759e567be")
 	)
 	(no_connect
-		(at 210.82 110.49)
+		(at 203.2 113.03)
 		(uuid "19315523-7313-4567-ac86-c4a938f0f21e")
 	)
 	(no_connect
-		(at 190.5 118.11)
+		(at 182.88 120.65)
 		(uuid "28d37e76-b54e-4e00-ab9c-e265918dba1c")
 	)
 	(no_connect
-		(at 210.82 113.03)
+		(at 203.2 115.57)
 		(uuid "2be3fb26-b580-493d-a26a-a3e9dbd4478b")
 	)
 	(no_connect
@@ -9151,7 +9326,7 @@
 		(uuid "55018369-fd5a-4e42-a142-b0ded8f47b79")
 	)
 	(no_connect
-		(at 210.82 115.57)
+		(at 203.2 118.11)
 		(uuid "606ca12a-81aa-4936-9a87-4e721621ae81")
 	)
 	(no_connect
@@ -9168,7 +9343,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 154.94) (xy 273.05 154.94)
+			(xy 308.61 154.94) (xy 307.34 154.94)
 		)
 		(stroke
 			(width 0)
@@ -9238,7 +9413,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 127) (xy 274.32 121.92)
+			(xy 308.61 127) (xy 308.61 121.92)
 		)
 		(stroke
 			(width 0)
@@ -9358,7 +9533,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 156.21) (xy 257.81 152.4)
+			(xy 293.37 152.4) (xy 293.37 156.21)
 		)
 		(stroke
 			(width 0)
@@ -9488,7 +9663,17 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 113.03) (xy 295.91 113.03)
+			(xy 261.62 123.19) (xy 260.35 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "279f50e5-04e4-4a95-a671-fe52add53298")
+	)
+	(wire
+		(pts
+			(xy 328.93 113.03) (xy 330.2 113.03)
 		)
 		(stroke
 			(width 0)
@@ -9668,7 +9853,7 @@
 	)
 	(polyline
 		(pts
-			(xy 267.97 104.14) (xy 267.97 100.33)
+			(xy 302.26 104.14) (xy 302.26 100.33)
 		)
 		(stroke
 			(width 0)
@@ -9718,7 +9903,7 @@
 	)
 	(polyline
 		(pts
-			(xy 251.46 104.14) (xy 267.97 104.14)
+			(xy 287.02 104.14) (xy 302.26 104.14)
 		)
 		(stroke
 			(width 0)
@@ -9728,7 +9913,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 113.03) (xy 265.43 113.03)
+			(xy 294.64 113.03) (xy 299.72 113.03)
 		)
 		(stroke
 			(width 0)
@@ -9766,9 +9951,19 @@
 		)
 		(uuid "5638272e-c9f7-4e37-9c57-4b40be385e87")
 	)
+	(wire
+		(pts
+			(xy 279.4 116.84) (xy 279.4 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56d35094-3993-442e-a3fc-32b0f6dffba8")
+	)
 	(polyline
 		(pts
-			(xy 251.46 137.16) (xy 262.89 137.16)
+			(xy 287.02 137.16) (xy 297.18 137.16)
 		)
 		(stroke
 			(width 0)
@@ -9778,7 +9973,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 128.27) (xy 198.12 125.73)
+			(xy 190.5 130.81) (xy 190.5 128.27)
 		)
 		(stroke
 			(width 0)
@@ -9848,7 +10043,7 @@
 	)
 	(wire
 		(pts
-			(xy 280.67 113.03) (xy 281.94 113.03)
+			(xy 314.96 113.03) (xy 316.23 113.03)
 		)
 		(stroke
 			(width 0)
@@ -9918,6 +10113,16 @@
 	)
 	(wire
 		(pts
+			(xy 279.4 120.65) (xy 278.13 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a3c21ba-749d-4780-9c17-ede71d725ddc")
+	)
+	(wire
+		(pts
 			(xy 156.21 166.37) (xy 156.21 167.64)
 		)
 		(stroke
@@ -9978,7 +10183,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 113.03) (xy 265.43 121.92)
+			(xy 299.72 113.03) (xy 299.72 121.92)
 		)
 		(stroke
 			(width 0)
@@ -10048,6 +10253,16 @@
 	)
 	(wire
 		(pts
+			(xy 279.4 123.19) (xy 278.13 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ad3a5bb-41f6-4fee-98a8-4fbae6c1a69b")
+	)
+	(wire
+		(pts
 			(xy 82.55 138.43) (xy 83.82 138.43)
 		)
 		(stroke
@@ -10085,6 +10300,16 @@
 			(type default)
 		)
 		(uuid "80b0d493-cc4f-42c8-8edd-02fddf16dd02")
+	)
+	(wire
+		(pts
+			(xy 279.4 123.19) (xy 279.4 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80f40f36-ba92-4637-bda0-75f5d7a2bd4b")
 	)
 	(polyline
 		(pts
@@ -10136,6 +10361,16 @@
 		)
 		(uuid "822bebf3-1c32-4165-b55a-5aa05cb0bf19")
 	)
+	(polyline
+		(pts
+			(xy 269.24 104.14) (xy 269.24 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "826251d5-6aba-44b9-878d-c0be029e6613")
+	)
 	(wire
 		(pts
 			(xy 53.34 171.45) (xy 53.34 176.53)
@@ -10158,6 +10393,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 138.43) (xy 261.62 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89bfb093-716c-4c8c-9721-c43ba862a428")
+	)
+	(wire
+		(pts
 			(xy 27.94 22.86) (xy 24.13 22.86)
 		)
 		(stroke
@@ -10168,7 +10413,7 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 114.3) (xy 294.64 113.03)
+			(xy 328.93 114.3) (xy 328.93 113.03)
 		)
 		(stroke
 			(width 0)
@@ -10208,7 +10453,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 118.11) (xy 213.36 118.11)
+			(xy 203.2 120.65) (xy 205.74 120.65)
 		)
 		(stroke
 			(width 0)
@@ -10228,7 +10473,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 118.11) (xy 215.9 118.11)
+			(xy 205.74 120.65) (xy 208.28 120.65)
 		)
 		(stroke
 			(width 0)
@@ -10238,7 +10483,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 100.33) (xy 203.2 102.87)
+			(xy 195.58 102.87) (xy 195.58 105.41)
 		)
 		(stroke
 			(width 0)
@@ -10328,7 +10573,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 118.11) (xy 220.98 118.11)
+			(xy 208.28 120.65) (xy 213.36 120.65)
 		)
 		(stroke
 			(width 0)
@@ -10358,7 +10603,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 113.03) (xy 294.64 113.03)
+			(xy 323.85 113.03) (xy 328.93 113.03)
 		)
 		(stroke
 			(width 0)
@@ -10498,7 +10743,7 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 149.86) (xy 275.59 149.86)
+			(xy 307.34 149.86) (xy 309.88 149.86)
 		)
 		(stroke
 			(width 0)
@@ -10548,7 +10793,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 121.92) (xy 274.32 120.65)
+			(xy 308.61 121.92) (xy 308.61 120.65)
 		)
 		(stroke
 			(width 0)
@@ -10558,7 +10803,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 111.76) (xy 260.35 113.03)
+			(xy 294.64 111.76) (xy 294.64 113.03)
 		)
 		(stroke
 			(width 0)
@@ -10636,6 +10881,16 @@
 		)
 		(uuid "bf123943-9464-498b-bb49-29905bbf3955")
 	)
+	(wire
+		(pts
+			(xy 262.89 120.65) (xy 260.35 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf8a9d69-2bcd-496f-ab3f-c36cdacd14c9")
+	)
 	(polyline
 		(pts
 			(xy 175.26 16.51) (xy 189.23 16.51)
@@ -10708,7 +10963,7 @@
 	)
 	(wire
 		(pts
-			(xy 280.67 113.03) (xy 279.4 113.03)
+			(xy 314.96 113.03) (xy 313.69 113.03)
 		)
 		(stroke
 			(width 0)
@@ -10758,6 +11013,16 @@
 	)
 	(wire
 		(pts
+			(xy 279.4 133.35) (xy 279.4 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd00a66e-a689-43d4-8666-6319e057645c")
+	)
+	(wire
+		(pts
 			(xy 156.21 185.42) (xy 156.21 186.69)
 		)
 		(stroke
@@ -10798,7 +11063,7 @@
 	)
 	(polyline
 		(pts
-			(xy 262.89 137.16) (xy 262.89 133.35)
+			(xy 297.18 137.16) (xy 297.18 133.35)
 		)
 		(stroke
 			(width 0)
@@ -10818,7 +11083,7 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 121.92) (xy 274.32 121.92)
+			(xy 307.34 121.92) (xy 308.61 121.92)
 		)
 		(stroke
 			(width 0)
@@ -10848,6 +11113,16 @@
 	)
 	(wire
 		(pts
+			(xy 262.89 123.19) (xy 261.62 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8b8c076-65f8-4a56-a38d-2cca80424052")
+	)
+	(wire
+		(pts
 			(xy 55.88 162.56) (xy 53.34 162.56)
 		)
 		(stroke
@@ -10868,7 +11143,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 152.4) (xy 262.89 152.4)
+			(xy 293.37 152.4) (xy 297.18 152.4)
 		)
 		(stroke
 			(width 0)
@@ -10886,9 +11161,19 @@
 		)
 		(uuid "e200a278-6ea0-4161-a2a9-9bfa492a216f")
 	)
+	(polyline
+		(pts
+			(xy 251.46 104.14) (xy 269.24 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2070caa-d115-40b9-9d44-ecd7095e2c8c")
+	)
 	(wire
 		(pts
-			(xy 294.64 121.92) (xy 294.64 123.19)
+			(xy 328.93 121.92) (xy 328.93 123.19)
 		)
 		(stroke
 			(width 0)
@@ -10915,6 +11200,16 @@
 			(type default)
 		)
 		(uuid "e885ce88-172d-4d22-8288-b529f7ea4805")
+	)
+	(wire
+		(pts
+			(xy 261.62 123.19) (xy 261.62 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8b62a2c-1c26-4a11-91d9-6e2a156a4882")
 	)
 	(wire
 		(pts
@@ -11058,7 +11353,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 113.03) (xy 269.24 113.03)
+			(xy 299.72 113.03) (xy 303.53 113.03)
 		)
 		(stroke
 			(width 0)
@@ -11149,8 +11444,8 @@
 		(uuid 0428e0f3-bf7d-447e-b108-45c9df8ba004)
 	)
 	(rectangle
-		(start 251.46 133.35)
-		(end 308.61 171.45)
+		(start 287.02 133.35)
+		(end 342.9 171.45)
 		(stroke
 			(width 0)
 			(type default)
@@ -11161,8 +11456,8 @@
 		(uuid 2f229825-d54e-4c5f-ad13-9acb9b19fb79)
 	)
 	(rectangle
-		(start 251.46 100.33)
-		(end 308.61 132.08)
+		(start 287.02 100.33)
+		(end 342.9 132.08)
 		(stroke
 			(width 0)
 			(type default)
@@ -11219,6 +11514,18 @@
 			(type none)
 		)
 		(uuid 4fe8326e-7d07-4cbe-86a6-9d6b505bc76e)
+	)
+	(rectangle
+		(start 251.46 100.33)
+		(end 285.75 148.59)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 54c5384d-abc3-4ab8-9607-0f7a047dc5ac)
 	)
 	(rectangle
 		(start 62.23 86.36)
@@ -11352,7 +11659,7 @@
 	)
 	(text "TFT LDOs"
 		(exclude_from_sim no)
-		(at 252.73 135.89 0)
+		(at 287.02 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11363,7 +11670,7 @@
 	)
 	(text "P-Mode Buck"
 		(exclude_from_sim no)
-		(at 274.32 104.14 0)
+		(at 308.61 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11404,9 +11711,9 @@
 		)
 		(uuid "4c5d0452-dd7b-4222-9ad9-144da512d19e")
 	)
-	(text "LSM6DS3 = 0x6a\nQMC6308 = 0x2c"
+	(text "LSM6DS3 = 0x6a\nQMC6309 = 0x7c"
 		(exclude_from_sim no)
-		(at 213.36 100.33 0)
+		(at 195.58 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11447,6 +11754,17 @@
 			(justify right bottom)
 		)
 		(uuid "624b3fc3-88af-4d45-8549-3f87e2c97b28")
+	)
+	(text "qmc6309"
+		(exclude_from_sim no)
+		(at 252.73 102.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "658e3093-c0e4-4801-bd49-9597383cb4b6")
 	)
 	(text "ESP32-S2"
 		(exclude_from_sim no)
@@ -11494,7 +11812,7 @@
 	)
 	(text "TFT LED Driver"
 		(exclude_from_sim no)
-		(at 252.73 102.87 0)
+		(at 287.02 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11614,6 +11932,28 @@
 		(uuid "0679b6d1-9369-4586-8e2a-8a6b97e97b6b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 206.5807 189.3094 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 279.4 120.65 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0737eb7d-fffd-4ea6-a710-76cdb2a7c5eb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 285.8928 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11823,7 +12163,7 @@
 	)
 	(global_label "TFTATP"
 		(shape input)
-		(at 274.32 127 0)
+		(at 308.61 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11833,7 +12173,7 @@
 		)
 		(uuid "24ea24be-a8d6-41ae-ba76-a07060c5947b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 283.0831 127.0794 0)
+			(at 317.3731 127.0794 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12175,7 +12515,7 @@
 	)
 	(global_label "TFT_LEDA"
 		(shape input)
-		(at 295.91 113.03 0)
+		(at 330.2 113.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12185,7 +12525,7 @@
 		)
 		(uuid "5260dade-7365-4fb7-a53c-4e37742f7a98")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 306.8502 112.9506 0)
+			(at 341.1402 112.9506 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12461,7 +12801,7 @@
 	)
 	(global_label "LCD28"
 		(shape input)
-		(at 275.59 149.86 0)
+		(at 309.88 149.86 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12471,7 +12811,7 @@
 		)
 		(uuid "74f3a438-b923-4eab-b481-9c6fe1974e34")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 283.9902 149.9394 0)
+			(at 318.2802 149.9394 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12725,7 +13065,7 @@
 	)
 	(global_label "SCL"
 		(shape input)
-		(at 200.66 102.87 90)
+		(at 193.04 105.41 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12735,7 +13075,7 @@
 		)
 		(uuid "a4f45414-427f-4407-8252-4d151537ed66")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 200.66 96.3772 90)
+			(at 193.04 98.9172 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12747,7 +13087,7 @@
 	)
 	(global_label "LCD28"
 		(shape input)
-		(at 298.45 146.05 180)
+		(at 332.74 146.05 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12757,7 +13097,7 @@
 		)
 		(uuid "a97892b7-abfa-40ab-8d93-b5dedb7fe431")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 290.0498 145.9706 0)
+			(at 324.3398 145.9706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13099,7 +13439,7 @@
 	)
 	(global_label "SDA"
 		(shape input)
-		(at 198.12 102.87 90)
+		(at 190.5 105.41 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13109,7 +13449,7 @@
 		)
 		(uuid "cf46b6cc-9e5e-42a0-ae99-e1223344d92f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 198.12 96.3167 90)
+			(at 190.5 98.8567 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13330,6 +13670,28 @@
 		(uuid "ec6db3a8-508e-4887-b8f2-1e0edc706b7f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 102.2593 73.5806 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 279.4 123.19 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "eebb0715-9505-4df6-9969-36e252cf3b5a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 285.9533 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14107,7 +14469,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
-		(at 231.14 125.73 0)
+		(at 223.52 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14115,7 +14477,7 @@
 		(dnp no)
 		(uuid "03d9ac38-0448-4869-9334-54ac277f411c")
 		(property "Reference" "#PWR064"
-			(at 231.14 132.08 0)
+			(at 223.52 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14124,7 +14486,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 227.33 128.27 0)
+			(at 219.71 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14132,7 +14494,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 231.14 125.73 0)
+			(at 223.52 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14141,7 +14503,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.14 125.73 0)
+			(at 223.52 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14150,7 +14512,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 231.14 125.73 0)
+			(at 223.52 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14237,7 +14599,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:Q_PMOS_GSD")
-		(at 274.32 115.57 270)
+		(at 308.61 115.57 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14246,7 +14608,7 @@
 		(dnp no)
 		(uuid "0a3d4ab5-f33f-44ec-87c9-097cd3cbb371")
 		(property "Reference" "Q1"
-			(at 273.05 106.68 90)
+			(at 307.34 106.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14255,7 +14617,7 @@
 			)
 		)
 		(property "Value" "Q_PMOS_GSD"
-			(at 265.43 109.22 90)
+			(at 299.72 109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14264,7 +14626,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:SOT-23"
-			(at 276.86 110.49 0)
+			(at 311.15 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14273,7 +14635,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2104011233_ALLPOWER-ShenZhen-Quan-Li-Semiconductor-AP2301B_C2763847.pdf"
-			(at 274.32 115.57 0)
+			(at 308.61 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14282,7 +14644,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 274.32 115.57 0)
+			(at 308.61 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14291,7 +14653,7 @@
 			)
 		)
 		(property "LCSC" "C2763847"
-			(at 274.32 115.57 0)
+			(at 308.61 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14300,7 +14662,7 @@
 			)
 		)
 		(property "Cost100" "1.54"
-			(at 274.32 115.57 0)
+			(at 308.61 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14309,7 +14671,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 274.32 115.57 0)
+			(at 308.61 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14318,7 +14680,7 @@
 			)
 		)
 		(property "Substitutable" "Y"
-			(at 274.32 115.57 0)
+			(at 308.61 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14327,7 +14689,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 274.32 115.57 0)
+			(at 308.61 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14336,7 +14698,7 @@
 			)
 		)
 		(property "Cost @ 2.5k" "0.0226"
-			(at 274.32 115.57 0)
+			(at 308.61 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14364,7 +14726,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
-		(at 294.64 123.19 0)
+		(at 328.93 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14372,7 +14734,7 @@
 		(dnp no)
 		(uuid "0ca6b800-cbbf-40c2-9292-b27a750a6bca")
 		(property "Reference" "#PWR0110"
-			(at 294.64 129.54 0)
+			(at 328.93 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14381,7 +14743,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 297.815 125.095 0)
+			(at 332.105 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14389,7 +14751,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 294.64 123.19 0)
+			(at 328.93 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14398,7 +14760,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 294.64 123.19 0)
+			(at 328.93 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14407,7 +14769,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 294.64 123.19 0)
+			(at 328.93 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14874,7 +15236,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
-		(at 190.5 110.49 270)
+		(at 182.88 113.03 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14882,7 +15244,7 @@
 		(dnp no)
 		(uuid "16f948fc-b60c-4b85-9872-4e78833416d1")
 		(property "Reference" "#PWR050"
-			(at 184.15 110.49 0)
+			(at 176.53 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14891,7 +15253,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 185.674 110.744 90)
+			(at 178.054 113.284 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14899,7 +15261,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 190.5 110.49 0)
+			(at 182.88 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14908,7 +15270,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 110.49 0)
+			(at 182.88 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14917,7 +15279,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 190.5 110.49 0)
+			(at 182.88 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14939,7 +15301,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
-		(at 298.45 153.67 0)
+		(at 332.74 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14947,7 +15309,7 @@
 		(dnp no)
 		(uuid "1802f325-ed2c-4a33-9b6a-273f9519d126")
 		(property "Reference" "#PWR098"
-			(at 298.45 160.02 0)
+			(at 332.74 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14956,7 +15318,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 298.577 158.0642 0)
+			(at 332.867 158.0642 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14964,7 +15326,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 298.45 153.67 0)
+			(at 332.74 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14973,7 +15335,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 298.45 153.67 0)
+			(at 332.74 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14982,7 +15344,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 298.45 153.67 0)
+			(at 332.74 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15197,7 +15559,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:R_US")
-		(at 215.9 114.3 180)
+		(at 208.28 116.84 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15205,7 +15567,7 @@
 		(dnp no)
 		(uuid "1a847fe9-1e9c-4bf7-89cc-c3c82cffdcc9")
 		(property "Reference" "R8"
-			(at 213.36 116.84 90)
+			(at 205.74 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15213,7 +15575,7 @@
 			)
 		)
 		(property "Value" "33Ω"
-			(at 213.36 111.76 90)
+			(at 205.74 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15221,7 +15583,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:R_0603_1608Metric"
-			(at 214.884 114.046 90)
+			(at 207.264 116.586 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15230,7 +15592,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 215.9 114.3 0)
+			(at 208.28 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15239,7 +15601,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 215.9 114.3 0)
+			(at 208.28 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15248,7 +15610,7 @@
 			)
 		)
 		(property "Cost100" "10"
-			(at 259.08 -11.43 0)
+			(at 251.46 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15257,7 +15619,7 @@
 			)
 		)
 		(property "Digikey" "~"
-			(at 259.08 -11.43 0)
+			(at 251.46 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15266,7 +15628,7 @@
 			)
 		)
 		(property "Substitutable" "Y"
-			(at 259.08 -11.43 0)
+			(at 251.46 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15275,7 +15637,7 @@
 			)
 		)
 		(property "LCSC" "C23140"
-			(at 215.9 114.3 0)
+			(at 208.28 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15284,7 +15646,7 @@
 			)
 		)
 		(property "Cost @ 2.5k" "0.0008"
-			(at 215.9 114.3 0)
+			(at 208.28 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15865,6 +16227,118 @@
 			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Swadge_Parts:R_US")
+		(at 279.4 113.03 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1d373ae3-91c0-4ae7-bcc8-5d02a613b8f9")
+		(property "Reference" "R18"
+			(at 276.86 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47kΩ"
+			(at 276.86 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Swadge_Parts:R_0603_1608Metric"
+			(at 278.384 112.776 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 279.4 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 279.4 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost100" "10"
+			(at 322.58 -12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "~"
+			(at 322.58 -12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Substitutable" "Y"
+			(at 322.58 -12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23140"
+			(at 279.4 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0008"
+			(at 279.4 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "18aacec0-7ac4-412b-9750-0f8aa21f781d")
+		)
+		(pin "2"
+			(uuid "a02ca89e-96ae-44a2-8df1-2b5300e22216")
+		)
+		(instances
+			(project "Swadge-HW"
+				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -16748,7 +17222,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
-		(at 280.67 120.65 0)
+		(at 314.96 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16756,7 +17230,7 @@
 		(dnp no)
 		(uuid "3340d5dd-fe62-4c58-b4aa-eb8dc115fb06")
 		(property "Reference" "#PWR049"
-			(at 280.67 127 0)
+			(at 314.96 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16765,7 +17239,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 284.48 122.555 0)
+			(at 318.77 122.555 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16773,7 +17247,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 280.67 120.65 0)
+			(at 314.96 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16782,7 +17256,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 280.67 120.65 0)
+			(at 314.96 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16791,7 +17265,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 280.67 120.65 0)
+			(at 314.96 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16943,7 +17417,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
-		(at 203.2 125.73 0)
+		(at 195.58 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16951,7 +17425,7 @@
 		(dnp no)
 		(uuid "371f33e3-12e7-41b2-abce-8d250b9d4221")
 		(property "Reference" "#PWR039"
-			(at 203.2 132.08 0)
+			(at 195.58 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16960,7 +17434,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 203.454 130.556 90)
+			(at 195.834 133.096 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16968,7 +17442,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 203.2 125.73 0)
+			(at 195.58 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16977,7 +17451,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 125.73 0)
+			(at 195.58 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16986,7 +17460,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 203.2 125.73 0)
+			(at 195.58 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17008,7 +17482,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
-		(at 274.32 154.94 0)
+		(at 308.61 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17016,7 +17490,7 @@
 		(dnp no)
 		(uuid "38feac34-9e3d-4f83-a713-52f53406c789")
 		(property "Reference" "#PWR067"
-			(at 274.32 161.29 0)
+			(at 308.61 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17025,7 +17499,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 274.32 158.75 0)
+			(at 308.61 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17033,7 +17507,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 274.32 154.94 0)
+			(at 308.61 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17042,7 +17516,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 274.32 154.94 0)
+			(at 308.61 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17051,7 +17525,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 274.32 154.94 0)
+			(at 308.61 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17073,7 +17547,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:+3.3V")
-		(at 257.81 152.4 0)
+		(at 293.37 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17081,7 +17555,7 @@
 		(dnp no)
 		(uuid "3a802ac8-4281-42eb-b50a-fd87f809f688")
 		(property "Reference" "#PWR0111"
-			(at 257.81 156.21 0)
+			(at 293.37 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17090,7 +17564,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 258.191 148.0058 0)
+			(at 293.751 148.0058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17098,7 +17572,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 257.81 152.4 0)
+			(at 293.37 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17107,7 +17581,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 257.81 152.4 0)
+			(at 293.37 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17116,7 +17590,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 257.81 152.4 0)
+			(at 293.37 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17437,7 +17911,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:L")
-		(at 285.75 113.03 90)
+		(at 320.04 113.03 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17445,7 +17919,7 @@
 		(dnp no)
 		(uuid "3e011cdb-c151-46b2-9f97-ba78518661fd")
 		(property "Reference" "L1"
-			(at 285.75 114.3 90)
+			(at 320.04 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17453,7 +17927,7 @@
 			)
 		)
 		(property "Value" "33uH_500mA"
-			(at 285.75 111.125 90)
+			(at 320.04 111.125 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17461,7 +17935,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:L_1210_3225Metric"
-			(at 285.75 113.03 0)
+			(at 320.04 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17470,7 +17944,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 285.75 113.03 0)
+			(at 320.04 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17479,7 +17953,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 285.75 113.03 0)
+			(at 320.04 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17488,7 +17962,7 @@
 			)
 		)
 		(property "LCSC" "C90317"
-			(at 285.75 113.03 90)
+			(at 320.04 113.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17497,7 +17971,7 @@
 			)
 		)
 		(property "Cost100" "11.16"
-			(at 285.75 113.03 90)
+			(at 320.04 113.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17506,7 +17980,7 @@
 			)
 		)
 		(property "Substitutable" "Y"
-			(at 285.75 113.03 0)
+			(at 320.04 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17515,7 +17989,7 @@
 			)
 		)
 		(property "Digikey" "~"
-			(at 285.75 113.03 0)
+			(at 320.04 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17524,7 +17998,7 @@
 			)
 		)
 		(property "Cost @ 2.5k" "0.0545"
-			(at 285.75 113.03 0)
+			(at 320.04 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17679,7 +18153,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
-		(at 257.81 163.83 0)
+		(at 293.37 163.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17687,7 +18161,7 @@
 		(dnp no)
 		(uuid "43b92a3f-692a-4caf-a813-58eb3ea9ce92")
 		(property "Reference" "#PWR063"
-			(at 257.81 170.18 0)
+			(at 293.37 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17696,7 +18170,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 257.81 167.64 0)
+			(at 293.37 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17704,7 +18178,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 257.81 163.83 0)
+			(at 293.37 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17713,7 +18187,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 257.81 163.83 0)
+			(at 293.37 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17722,7 +18196,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 257.81 163.83 0)
+			(at 293.37 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18160,7 +18634,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
-		(at 190.5 113.03 270)
+		(at 182.88 115.57 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18168,7 +18642,7 @@
 		(dnp no)
 		(uuid "492be32b-2592-42be-b13d-43b22543c161")
 		(property "Reference" "#PWR055"
-			(at 184.15 113.03 0)
+			(at 176.53 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18177,7 +18651,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 185.674 113.284 90)
+			(at 178.054 115.824 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18185,7 +18659,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 190.5 113.03 0)
+			(at 182.88 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18194,7 +18668,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 113.03 0)
+			(at 182.88 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18203,7 +18677,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 190.5 113.03 0)
+			(at 182.88 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18527,6 +19001,71 @@
 			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Swadge_Parts:+3V3")
+		(at 279.4 135.89 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4f03eeeb-0604-4cf3-b016-c4ca38217730")
+		(property "Reference" "#PWR072"
+			(at 279.4 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 279.146 139.954 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 279.4 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 279.4 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 279.4 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b061f20c-93f2-4ae1-841f-607506aaa7ba")
+		)
+		(instances
+			(project "Swadge-HW"
+				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -19347,7 +19886,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
-		(at 260.35 120.65 0)
+		(at 294.64 120.65 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19356,7 +19895,7 @@
 		(dnp no)
 		(uuid "5699e4e1-0c30-4dd5-b0ca-182f4d2dfe48")
 		(property "Reference" "#PWR057"
-			(at 260.35 127 0)
+			(at 294.64 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19365,7 +19904,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 260.223 125.0442 0)
+			(at 294.513 125.0442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19373,7 +19912,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 260.35 120.65 0)
+			(at 294.64 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19382,7 +19921,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 260.35 120.65 0)
+			(at 294.64 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19391,7 +19930,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 260.35 120.65 0)
+			(at 294.64 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19777,6 +20316,71 @@
 			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Swadge_Parts:+3V3")
+		(at 260.35 123.19 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6391678f-4eff-496a-acd7-fc31696e8b90")
+		(property "Reference" "#PWR069"
+			(at 264.16 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 255.016 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 260.35 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 260.35 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 260.35 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "45aaf1bd-ec81-4e24-9cb0-fbb0bd71e381")
+		)
+		(instances
+			(project "Swadge-HW"
+				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -21191,17 +21795,32 @@
 		)
 	)
 	(symbol
-		(lib_id "Swadge_Parts:+3.3V")
-		(at 260.35 111.76 0)
-		(mirror y)
+		(lib_id "Swadge_Parts:R_US")
+		(at 279.4 129.54 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "79b3b999-8e3f-4a52-818c-854037a0a9e9")
-		(property "Reference" "#PWR056"
-			(at 260.35 115.57 0)
+		(uuid "7993b83b-ed87-4f5a-97eb-12659d176256")
+		(property "Reference" "R6"
+			(at 276.86 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47kΩ"
+			(at 276.86 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Swadge_Parts:R_0603_1608Metric"
+			(at 278.384 129.286 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21209,25 +21828,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
-			(at 259.969 107.3658 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 260.35 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 260.35 111.76 0)
+		(property "Datasheet" "~"
+			(at 279.4 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21236,7 +21838,121 @@
 			)
 		)
 		(property "Description" ""
-			(at 260.35 111.76 0)
+			(at 279.4 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost100" "10"
+			(at 322.58 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "~"
+			(at 322.58 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Substitutable" "Y"
+			(at 322.58 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23140"
+			(at 279.4 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0008"
+			(at 279.4 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d15dd8eb-34b8-4b66-a8da-26e8e7f718a6")
+		)
+		(pin "2"
+			(uuid "1f3a8dfc-26b4-4fbf-946f-c3e94d3d7c03")
+		)
+		(instances
+			(project "Swadge-HW"
+				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Swadge_Parts:+3.3V")
+		(at 294.64 111.76 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "79b3b999-8e3f-4a52-818c-854037a0a9e9")
+		(property "Reference" "#PWR056"
+			(at 294.64 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 294.259 107.3658 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 294.64 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 294.64 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 294.64 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21257,35 +21973,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Swadge_Parts:D")
-		(at 280.67 116.84 270)
+		(lib_id "Swadge_Parts:GND")
+		(at 260.35 120.65 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7aa382d2-36e8-402a-91fd-c668940674aa")
-		(property "Reference" "D10"
-			(at 282.702 116.0053 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "D"
-			(at 282.702 118.5422 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Swadge_Parts:D_SMA"
-			(at 288.29 116.84 0)
+		(uuid "7a077b11-2cc4-452a-b04f-917c03e172fe")
+		(property "Reference" "#PWR068"
+			(at 254 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21293,8 +21990,25 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810192041_MDD-Microdiode-Electronics--SS54_C22452.pdf"
-			(at 280.67 116.84 0)
+		(property "Value" "GND"
+			(at 255.524 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 260.35 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 260.35 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21303,7 +22017,74 @@
 			)
 		)
 		(property "Description" ""
-			(at 280.67 116.84 0)
+			(at 260.35 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b8e49df5-cfca-4793-81cd-6284209e938b")
+		)
+		(instances
+			(project "Swadge-HW"
+				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
+					(reference "#PWR068")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Swadge_Parts:D")
+		(at 314.96 116.84 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7aa382d2-36e8-402a-91fd-c668940674aa")
+		(property "Reference" "D10"
+			(at 316.992 116.0053 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "D"
+			(at 316.992 118.5422 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Swadge_Parts:D_SMA"
+			(at 322.58 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810192041_MDD-Microdiode-Electronics--SS54_C22452.pdf"
+			(at 314.96 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 314.96 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21312,7 +22093,7 @@
 			)
 		)
 		(property "Digikey" "2616-GS1J-ND"
-			(at 285.75 116.84 0)
+			(at 320.04 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21321,7 +22102,7 @@
 			)
 		)
 		(property "Cost100" "9"
-			(at 290.83 116.84 0)
+			(at 325.12 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21330,7 +22111,7 @@
 			)
 		)
 		(property "Substitutable" "Y"
-			(at 293.37 116.84 0)
+			(at 327.66 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21339,7 +22120,7 @@
 			)
 		)
 		(property "LCSC" "C22452"
-			(at 280.67 116.84 0)
+			(at 314.96 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21348,7 +22129,7 @@
 			)
 		)
 		(property "Cost @ 2.5k" "0.0254"
-			(at 280.67 116.84 0)
+			(at 314.96 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21742,7 +22523,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:+3V3")
-		(at 198.12 128.27 90)
+		(at 190.5 130.81 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21750,7 +22531,7 @@
 		(dnp no)
 		(uuid "803f64c1-d875-4991-a31b-8d9485242d0d")
 		(property "Reference" "#PWR041"
-			(at 201.93 128.27 0)
+			(at 194.31 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21759,7 +22540,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 191.77 128.27 90)
+			(at 184.15 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21767,7 +22548,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 198.12 128.27 0)
+			(at 190.5 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21776,7 +22557,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 128.27 0)
+			(at 190.5 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21785,7 +22566,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 198.12 128.27 0)
+			(at 190.5 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21873,7 +22654,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:C")
-		(at 294.64 118.11 0)
+		(at 328.93 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21882,7 +22663,7 @@
 		(fields_autoplaced yes)
 		(uuid "83f3a2e6-bc58-49d2-8a7a-fbb669b33b0e")
 		(property "Reference" "C22"
-			(at 298.45 116.8399 0)
+			(at 332.74 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21891,7 +22672,7 @@
 			)
 		)
 		(property "Value" "22μF"
-			(at 298.45 119.3799 0)
+			(at 332.74 119.3799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21900,7 +22681,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:C_0603_1608Metric"
-			(at 295.6052 121.92 0)
+			(at 329.8952 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21909,7 +22690,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 294.64 118.11 0)
+			(at 328.93 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21918,7 +22699,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 294.64 118.11 0)
+			(at 328.93 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21927,7 +22708,7 @@
 			)
 		)
 		(property "Digikey" "~"
-			(at 297.815 113.03 0)
+			(at 332.105 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21936,7 +22717,7 @@
 			)
 		)
 		(property "Cost100" "10"
-			(at 294.64 118.11 0)
+			(at 328.93 118.11 0)
 			(effects
 				(font
 					(size 0.254 0.254)
@@ -21945,7 +22726,7 @@
 			)
 		)
 		(property "Substitutable" "Y"
-			(at 294.64 118.11 0)
+			(at 328.93 118.11 0)
 			(effects
 				(font
 					(size 0.001 0.001)
@@ -21954,7 +22735,7 @@
 			)
 		)
 		(property "LCSC" "C159801"
-			(at 294.64 118.11 0)
+			(at 328.93 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21963,7 +22744,7 @@
 			)
 		)
 		(property "Cost @ 2.5k" "0.0079"
-			(at 294.64 118.11 0)
+			(at 328.93 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22053,7 +22834,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:C")
-		(at 257.81 160.02 0)
+		(at 293.37 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22061,7 +22842,7 @@
 		(dnp no)
 		(uuid "8a62984f-c435-4c45-9359-f55dba83124e")
 		(property "Reference" "C16"
-			(at 252.73 156.972 0)
+			(at 288.29 156.972 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22070,7 +22851,7 @@
 			)
 		)
 		(property "Value" "0.1μF"
-			(at 251.714 162.56 0)
+			(at 287.274 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22079,7 +22860,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:C_0603_1608Metric"
-			(at 258.7752 163.83 0)
+			(at 294.3352 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22088,7 +22869,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 257.81 160.02 0)
+			(at 293.37 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22097,7 +22878,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 257.81 160.02 0)
+			(at 293.37 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22106,7 +22887,7 @@
 			)
 		)
 		(property "Cost100" "10"
-			(at 185.42 336.55 0)
+			(at 220.98 336.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22115,7 +22896,7 @@
 			)
 		)
 		(property "Digikey" "~"
-			(at 185.42 336.55 0)
+			(at 220.98 336.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22124,7 +22905,7 @@
 			)
 		)
 		(property "Substitutable" "Y"
-			(at 185.42 336.55 0)
+			(at 220.98 336.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22133,7 +22914,7 @@
 			)
 		)
 		(property "LCSC" "C282519"
-			(at 257.81 160.02 0)
+			(at 293.37 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22142,7 +22923,7 @@
 			)
 		)
 		(property "Cost @ 2.5k" "0.0015"
-			(at 257.81 160.02 0)
+			(at 293.37 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22167,7 +22948,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:+3V3")
-		(at 203.2 100.33 270)
+		(at 195.58 102.87 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22175,7 +22956,7 @@
 		(dnp no)
 		(uuid "8af56d52-ece5-4ac2-a007-d4fe2e536e30")
 		(property "Reference" "#PWR043"
-			(at 199.39 100.33 0)
+			(at 191.77 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22184,7 +22965,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 209.55 100.33 90)
+			(at 201.93 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22192,7 +22973,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 203.2 100.33 0)
+			(at 195.58 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22201,7 +22982,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 100.33 0)
+			(at 195.58 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22210,7 +22991,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 203.2 100.33 0)
+			(at 195.58 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22232,7 +23013,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:C")
-		(at 260.35 116.84 0)
+		(at 294.64 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22240,7 +23021,7 @@
 		(dnp no)
 		(uuid "8b00155a-d627-4739-bc92-824be8a3cc94")
 		(property "Reference" "C11"
-			(at 260.35 114.3 0)
+			(at 294.64 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22249,7 +23030,7 @@
 			)
 		)
 		(property "Value" "1μF"
-			(at 260.35 119.38 0)
+			(at 294.64 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22258,7 +23039,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:C_0603_1608Metric"
-			(at 261.3152 120.65 0)
+			(at 295.6052 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22267,7 +23048,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 260.35 116.84 0)
+			(at 294.64 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22276,7 +23057,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 260.35 116.84 0)
+			(at 294.64 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22285,7 +23066,7 @@
 			)
 		)
 		(property "Digikey" "~"
-			(at 263.525 111.76 0)
+			(at 297.815 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22294,7 +23075,7 @@
 			)
 		)
 		(property "Cost100" "10"
-			(at 260.35 116.84 0)
+			(at 294.64 116.84 0)
 			(effects
 				(font
 					(size 0.254 0.254)
@@ -22303,7 +23084,7 @@
 			)
 		)
 		(property "Substitutable" "Y"
-			(at 260.35 116.84 0)
+			(at 294.64 116.84 0)
 			(effects
 				(font
 					(size 0.001 0.001)
@@ -22312,7 +23093,7 @@
 			)
 		)
 		(property "LCSC" "C15849"
-			(at 260.35 116.84 0)
+			(at 294.64 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22321,7 +23102,7 @@
 			)
 		)
 		(property "Cost @ 2.5k" "0.0035"
-			(at 260.35 116.84 0)
+			(at 294.64 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22476,7 +23257,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
-		(at 213.36 125.73 0)
+		(at 205.74 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22484,7 +23265,7 @@
 		(dnp no)
 		(uuid "8f2d7e3d-1774-4e4d-afb1-f0920a91195e")
 		(property "Reference" "#PWR078"
-			(at 213.36 132.08 0)
+			(at 205.74 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22493,7 +23274,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 213.36 129.54 0)
+			(at 205.74 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22501,7 +23282,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 213.36 125.73 0)
+			(at 205.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22510,7 +23291,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 213.36 125.73 0)
+			(at 205.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22519,7 +23300,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 213.36 125.73 0)
+			(at 205.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23307,6 +24088,120 @@
 			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "#PWR074")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Swadge_Parts:C")
+		(at 261.62 134.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9458e7a6-0f6d-4bf4-a25f-d12ecb8034eb")
+		(property "Reference" "C21"
+			(at 262.255 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.2μF"
+			(at 255.27 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Swadge_Parts:C_0603_1608Metric"
+			(at 262.5852 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 261.62 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 261.62 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost100" "10"
+			(at 189.23 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "~"
+			(at 189.23 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Substitutable" "Y"
+			(at 189.23 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C282519"
+			(at 261.62 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0015"
+			(at 261.62 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5d1c06dd-81ab-4ae2-b883-6a4c2c9f798e")
+		)
+		(pin "2"
+			(uuid "225c7191-5972-4652-b49d-3797ba6e1cf9")
+		)
+		(instances
+			(project "Swadge-HW"
+				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -24195,7 +25090,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:C")
-		(at 213.36 121.92 0)
+		(at 205.74 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24203,7 +25098,7 @@
 		(dnp no)
 		(uuid "a2ca3a86-00d5-43e7-9e9d-8167cf2af439")
 		(property "Reference" "C12"
-			(at 208.28 127 0)
+			(at 200.66 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24212,7 +25107,7 @@
 			)
 		)
 		(property "Value" "22μF"
-			(at 208.28 124.46 0)
+			(at 200.66 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24221,7 +25116,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:C_0603_1608Metric"
-			(at 214.3252 125.73 0)
+			(at 206.7052 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24230,7 +25125,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 213.36 121.92 0)
+			(at 205.74 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24239,7 +25134,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 213.36 121.92 0)
+			(at 205.74 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24248,7 +25143,7 @@
 			)
 		)
 		(property "Digikey" "~"
-			(at 216.535 116.84 0)
+			(at 208.915 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24257,7 +25152,7 @@
 			)
 		)
 		(property "Cost100" "10"
-			(at 213.36 121.92 0)
+			(at 205.74 124.46 0)
 			(effects
 				(font
 					(size 0.254 0.254)
@@ -24266,7 +25161,7 @@
 			)
 		)
 		(property "Substitutable" "Y"
-			(at 213.36 121.92 0)
+			(at 205.74 124.46 0)
 			(effects
 				(font
 					(size 0.001 0.001)
@@ -24275,7 +25170,7 @@
 			)
 		)
 		(property "LCSC" "C159801"
-			(at 213.36 121.92 0)
+			(at 205.74 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24284,7 +25179,7 @@
 			)
 		)
 		(property "Cost @ 2.5k" "0.0079"
-			(at 213.36 121.92 0)
+			(at 205.74 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24409,8 +25304,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "a3cf293f-2dbf-4395-8e48-3f0549322bbc")
 		(property "Reference" "D9"
 			(at 158.75 132.08 0)
@@ -24957,7 +25852,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:+3V3")
-		(at 231.14 118.11 0)
+		(at 223.52 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24965,7 +25860,7 @@
 		(dnp no)
 		(uuid "af605fc4-108a-468c-995f-12c69da5e334")
 		(property "Reference" "#PWR062"
-			(at 231.14 121.92 0)
+			(at 223.52 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24974,7 +25869,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 231.14 113.03 0)
+			(at 223.52 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24982,7 +25877,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 231.14 118.11 0)
+			(at 223.52 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24991,7 +25886,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.14 118.11 0)
+			(at 223.52 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25000,7 +25895,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 231.14 118.11 0)
+			(at 223.52 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25080,6 +25975,116 @@
 			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Swadge_Parts:QMC6309")
+		(at 270.51 121.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b413e381-3419-409b-8fc3-896fda842b74")
+		(property "Reference" "U10"
+			(at 270.51 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 270.51 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Swadge_Parts:BGA-4-.83x.83"
+			(at 270.51 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2405091102_QST-QMC6309_C5439871.pdf"
+			(at 270.51 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "3D MAGNETIC SENSOR 3V3"
+			(at 270.51 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 270.51 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost100" "0.2184"
+			(at 270.51 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Substitutable" "N"
+			(at 270.51 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5439871"
+			(at 270.51 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "B2"
+			(uuid "3cb8facb-baf8-498e-989d-19e2fc0dc44e")
+		)
+		(pin "A1"
+			(uuid "a0998f57-f07d-4a63-8297-a52e9e03d040")
+		)
+		(pin "A2"
+			(uuid "b781defd-ad12-4073-82e4-dcb9b8b1b34b")
+		)
+		(pin "B1"
+			(uuid "3cde40e8-7c0b-463e-a272-6f83dfbcadae")
+		)
+		(instances
+			(project ""
+				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -25329,7 +26334,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GENERIC_LDO_GOI")
-		(at 267.97 152.4 180)
+		(at 302.26 152.4 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25337,7 +26342,7 @@
 		(dnp no)
 		(uuid "b5405b1d-a44a-4398-b314-fb033a482e31")
 		(property "Reference" "U7"
-			(at 267.97 143.51 0)
+			(at 302.26 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25345,7 +26350,7 @@
 			)
 		)
 		(property "Value" "GENERIC_LDO_2.8"
-			(at 272.796 146.558 0)
+			(at 307.086 146.558 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25353,7 +26358,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:SOT-23"
-			(at 267.97 152.4 0)
+			(at 302.26 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25362,7 +26367,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110111830_UMW-Youtai-Semiconductor-Co---Ltd--XC6206P282MR_C347374.pdf"
-			(at 267.97 152.4 0)
+			(at 302.26 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25371,7 +26376,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 267.97 152.4 0)
+			(at 302.26 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25380,7 +26385,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 267.97 152.4 0)
+			(at 302.26 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25389,7 +26394,7 @@
 			)
 		)
 		(property "LCSC" "C347374"
-			(at 267.97 152.4 0)
+			(at 302.26 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25398,7 +26403,7 @@
 			)
 		)
 		(property "Substitutable" "Y"
-			(at 267.97 152.4 0)
+			(at 302.26 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25407,7 +26412,7 @@
 			)
 		)
 		(property "Cost @ 2.5k" "0.0123"
-			(at 267.97 152.4 0)
+			(at 302.26 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25879,8 +26884,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "b856e5a4-65e5-4f37-af5b-b3e3ef2e4299")
 		(property "Reference" "C8"
 			(at 165.1 124.46 0)
@@ -26523,7 +27528,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
-		(at 220.98 125.73 0)
+		(at 213.36 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26531,7 +27536,7 @@
 		(dnp no)
 		(uuid "bf9249c3-e707-4460-b2b5-b179c0042c28")
 		(property "Reference" "#PWR080"
-			(at 220.98 132.08 0)
+			(at 213.36 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26540,7 +27545,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 217.17 128.27 0)
+			(at 209.55 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26548,7 +27553,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 220.98 125.73 0)
+			(at 213.36 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26557,7 +27562,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.98 125.73 0)
+			(at 213.36 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26566,7 +27571,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 220.98 125.73 0)
+			(at 213.36 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26715,7 +27720,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:C")
-		(at 231.14 121.92 0)
+		(at 223.52 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26723,7 +27728,7 @@
 		(dnp no)
 		(uuid "c2fb6085-bfeb-409e-b53d-cce06c9e9e5a")
 		(property "Reference" "C10"
-			(at 231.775 116.84 0)
+			(at 224.155 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26732,7 +27737,7 @@
 			)
 		)
 		(property "Value" "0.1μF"
-			(at 224.79 124.46 0)
+			(at 217.17 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26741,7 +27746,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:C_0603_1608Metric"
-			(at 232.1052 125.73 0)
+			(at 224.4852 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26750,7 +27755,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 231.14 121.92 0)
+			(at 223.52 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26759,7 +27764,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 231.14 121.92 0)
+			(at 223.52 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26768,7 +27773,7 @@
 			)
 		)
 		(property "Cost100" "10"
-			(at 158.75 298.45 0)
+			(at 151.13 300.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26777,7 +27782,7 @@
 			)
 		)
 		(property "Digikey" "~"
-			(at 158.75 298.45 0)
+			(at 151.13 300.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26786,7 +27791,7 @@
 			)
 		)
 		(property "Substitutable" "Y"
-			(at 158.75 298.45 0)
+			(at 151.13 300.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26795,7 +27800,7 @@
 			)
 		)
 		(property "LCSC" "C282519"
-			(at 231.14 121.92 0)
+			(at 223.52 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26804,7 +27809,7 @@
 			)
 		)
 		(property "Cost @ 2.5k" "0.0015"
-			(at 231.14 121.92 0)
+			(at 223.52 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26957,6 +27962,71 @@
 		)
 	)
 	(symbol
+		(lib_id "Swadge_Parts:+3V3")
+		(at 279.4 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c80516bc-8e57-4bc3-9ca5-de074cc52a47")
+		(property "Reference" "#PWR076"
+			(at 279.4 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 279.146 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 279.4 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 279.4 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 279.4 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fcb3bd3f-b89b-4dea-b209-0b51ecfc19a4")
+		)
+		(instances
+			(project "Swadge-HW"
+				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
+					(reference "#PWR076")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Swadge_Parts:C")
 		(at 229.87 35.56 180)
 		(unit 1)
@@ -27072,7 +28142,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
-		(at 200.66 125.73 0)
+		(at 193.04 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27080,7 +28150,7 @@
 		(dnp no)
 		(uuid "ca33ab81-53d9-4ea0-8517-a7630b930b07")
 		(property "Reference" "#PWR038"
-			(at 200.66 132.08 0)
+			(at 193.04 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27089,7 +28159,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 200.914 130.556 90)
+			(at 193.294 133.096 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27097,7 +28167,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 200.66 125.73 0)
+			(at 193.04 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27106,7 +28176,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.66 125.73 0)
+			(at 193.04 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27115,7 +28185,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 200.66 125.73 0)
+			(at 193.04 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27493,7 +28563,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:C")
-		(at 298.45 149.86 0)
+		(at 332.74 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27501,7 +28571,7 @@
 		(dnp no)
 		(uuid "d0310562-c3fd-48e4-9212-09c60fd22663")
 		(property "Reference" "C19"
-			(at 298.45 147.32 0)
+			(at 332.74 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27510,7 +28580,7 @@
 			)
 		)
 		(property "Value" "1μF"
-			(at 298.45 152.4 0)
+			(at 332.74 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27519,7 +28589,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:C_0603_1608Metric"
-			(at 299.4152 153.67 0)
+			(at 333.7052 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27528,7 +28598,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 298.45 149.86 0)
+			(at 332.74 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27537,7 +28607,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 298.45 149.86 0)
+			(at 332.74 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27546,7 +28616,7 @@
 			)
 		)
 		(property "Digikey" "~"
-			(at 301.625 144.78 0)
+			(at 335.915 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27555,7 +28625,7 @@
 			)
 		)
 		(property "Cost100" "10"
-			(at 298.45 149.86 0)
+			(at 332.74 149.86 0)
 			(effects
 				(font
 					(size 0.254 0.254)
@@ -27564,7 +28634,7 @@
 			)
 		)
 		(property "Substitutable" "Y"
-			(at 298.45 149.86 0)
+			(at 332.74 149.86 0)
 			(effects
 				(font
 					(size 0.001 0.001)
@@ -27573,7 +28643,7 @@
 			)
 		)
 		(property "LCSC" "C15849"
-			(at 298.45 149.86 0)
+			(at 332.74 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27582,7 +28652,7 @@
 			)
 		)
 		(property "Cost @ 2.5k" "0.0035"
-			(at 298.45 149.86 0)
+			(at 332.74 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28139,6 +29209,71 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
+		(at 261.62 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d8086e0a-5d1a-46f5-b20d-0f638c018a9c")
+		(property "Reference" "#PWR071"
+			(at 261.62 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 261.62 144.526 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 261.62 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 261.62 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 261.62 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1d7416d9-8402-439e-8465-4701a4a5fe47")
+		)
+		(instances
+			(project "Swadge-HW"
+				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
+					(reference "#PWR071")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Swadge_Parts:GND")
 		(at 229.87 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -28326,7 +29461,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
-		(at 190.5 115.57 270)
+		(at 182.88 118.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28334,7 +29469,7 @@
 		(dnp no)
 		(uuid "e22d6bfe-1591-41ea-bcd6-8995813765d2")
 		(property "Reference" "#PWR061"
-			(at 184.15 115.57 0)
+			(at 176.53 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28343,7 +29478,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 185.674 115.824 90)
+			(at 178.054 118.364 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28351,7 +29486,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 190.5 115.57 0)
+			(at 182.88 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28360,7 +29495,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 115.57 0)
+			(at 182.88 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28369,7 +29504,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 190.5 115.57 0)
+			(at 182.88 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28457,7 +29592,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:C")
-		(at 220.98 121.92 0)
+		(at 213.36 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28465,7 +29600,7 @@
 		(dnp no)
 		(uuid "e3aa1db8-67b2-46a3-97e2-8ea53bede19e")
 		(property "Reference" "C13"
-			(at 221.615 116.84 0)
+			(at 213.995 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28474,7 +29609,7 @@
 			)
 		)
 		(property "Value" "0.1μF"
-			(at 214.63 124.46 0)
+			(at 207.01 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28483,7 +29618,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:C_0603_1608Metric"
-			(at 221.9452 125.73 0)
+			(at 214.3252 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28492,7 +29627,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 220.98 121.92 0)
+			(at 213.36 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28501,7 +29636,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 220.98 121.92 0)
+			(at 213.36 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28510,7 +29645,7 @@
 			)
 		)
 		(property "Cost100" "10"
-			(at 148.59 298.45 0)
+			(at 140.97 300.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28519,7 +29654,7 @@
 			)
 		)
 		(property "Digikey" "~"
-			(at 148.59 298.45 0)
+			(at 140.97 300.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28528,7 +29663,7 @@
 			)
 		)
 		(property "Substitutable" "Y"
-			(at 148.59 298.45 0)
+			(at 140.97 300.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28537,7 +29672,7 @@
 			)
 		)
 		(property "LCSC" "C282519"
-			(at 220.98 121.92 0)
+			(at 213.36 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28546,7 +29681,7 @@
 			)
 		)
 		(property "Cost @ 2.5k" "0.0015"
-			(at 220.98 121.92 0)
+			(at 213.36 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29254,7 +30389,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:+3V3")
-		(at 215.9 110.49 0)
+		(at 208.28 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29262,7 +30397,7 @@
 		(dnp no)
 		(uuid "efe49def-cb8e-49d0-a9ad-e335dc5d1d62")
 		(property "Reference" "#PWR042"
-			(at 215.9 114.3 0)
+			(at 208.28 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29271,7 +30406,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 215.9 104.14 90)
+			(at 208.28 106.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29279,7 +30414,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.9 110.49 0)
+			(at 208.28 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29288,7 +30423,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 110.49 0)
+			(at 208.28 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29297,7 +30432,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 215.9 110.49 0)
+			(at 208.28 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29384,7 +30519,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:R_US")
-		(at 269.24 121.92 90)
+		(at 303.53 121.92 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29392,7 +30527,7 @@
 		(dnp no)
 		(uuid "f230eb1b-8c73-4e94-b10d-cba2406c7c06")
 		(property "Reference" "R7"
-			(at 269.24 119.38 90)
+			(at 303.53 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29400,7 +30535,7 @@
 			)
 		)
 		(property "Value" "10kΩ"
-			(at 269.24 124.46 90)
+			(at 303.53 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29408,7 +30543,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:R_0603_1608Metric"
-			(at 269.494 120.904 90)
+			(at 303.784 120.904 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29417,7 +30552,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 269.24 119.38 90)
+			(at 303.53 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29426,7 +30561,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 269.24 121.92 0)
+			(at 303.53 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29435,7 +30570,7 @@
 			)
 		)
 		(property "Digikey" "~"
-			(at 266.7 116.84 90)
+			(at 300.99 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29444,7 +30579,7 @@
 			)
 		)
 		(property "Cost100" "10"
-			(at 269.24 121.92 0)
+			(at 303.53 121.92 0)
 			(effects
 				(font
 					(size 0.254 0.254)
@@ -29453,7 +30588,7 @@
 			)
 		)
 		(property "Substitutable" "Y"
-			(at 269.24 121.92 0)
+			(at 303.53 121.92 0)
 			(effects
 				(font
 					(size 0.254 0.254)
@@ -29462,7 +30597,7 @@
 			)
 		)
 		(property "LCSC" "C25804"
-			(at 269.24 121.92 0)
+			(at 303.53 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29471,7 +30606,7 @@
 			)
 		)
 		(property "Cost @ 2.5k" "0.0007"
-			(at 269.24 121.92 0)
+			(at 303.53 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29561,7 +30696,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:LSM6DS3TR-C")
-		(at 200.66 114.3 0)
+		(at 193.04 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29570,7 +30705,7 @@
 		(fields_autoplaced yes)
 		(uuid "f8f43320-ed6f-4589-8707-fffb1c2211b9")
 		(property "Reference" "U6"
-			(at 205.3941 103.8169 0)
+			(at 197.7741 106.3569 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29579,7 +30714,7 @@
 			)
 		)
 		(property "Value" "LSM6DSL"
-			(at 199.39 114.3 0)
+			(at 191.77 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29587,7 +30722,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y"
-			(at 200.66 114.3 0)
+			(at 193.04 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29596,7 +30731,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2102261805_STMicroelectronics-LSM6DS3TR-C_C967633.pdf"
-			(at 199.39 114.3 0)
+			(at 191.77 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29605,7 +30740,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 200.66 114.3 0)
+			(at 193.04 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29614,7 +30749,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 199.39 114.3 0)
+			(at 191.77 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29622,7 +30757,7 @@
 			)
 		)
 		(property "LCSC" "C967633"
-			(at 199.39 114.3 0)
+			(at 191.77 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29631,7 +30766,7 @@
 			)
 		)
 		(property "Cost @ 2.5k" "0.5171"
-			(at 200.66 114.3 0)
+			(at 193.04 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
