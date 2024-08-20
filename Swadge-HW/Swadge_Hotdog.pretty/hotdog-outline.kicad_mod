@@ -66,7 +66,7 @@
 			)
 		)
 	)
-	(attr smd)
+	(attr smd allow_missing_courtyard)
 	(fp_poly
 		(pts
 			(xy 73.990181 0.115238) (xy 77.227371 0.315867) (xy 80.648918 0.63579) (xy 81.071869 0.684592) (xy 84.184334 1.058739)
