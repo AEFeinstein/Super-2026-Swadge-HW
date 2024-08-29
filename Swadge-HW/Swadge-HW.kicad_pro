@@ -563,8 +563,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "Super-2025-Swadge-Hw-Rev-",
+      "pos_files": "Super-2025-Swadge-Hw-Rev-",
       "specctra_dsn": "",
       "step": "C:/Users/gelak/Desktop/Swadge-HW.step",
       "svg": "C:/Users/gelak/Desktop/",
@@ -590,12 +590,6 @@
       "exclude_dnp": true,
       "fields_ordered": [
         {
-          "group_by": false,
-          "label": "Reference",
-          "name": "Reference",
-          "show": true
-        },
-        {
           "group_by": true,
           "label": "Value",
           "name": "Value",
@@ -603,9 +597,15 @@
         },
         {
           "group_by": false,
+          "label": "Reference",
+          "name": "Reference",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -617,13 +617,13 @@
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -671,7 +671,7 @@
           "group_by": false,
           "label": "Cost @ 2.5k",
           "name": "Cost @ 2.5k",
-          "show": true
+          "show": false
         }
       ],
       "filter_string": "",
