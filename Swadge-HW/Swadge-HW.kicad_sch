@@ -14835,7 +14835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RK10J11R001Y"
+		(property "Description" "RK10J11R0A0L"
 			(at 203.2 83.82 0)
 			(effects
 				(font
@@ -14844,7 +14844,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C470765"
+		(property "LCSC" "C3020613"
 			(at 203.2 101.6 0)
 			(effects
 				(font
@@ -15316,7 +15316,7 @@
 				)
 			)
 		)
-		(property "Value" "10kΩ"
+		(property "Value" "5.1kΩ"
 			(at 281.94 113.03 90)
 			(effects
 				(font
@@ -15378,7 +15378,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25804"
+		(property "LCSC" "C23186"
 			(at 279.4 113.03 0)
 			(effects
 				(font
@@ -19901,7 +19901,7 @@
 				)
 			)
 		)
-		(property "Value" "10kΩ"
+		(property "Value" "5.1kΩ"
 			(at 281.94 129.54 90)
 			(effects
 				(font
@@ -19963,7 +19963,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25804"
+		(property "LCSC" "C23186"
 			(at 279.4 129.54 0)
 			(effects
 				(font
