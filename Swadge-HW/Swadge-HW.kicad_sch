@@ -25305,7 +25305,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board no)
-		(dnp yes)
+		(dnp no)
 		(uuid "a3cf293f-2dbf-4395-8e48-3f0549322bbc")
 		(property "Reference" "D9"
 			(at 158.75 132.08 0)
@@ -26885,7 +26885,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board no)
-		(dnp yes)
+		(dnp no)
 		(uuid "b856e5a4-65e5-4f37-af5b-b3e3ef2e4299")
 		(property "Reference" "C8"
 			(at 165.1 124.46 0)
@@ -28966,6 +28966,15 @@
 		)
 		(property "Cost @ 2.5k" "0.1825"
 			(at 209.55 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "DNP"
+			(at 419.1 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
