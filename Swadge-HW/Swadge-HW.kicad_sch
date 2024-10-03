@@ -748,6 +748,165 @@
 				)
 			)
 		)
+		(symbol "Device:C_Polarized_US"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.254) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Polarized_US"
+				(at 0.635 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Polarized capacitor, US symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CP_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_Polarized_US_0_1"
+				(polyline
+					(pts
+						(xy -2.032 0.762) (xy 2.032 0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 2.286) (xy -0.762 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.778) (xy -1.27 2.794)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.032 -1.27)
+					(mid 0 -0.5572)
+					(end -2.032 -1.27)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_Polarized_US_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 3.302)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Swadge_Parts:+3.3V"
 			(power)
 			(pin_names
@@ -9112,6 +9271,12 @@
 		(uuid "6fede8c7-94ea-4ceb-a02f-bbc0e20c4fdf")
 	)
 	(junction
+		(at 166.37 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "709d6a3a-6af2-4bd8-bbcf-52c7fe0e95f6")
+	)
+	(junction
 		(at 328.93 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9128,6 +9293,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "80727d10-12de-47b2-a93c-819b249d9b62")
+	)
+	(junction
+		(at 156.21 196.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80d2add1-f770-4ddc-aa88-782d285b90e5")
 	)
 	(junction
 		(at 82.55 194.31)
@@ -9510,6 +9681,16 @@
 			(type default)
 		)
 		(uuid "152ffccc-e37e-4ea0-b8a6-37720a93e301")
+	)
+	(wire
+		(pts
+			(xy 156.21 196.85) (xy 166.37 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "165a7c93-aa22-4bcf-bd28-eb5a5553911c")
 	)
 	(wire
 		(pts
@@ -10433,7 +10614,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 189.23) (xy 160.02 189.23)
+			(xy 156.21 189.23) (xy 166.37 189.23)
 		)
 		(stroke
 			(width 0)
@@ -11120,6 +11301,16 @@
 			(type default)
 		)
 		(uuid "d8b8c076-65f8-4a56-a38d-2cca80424052")
+	)
+	(wire
+		(pts
+			(xy 166.37 189.23) (xy 170.18 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da7007d0-d5fb-4233-832c-3b573eec6ef9")
 	)
 	(wire
 		(pts
@@ -14143,7 +14334,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:+3.3V")
-		(at 160.02 189.23 0)
+		(at 170.18 189.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14151,7 +14342,7 @@
 		(dnp no)
 		(uuid "01fd05c8-9a31-4a88-a520-a0542dd4a128")
 		(property "Reference" "#PWR033"
-			(at 160.02 193.04 0)
+			(at 170.18 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14160,7 +14351,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 162.814 189.23 0)
+			(at 165.862 187.198 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14168,7 +14359,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 160.02 189.23 0)
+			(at 170.18 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14177,7 +14368,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 189.23 0)
+			(at 170.18 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14186,7 +14377,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 160.02 189.23 0)
+			(at 170.18 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25304,7 +25495,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(uuid "a3cf293f-2dbf-4395-8e48-3f0549322bbc")
 		(property "Reference" "D9"
@@ -27586,6 +27777,120 @@
 			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "#PWR080")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_US")
+		(at 166.37 193.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c027fb56-6c2a-4af4-b564-2da0bfd4a8cd")
+		(property "Reference" "C26"
+			(at 167.005 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470μF"
+			(at 166.37 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Swadge_Parts:C_Radial_D4_L5.4_P3.321"
+			(at 166.37 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 166.37 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor, US symbol"
+			(at 166.37 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "~"
+			(at 169.545 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost100" "510"
+			(at 166.37 193.04 0)
+			(effects
+				(font
+					(size 0.254 0.254)
+				)
+				(hide yes)
+			)
+		)
+		(property "Substitutable" "Y"
+			(at 166.37 193.04 0)
+			(effects
+				(font
+					(size 0.001 0.001)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2895732"
+			(at 166.37 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0147"
+			(at 166.37 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aa35f53c-a0a8-43f3-a425-db112954c17e")
+		)
+		(pin "2"
+			(uuid "d28b74b8-60c2-4b8e-ab2d-60e8c019e6f3")
+		)
+		(instances
+			(project "Swadge-HW"
+				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
+					(reference "C26")
 					(unit 1)
 				)
 			)
