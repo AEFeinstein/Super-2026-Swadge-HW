@@ -567,7 +567,7 @@
       "pos_files": "Super-2025-Swadge-Hw-RevB",
       "specctra_dsn": "",
       "step": "../../Swadge-HW.step",
-      "svg": "package3d/",
+      "svg": "../../../../Downloads/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
