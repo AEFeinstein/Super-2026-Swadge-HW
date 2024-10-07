@@ -27845,7 +27845,7 @@
 				(hide yes)
 			)
 		)
-		(property "Cost100" "510"
+		(property "Cost100" "31"
 			(at 166.37 193.04 0)
 			(effects
 				(font
@@ -27863,7 +27863,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2895732"
+		(property "LCSC" "C7465562"
 			(at 166.37 193.04 0)
 			(effects
 				(font
@@ -27872,7 +27872,7 @@
 				(hide yes)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0147"
+		(property "Cost @ 2.5k" "0.031"
 			(at 166.37 193.04 0)
 			(effects
 				(font

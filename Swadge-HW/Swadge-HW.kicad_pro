@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.1,
-          "width": 2.8
+          "height": 1.2,
+          "width": 3.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -563,10 +563,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Super-2025-Swadge-Hw-Rev-",
-      "pos_files": "Super-2025-Swadge-Hw-Rev-",
+      "plot": "Super-2025-Swadge-Hw-RevB",
+      "pos_files": "Super-2025-Swadge-Hw-RevB",
       "specctra_dsn": "",
-      "step": "C:/Users/gelak/Desktop/Swadge-HW.step",
+      "step": "../../Swadge-HW.step",
       "svg": "package3d/",
       "vrml": ""
     },
