@@ -792,7 +792,7 @@
 		(layer "F.CrtYd")
 		(uuid "71ad6123-b0d2-4e2c-a02f-ee82eca49c24")
 	)
-	(model "${KIPRJMOD}/package3d/condiment.step"
+	(model "${KIPRJMOD}/package3d/condiment.STEP"
 		(offset
 			(xyz 0 -82.616 0)
 		)
