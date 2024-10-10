@@ -27809,7 +27809,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Swadge_Parts:C_Radial_D4_L5.4_P3.321"
+		(property "Footprint" "Swadge_Parts:C_Radial_D6.3_L5.8_P5.34"
 			(at 166.37 193.04 0)
 			(effects
 				(font
