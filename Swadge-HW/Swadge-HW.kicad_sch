@@ -24289,9 +24289,9 @@
 		(at 261.62 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "9458e7a6-0f6d-4bf4-a25f-d12ecb8034eb")
 		(property "Reference" "C21"
 			(at 262.255 129.54 0)
@@ -26176,9 +26176,9 @@
 		(at 270.51 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b413e381-3419-409b-8fc3-896fda842b74")
 		(property "Reference" "U10"
