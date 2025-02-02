@@ -14,7 +14,7 @@ If you have any questions, feel free to create a Github ticket or email us at ci
 
 ## Schematic
 
-![final swadge schematic](Swadge-HW/Schematic.pdf)
+![final swadge schematic](Swadge-HW/Schematic.png)
 
 ## Directories
 
