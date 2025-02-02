@@ -10,11 +10,11 @@ If you have any questions, feel free to create a Github ticket or email us at ci
 
 ## Render
 
-![red swadge render](https://github.com/AEFeinstein/Super-2025-Swadge-HW/tree/main/Swadge-HW/Render.png?raw=true)
+![red swadge render](Swadge-HW/Render.png)
 
 ## Schematic
 
-![final swadge schematic](https://github.com/AEFeinstein/Super-2025-Swadge-HW/tree/main/Swadge-HW/schematic.pdf)
+![final swadge schematic](Swadge-HW/schematic.pdf)
 
 ## Directories
 
@@ -26,3 +26,6 @@ This directory is a git submodule which has all the parts, footprints, and 3D mo
 
 ### `Swadge-HW`
 This directory has the KiCad project for the main Swadge PCB.
+
+### `Swadge-HW/3d-Print`
+This directory has the 3D print files for the 2025 Swadge, including the shells and D-pad.

@@ -1,5 +1,3 @@
-# WARNING!!! THIS HAS NOT BEEN UPDATED FOR 2025!!!
-
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -24,20 +22,20 @@
 <!-- PROJECT LOGO -->
 <br />
    
-  <h1 align="center">Super 2024 Swadge Barrier Shell</h1>
+  <h1 align="center">Super 2025 SwadgeDog Shell</h1>
 
   <p align="center">
-    Protect your Gunship
+    Carry-out Ready
 </p>
 
-![Barrier Shell Render](shellrender.png "Barrier Shell Render")
+![Shell Render](shellrender.png "Shell Render")
 
 
 ### Built With
 <br />
 
 * [Fusion 360]( https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription) 
-* [SOLIDWORKS 2022](https://www.solidworks.com) 
+* [SOLIDWORKS 2023](https://www.solidworks.com) 
 * [Blender](https://www.blender.org) 
 
 
@@ -48,52 +46,28 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 <br />
-The Barrier Shell 3D design team comprised of Erik Jacobs, Greg Lord, and Emily Anthony created two shell variants for Super Prime 2024:
+The Hot Dog Shell 3D design team comprised of Erik Jacobs, Greg Lord, and Emily Anthony created two shell variants for Super 2025:
 
-* A clever model optimized for printing sans supports, open for customization and creative usage of infill for FDM printers
-* A massively detailed render of a ship hull for injection molding
+* A simplified model optimized for printing, open for customization and creative usage of infill for FDM printers
+* A case with a living hinge, designed for injection molding out of PP
 
-Injection Molded shells are only available at the Fangamer Merch Booth at Super Prime 2024.
+Injection Molded shells are only available at the Fangamer Merch Booth at Super 2025.
 
 To print your own simple model:
  
-Identify which type of printing technology you’d like to use to replicate your Barrier Shell It’s sincerely not recommended to use the Injection Molding files for FDM printers, though you could (probably) SLA it with some adjustment. This print has not been tested with SLS. 
+Identify which type of printing technology you’d like to use to replicate your Shell. It’s sincerely not recommended to use the Injection Molding files for FDM printers, though you can try. It's likely the hinge will break.
 <br />
 
 ### Materials
 
-Materials required vary based on your printing method. It is recommended to print the FDM Shell with PETG, but really you can use any filament on hand.
-
-You’ll need:
-
-An FDM 3D printer with a minimum build volume of 150mm x 150mm x 10mm. The Barrier Shell was designed to minimize excess support structure and should be printed flat.
-
-OR
-
-An SLA printer capable of printing UV resin with a minimum build volume of 150mm x 90mm x 90mm.
-
-OR
-
-<p align="left">Money to spend at www.HUBS.com or www.shapeways.com to outsource prints.</p>
-
-OR
-
-Stop by the Makerspace at Super Prime 2024 to print your own!
+Materials required vary based on your printing method. It is recommended to print the FDM Shell with PETG or TPU, but really you can use any filament on hand.
 
 
 ### Assembly
 
-FDM and SLA prints are assembled differently. IF you are using a tappable resin such as Siraya Tech Build, you may be able to use the FDM mounting hardware. YMMV.
-
 FDM Fasteners:
 
-Any M3 x 8mm self tapping screw. The Barrier Shells were delivered at MAGFest 2024 with these screws.
-
-SLA Fasteners:
-
-Most resin is not tappable. We’d recommend using an M3 x ~14mm screw and a nut.
- 
-<p align="right">(<a href="#top">back to top</a>)</p>
+Any M3 x 6mm self tapping screw
 
 
 <!-- CONTRIBUTING -->
@@ -149,6 +123,6 @@ Project Link: https://github.com/AEFeinstein/Super-2024-Swadge-HW/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/emilyanthony4244/Sheikah_Slate.svg?style=for-the-badge
 [contributors-url]: 
-https://github.com/AEFeinstein/Super-2024-Swadge-HW/graphs/contributors
+https://github.com/AEFeinstein/Super-2025-Swadge-HW/graphs/contributors
 
 
