@@ -10,16 +10,16 @@ If you have any questions, feel free to create a Github ticket or email us at ci
 
 ## Render
 
-Coming eventually!
+![red swadge render](https://github.com/AEFeinstein/Super-2025-Swadge-HW/tree/main/Swadge-HW/Render.png?raw=true)
 
 ## Schematic
 
-Coming eventually!
+![final swadge schematic](https://github.com/AEFeinstein/Super-2025-Swadge-HW/tree/main/Swadge-HW/schematic.pdf)
 
 ## Directories
 
 ### `art`
-This directory has the SVGs used to generate the KiCad files. The SVGs are drawn in [Inkscape](https://inkscape.org/) and exported with [svg2mod](https://github.com/svg2mod/svg2mod).
+This directory has the SVGs used to generate the KiCad files. The SVGs are drawn in [Inkscape](https://inkscape.org/).
 
 ### `Swadge-Parts`
 This directory is a git submodule which has all the parts, footprints, and 3D models used in the KiCad project.

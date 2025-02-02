@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "770c762f-3a30-4864-b7da-de353459cdd6")
 	(paper "USLegal")
+	(title_block
+		(title "2025 Super Swadge")
+		(date "2025-02-02")
+		(company "Magfest Inc")
+	)
 	(lib_symbols
 		(symbol "B3FS-4002P_1"
 			(pin_names
@@ -15073,7 +15078,7 @@
 			(uuid "aae1bb03-09b7-4433-b28a-d78324820d79")
 		)
 		(instances
-			(project ""
+			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "RV1")
 					(unit 1)
@@ -20974,7 +20979,7 @@
 			(uuid "2b5d5c9a-28ff-44f2-8acd-eab1bfc995f0")
 		)
 		(instances
-			(project ""
+			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "U8")
 					(unit 1)
@@ -24138,7 +24143,7 @@
 			(uuid "7d1ac9eb-ad96-405f-94b4-177236673d1f")
 		)
 		(instances
-			(project ""
+			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "U9")
 					(unit 1)
@@ -25603,7 +25608,7 @@
 			(uuid "d4137205-1dfc-42a4-bb87-239111c5f734")
 		)
 		(instances
-			(project ""
+			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "J2")
 					(unit 1)
@@ -26395,7 +26400,7 @@
 			(uuid "3cde40e8-7c0b-463e-a272-6f83dfbcadae")
 		)
 		(instances
-			(project ""
+			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "U10")
 					(unit 1)
@@ -28380,7 +28385,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "N2")
 					(unit 1)
@@ -30814,7 +30819,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "N1")
 					(unit 1)
