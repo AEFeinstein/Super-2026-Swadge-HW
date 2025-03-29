@@ -15,6 +15,7 @@ _autosave-*
 fp-info-cache
 *.kicad_prl
 *backups*
+*.lck
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -32,3 +33,4 @@ Swadge-S2-Devkit/output
 
 # Exported design files
 *gerbers*
+*.zip
