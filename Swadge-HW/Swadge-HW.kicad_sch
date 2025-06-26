@@ -13837,7 +13837,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 236.22) (xy 115.57 236.22)
+			(xy 101.6 236.22) (xy 115.57 236.22)
 		)
 		(stroke
 			(width 0)
@@ -20286,7 +20286,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
-		(at 111.76 236.22 0)
+		(at 101.6 236.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20294,7 +20294,7 @@
 		(dnp no)
 		(uuid "069307a2-5881-4dd4-9631-e2152ccc32bc")
 		(property "Reference" "#PWR10"
-			(at 111.76 242.57 0)
+			(at 101.6 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20303,7 +20303,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 111.76 240.03 0)
+			(at 101.6 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20311,7 +20311,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 111.76 236.22 0)
+			(at 101.6 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20320,7 +20320,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 111.76 236.22 0)
+			(at 101.6 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20329,7 +20329,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 111.76 236.22 0)
+			(at 101.6 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31688,7 +31688,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3.3V"
 			(at 202.184 250.19 0)
 			(effects
 				(font
@@ -32537,7 +32537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3.3V"
 			(at 214.376 222.25 0)
 			(effects
 				(font
@@ -36313,7 +36313,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3.3V"
 			(at 238.76 236.474 0)
 			(effects
 				(font
@@ -42569,7 +42569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3.3V"
 			(at 223.52 228.854 0)
 			(effects
 				(font
