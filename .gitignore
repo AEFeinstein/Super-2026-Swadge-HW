@@ -34,3 +34,4 @@ Swadge-S2-Devkit/output
 # Exported design files
 *gerbers*
 *.zip
+.DS_Store
