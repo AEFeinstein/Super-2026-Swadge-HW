@@ -9702,6 +9702,12 @@
 		(uuid "025468f6-ad3f-429d-a9cd-56c549af5247")
 	)
 	(junction
+		(at 392.43 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "028d2472-cdce-439a-ae95-9946ab0fe974")
+	)
+	(junction
 		(at 356.87 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12297,6 +12303,16 @@
 	)
 	(wire
 		(pts
+			(xy 397.51 41.91) (xy 392.43 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "572fb0f5-7997-4a71-aa1e-0e043dd892fa")
+	)
+	(wire
+		(pts
 			(xy 266.7 158.75) (xy 266.7 166.37)
 		)
 		(stroke
@@ -12974,6 +12990,16 @@
 			(type default)
 		)
 		(uuid "80a6f16d-e702-4d00-ac65-cd2202e594d2")
+	)
+	(wire
+		(pts
+			(xy 392.43 41.91) (xy 378.46 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80af2114-8ced-4a01-a1e1-8dcb89d7417d")
 	)
 	(wire
 		(pts
@@ -18716,7 +18742,7 @@
 	)
 	(global_label "GPIO42"
 		(shape input)
-		(at 378.46 41.91 0)
+		(at 397.51 41.91 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18726,7 +18752,7 @@
 		)
 		(uuid "bff23d11-a758-4c18-bc2b-c9c73b8685c2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 388.3395 41.91 0)
+			(at 407.3895 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22725,6 +22751,118 @@
 			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "R26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Swadge_Parts:R_US")
+		(at 392.43 38.1 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1abfafe1-e428-4a70-8364-7c0b793a7256")
+		(property "Reference" "R35"
+			(at 389.89 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5.1kΩ"
+			(at 394.97 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Swadge_Parts:R_0603_1608Metric"
+			(at 391.414 37.846 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 389.89 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor US symbol"
+			(at 392.43 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "~"
+			(at 387.35 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost100" "10"
+			(at 392.43 38.1 0)
+			(effects
+				(font
+					(size 0.254 0.254)
+				)
+				(hide yes)
+			)
+		)
+		(property "Substitutable" "Y"
+			(at 392.43 38.1 0)
+			(effects
+				(font
+					(size 0.254 0.254)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23186"
+			(at 392.43 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0007"
+			(at 392.43 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ee247ed0-9ce1-4a0b-8984-075ddd6c9646")
+		)
+		(pin "2"
+			(uuid "b2806380-3ae3-41f2-85ef-30fc5054a32b")
+		)
+		(instances
+			(project "Swadge-HW"
+				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -27520,8 +27658,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "51f64b4a-bed3-40e7-8d4d-999894accbef")
 		(property "Reference" "D7"
 			(at 125.73 132.08 0)
@@ -28257,8 +28395,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "569f1942-459b-469e-8bc2-dff598f8f25e")
 		(property "Reference" "C24"
 			(at 132.715 124.46 0)
@@ -28550,6 +28688,71 @@
 			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "D49")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Swadge_Parts:+3.3V")
+		(at 392.43 34.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5a6dfd7a-bbd2-497f-8a98-f708a3854f53")
+		(property "Reference" "#PWR042"
+			(at 392.43 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3V3"
+			(at 392.43 30.734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 392.43 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 392.43 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 392.43 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "802fe6e2-b3d3-4589-b49f-2e6e86a57f33")
+		)
+		(instances
+			(project "Swadge-HW"
+				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -31038,8 +31241,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "7b0fcfd6-04bc-4f1b-9cdf-a5802170f19d")
 		(property "Reference" "D8"
 			(at 142.24 132.08 0)
@@ -35369,8 +35572,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "a3cf293f-2dbf-4395-8e48-3f0549322bbc")
 		(property "Reference" "D9"
 			(at 158.75 132.08 0)
@@ -37482,8 +37685,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "b856e5a4-65e5-4f37-af5b-b3e3ef2e4299")
 		(property "Reference" "C8"
 			(at 165.735 124.46 0)

@@ -58,7 +58,20 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "clearance|153754885|106337192|710aa364-c6ee-4ca9-888b-a194515bd4f3|f5f85ee8-280a-449a-87a6-427b74b8fdb3",
+          ""
+        ],
+        [
+          "clearance|159986742|81040060|333dfd40-81f0-4d16-b137-17a077e46119|dbb9733e-8560-41bf-912f-ccc563858148",
+          ""
+        ],
+        [
+          "items_not_allowed|203015953|55298816|2d35f945-b381-43f9-bc81-7187c6cacd47|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -481,7 +494,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.18,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.25,
@@ -499,9 +512,8 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.18,
         "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
@@ -510,7 +522,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.18,
         "via_diameter": 0.5,
         "via_drill": 0.3,
         "wire_width": 6
@@ -519,7 +531,6 @@
         "bus_width": 12,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
@@ -579,6 +590,10 @@
       {
         "netclass": "Power",
         "pattern": "*VDD*"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "C5"
       }
     ]
   },
