@@ -5445,6 +5445,68 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Swadge_Parts:NULL"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "N"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Value"
+				(at 5.334 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "NULL_1_1"
+				(rectangle
+					(start -2.54 2.54)
+					(end 2.54 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Swadge_Parts:PJ-307C"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -34348,7 +34410,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Swadge_Parts:HCTL HC-FPC-03-10-15RLTAG"
+		(property "Footprint" "Swadge_Parts:HCTL HC-FPC-03-10-15RLTAG-TUCKED"
 			(at 124.46 203.2 0)
 			(effects
 				(font
@@ -35223,6 +35285,70 @@
 			(project "Swadge-HW"
 				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
 					(reference "#PWR75")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Swadge_Parts:NULL")
+		(at 194.31 179.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "9f939b39-ef02-485e-849b-149f87f5f296")
+		(property "Reference" "N1"
+			(at 198.12 177.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Board Outline & Acrylic"
+			(at 198.12 180.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Swadge_2026:HEAD OUTLINE AND ACRYLIC"
+			(at 194.31 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 194.31 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 194.31 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/770c762f-3a30-4864-b7da-de353459cdd6"
+					(reference "N1")
 					(unit 1)
 				)
 			)
@@ -40706,7 +40832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Swadge_Parts:Touch_Teeth_5"
+		(property "Footprint" "Swadge_Parts:Touchpad_6_80"
 			(at 208.28 99.06 0)
 			(effects
 				(font
