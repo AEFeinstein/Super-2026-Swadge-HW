@@ -23721,7 +23721,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Swadge_Parts:L_0603_1608Metric"
+		(property "Footprint" "Swadge_Parts:L_1008_2520Metric"
 			(at 151.13 186.69 0)
 			(effects
 				(font
@@ -25637,7 +25637,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Swadge_Parts:L_0603_1608Metric"
+		(property "Footprint" "Swadge_Parts:L_1210_3225Metric"
 			(at 43.18 250.19 0)
 			(effects
 				(font
@@ -42137,7 +42137,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2012102241_XI-AN-Aerosemi-Tech-MT3410LB_C883494.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C42420805.pdf"
 			(at 146.05 168.91 0)
 			(effects
 				(font
@@ -42146,7 +42146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "M3410LB-N"
 			(at 146.05 179.07 0)
 			(effects
 				(font
@@ -42191,7 +42191,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C883494"
+		(property "LCSC" "C42420805"
 			(at 146.05 179.07 0)
 			(effects
 				(font
