@@ -10526,7 +10526,7 @@
 		(uuid "c318c185-d759-4c27-aef3-168393599a0c")
 	)
 	(junction
-		(at 121.92 186.69)
+		(at 121.92 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c320f1ba-43e1-4447-82d1-0425b09d9062")
@@ -12775,6 +12775,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 179.07) (xy 116.84 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70758cd8-432d-4ea0-a33c-68c90969866d")
+	)
+	(wire
+		(pts
 			(xy 74.93 123.19) (xy 74.93 130.81)
 		)
 		(stroke
@@ -13795,7 +13805,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 186.69) (xy 123.19 186.69)
+			(xy 121.92 166.37) (xy 123.19 166.37)
 		)
 		(stroke
 			(width 0)
@@ -14005,7 +14015,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 186.69) (xy 121.92 186.69)
+			(xy 120.65 166.37) (xy 121.92 166.37)
 		)
 		(stroke
 			(width 0)
@@ -14995,16 +15005,6 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 179.07) (xy 116.84 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e885ce88-172d-4d22-8288-b529f7ea4805")
-	)
-	(wire
-		(pts
 			(xy 158.75 231.14) (xy 158.75 236.22)
 		)
 		(stroke
@@ -15195,7 +15195,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 186.69) (xy 121.92 187.96)
+			(xy 121.92 166.37) (xy 121.92 165.1)
 		)
 		(stroke
 			(width 0)
@@ -29914,7 +29914,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:GND")
-		(at 121.92 187.96 0)
+		(at 121.92 165.1 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29922,7 +29923,7 @@
 		(dnp no)
 		(uuid "6ee6c256-9816-4ee4-abef-9abd186e030b")
 		(property "Reference" "#PWR30"
-			(at 121.92 194.31 0)
+			(at 121.92 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29931,7 +29932,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 121.92 191.77 0)
+			(at 121.92 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29939,7 +29940,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 121.92 187.96 0)
+			(at 121.92 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29948,7 +29949,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 187.96 0)
+			(at 121.92 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29957,7 +29958,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 121.92 187.96 0)
+			(at 121.92 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33301,8 +33302,7 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:SW_SPDT_1825232-1")
-		(at 121.92 176.53 0)
-		(mirror y)
+		(at 121.92 176.53 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33310,7 +33310,7 @@
 		(dnp no)
 		(uuid "906edb8a-442a-4997-9e3f-99e81445e4ea")
 		(property "Reference" "SW9"
-			(at 121.92 170.18 0)
+			(at 121.92 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33318,7 +33318,7 @@
 			)
 		)
 		(property "Value" "SW_SPDT_1825232-1"
-			(at 106.172 177.038 0)
+			(at 106.172 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33326,7 +33326,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:1825232-1"
-			(at 121.92 160.02 0)
+			(at 121.92 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33335,7 +33335,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_SHOU-HAN-SK12D07VG4_C393937.pdf"
-			(at 121.92 162.56 0)
+			(at 121.92 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33353,7 +33353,7 @@
 			)
 		)
 		(property "Digikey" "A107673-ND"
-			(at 121.92 165.1 0)
+			(at 121.92 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33362,7 +33362,7 @@
 			)
 		)
 		(property "Cost100" "45"
-			(at 121.92 157.48 0)
+			(at 121.92 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33380,7 +33380,7 @@
 			)
 		)
 		(property "Notes" "Use SPDT slide switch. Similar to 1825232-1"
-			(at 121.92 167.64 0)
+			(at 121.92 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34395,7 +34395,7 @@
 		(dnp no)
 		(uuid "96104548-f9fc-4434-8156-41330e2ddd6c")
 		(property "Reference" "U5"
-			(at 124.46 189.23 0)
+			(at 124.46 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -465,6 +465,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -541,35 +542,15 @@
     "netclass_patterns": [
       {
         "netclass": "Power",
-        "pattern": "+3V3"
+        "pattern": "*3V3*"
       },
       {
         "netclass": "Power",
-        "pattern": "+5V"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "5VIN"
+        "pattern": "*5V*"
       },
       {
         "netclass": "Power",
         "pattern": "SNODE"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "BATTPLUS"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "BATTMID"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "BATTMID2"
-      },
-      {
-        "netclass": "Default",
-        "pattern": "VMON"
       },
       {
         "netclass": "Power",
@@ -580,8 +561,8 @@
         "pattern": "*VDD*"
       },
       {
-        "netclass": "Default",
-        "pattern": "C5"
+        "netclass": "Power",
+        "pattern": "*BATT*"
       }
     ]
   },
