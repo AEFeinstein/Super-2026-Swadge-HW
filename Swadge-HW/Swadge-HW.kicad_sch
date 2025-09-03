@@ -17584,7 +17584,7 @@
 			)
 		)
 	)
-	(global_label "C6"
+	(global_label "C5"
 		(shape input)
 		(at 356.87 91.44 0)
 		(effects
@@ -18074,7 +18074,7 @@
 			)
 		)
 	)
-	(global_label "C5"
+	(global_label "C4"
 		(shape input)
 		(at 339.09 91.44 0)
 		(effects
@@ -18116,7 +18116,7 @@
 			)
 		)
 	)
-	(global_label "C1"
+	(global_label "C0"
 		(shape input)
 		(at 274.32 91.44 0)
 		(effects
@@ -18180,7 +18180,7 @@
 			)
 		)
 	)
-	(global_label "C9"
+	(global_label "C8"
 		(shape input)
 		(at 407.67 91.44 0)
 		(effects
@@ -18200,7 +18200,7 @@
 			)
 		)
 	)
-	(global_label "C3"
+	(global_label "C2"
 		(shape input)
 		(at 306.07 91.44 0)
 		(effects
@@ -18220,7 +18220,7 @@
 			)
 		)
 	)
-	(global_label "C4"
+	(global_label "C3"
 		(shape input)
 		(at 322.58 91.44 0)
 		(effects
@@ -19082,7 +19082,7 @@
 			)
 		)
 	)
-	(global_label "C8"
+	(global_label "C7"
 		(shape input)
 		(at 389.89 91.44 0)
 		(effects
@@ -19124,7 +19124,7 @@
 			)
 		)
 	)
-	(global_label "C2"
+	(global_label "C1"
 		(shape input)
 		(at 290.83 91.44 0)
 		(effects
@@ -19404,7 +19404,7 @@
 			)
 		)
 	)
-	(global_label "C7"
+	(global_label "C6"
 		(shape input)
 		(at 373.38 91.44 0)
 		(effects
