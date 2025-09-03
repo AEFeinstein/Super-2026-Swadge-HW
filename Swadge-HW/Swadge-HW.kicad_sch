@@ -34089,7 +34089,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C455218"
+		(property "LCSC" "C5377634"
 			(at 146.05 93.98 0)
 			(effects
 				(font
@@ -37587,7 +37587,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C455218"
+		(property "LCSC" "C5377634"
 			(at 116.84 82.55 0)
 			(effects
 				(font
@@ -40356,7 +40356,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2105281609_Goertek-B4013AM423-098_C2835889.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C529869.pdf"
 			(at 190.5 27.94 90)
 			(effects
 				(font
@@ -40401,7 +40401,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C2835889"
+		(property "LCSC" "C529869"
 			(at 209.55 34.29 0)
 			(effects
 				(font
@@ -40410,7 +40410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0752"
+		(property "Cost @ 2.5k" ".1579"
 			(at 209.55 34.29 0)
 			(effects
 				(font
