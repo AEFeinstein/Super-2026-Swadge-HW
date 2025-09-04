@@ -68,7 +68,7 @@
         "clearance": "error",
         "connection_width": "warning",
         "copper_edge_clearance": "error",
-        "copper_sliver": "warning",
+        "copper_sliver": "ignore",
         "courtyards_overlap": "error",
         "creepage": "error",
         "diff_pair_gap_out_of_range": "error",
@@ -77,7 +77,7 @@
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
         "footprint": "error",
-        "footprint_filters_mismatch": "ignore",
+        "footprint_filters_mismatch": "warning",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "warning",
         "hole_clearance": "error",
@@ -465,6 +465,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -541,15 +542,11 @@
     "netclass_patterns": [
       {
         "netclass": "Power",
-        "pattern": "+3V3"
+        "pattern": "*3V*"
       },
       {
         "netclass": "Power",
-        "pattern": "+5V"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "5VIN"
+        "pattern": "*5V*"
       },
       {
         "netclass": "Power",
@@ -557,31 +554,31 @@
       },
       {
         "netclass": "Power",
-        "pattern": "BATTPLUS"
+        "pattern": "*BATT*"
       },
       {
         "netclass": "Power",
-        "pattern": "BATTMID"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "BATTMID2"
-      },
-      {
-        "netclass": "Default",
-        "pattern": "VMON"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "Net-(U3-FB)"
+        "pattern": "Net-(U3-*)"
       },
       {
         "netclass": "Power",
         "pattern": "*VDD*"
       },
       {
-        "netclass": "Default",
-        "pattern": "C5"
+        "netclass": "Power",
+        "pattern": "TFT_LEDA"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "LCD28"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "TFTATP"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(D10-*)"
       }
     ]
   },
