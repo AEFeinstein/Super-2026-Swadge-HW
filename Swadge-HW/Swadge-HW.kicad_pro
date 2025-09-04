@@ -587,7 +587,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Super-2025-Swadge-Hw-Rev1",
+      "plot": "./",
       "pos_files": "Super-2025-Swadge-Hw-Rev0",
       "specctra_dsn": "",
       "step": "../../Swadge-HW.step",
