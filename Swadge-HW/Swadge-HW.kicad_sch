@@ -20983,7 +20983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_ALPSALPINE-RK10J11R001Y_C470765.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C3020613.pdf"
 			(at 203.2 96.52 0)
 			(effects
 				(font
@@ -20992,7 +20992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RK10J11R001Y"
+		(property "Description" "RK10J11R0AOL"
 			(at 203.2 83.82 0)
 			(effects
 				(font
@@ -21001,7 +21001,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C470765"
+		(property "LCSC" "C3020613"
 			(at 203.2 101.6 0)
 			(effects
 				(font
@@ -21010,7 +21010,7 @@
 				(hide yes)
 			)
 		)
-		(property "Cost @ 2.5k" "0.514"
+		(property "Cost @ 2.5k" ".8437"
 			(at 203.2 83.82 0)
 			(effects
 				(font
@@ -28612,7 +28612,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22/33"
 			(at 392.43 64.77 90)
 			(effects
 				(font
@@ -29708,7 +29708,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22/33"
 			(at 392.43 57.15 90)
 			(effects
 				(font
@@ -31700,7 +31700,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22/33"
 			(at 265.43 72.39 90)
 			(effects
 				(font
@@ -32119,7 +32119,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22/33"
 			(at 265.43 64.77 90)
 			(effects
 				(font
@@ -33803,7 +33803,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22/33"
 			(at 392.43 72.39 90)
 			(effects
 				(font
@@ -36237,7 +36237,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22/33"
 			(at 265.43 49.53 90)
 			(effects
 				(font
@@ -36349,7 +36349,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22/33"
 			(at 392.43 49.53 90)
 			(effects
 				(font
@@ -42009,7 +42009,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22/33"
 			(at 265.43 57.15 90)
 			(effects
 				(font

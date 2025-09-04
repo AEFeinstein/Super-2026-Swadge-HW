@@ -656,7 +656,7 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -698,7 +698,7 @@
           "group_by": false,
           "label": "Cost @ 2.5k",
           "name": "Cost @ 2.5k",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
