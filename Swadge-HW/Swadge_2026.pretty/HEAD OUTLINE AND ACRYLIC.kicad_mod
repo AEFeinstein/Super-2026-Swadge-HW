@@ -6552,7 +6552,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "C:/Users/eanthony/Documents/GitHub/Swadge-Parts/package3d/2026_ACRYLIC.STEP"
+	(model "${KIPRJMOD}/../Swadge-Parts/package3d/2026_ACRYLIC.STEP"
 		(opacity 0.8800)
 		(offset
 			(xyz -76.5 -66 0)
