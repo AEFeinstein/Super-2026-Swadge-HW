@@ -591,7 +591,7 @@
       "pos_files": "Super-2025-Swadge-Hw-Rev0",
       "specctra_dsn": "",
       "step": "../../Swadge-HW.step",
-      "svg": "C:/Users/eanthony/Downloads/",
+      "svg": "./",
       "vrml": ""
     },
     "page_layout_descr_file": ""
