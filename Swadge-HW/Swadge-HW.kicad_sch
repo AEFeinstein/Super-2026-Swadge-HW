@@ -20974,7 +20974,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Swadge_Parts:RK10J11R001Y"
+		(property "Footprint" "Swadge_Parts:RK10J11E0034"
 			(at 203.2 99.06 0)
 			(effects
 				(font
@@ -20983,7 +20983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C3020613.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C470643.pdf"
 			(at 203.2 96.52 0)
 			(effects
 				(font
@@ -20992,7 +20992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RK10J11R0AOL"
+		(property "Description" "RK10J11E0034"
 			(at 203.2 83.82 0)
 			(effects
 				(font
@@ -21001,7 +21001,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C3020613"
+		(property "LCSC" "C470643"
 			(at 203.2 101.6 0)
 			(effects
 				(font
@@ -33683,7 +33683,7 @@
 			)
 		)
 		(property "Value" "INGHAi_GSPK2307P-8R1W"
-			(at 237.49 91.44 0)
+			(at 227.33 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
