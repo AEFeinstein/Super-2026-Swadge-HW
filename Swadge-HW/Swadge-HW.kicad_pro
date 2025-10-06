@@ -102,7 +102,7 @@
         "padstack": "warning",
         "pth_inside_courtyard": "warning",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "ignore",
         "silk_overlap": "ignore",
         "skew_out_of_range": "error",
@@ -587,11 +587,11 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Manufacturing Information/",
-      "pos_files": "Manufacturing Information/",
+      "plot": "../art/",
+      "pos_files": "Super-2025-Swadge-Hw-Rev0",
       "specctra_dsn": "",
       "step": "../../Swadge-HW.step",
-      "svg": "./",
+      "svg": "C:/Users/eanthony/Downloads/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
