@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.2,
-          "width": 3.5
+          "drill": 3.2,
+          "height": 3.2,
+          "width": 3.2
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -546,7 +546,7 @@
     "netclass_patterns": [
       {
         "netclass": "Power",
-        "pattern": "*3V3*"
+        "pattern": "*3V*"
       },
       {
         "netclass": "Power",
@@ -558,7 +558,11 @@
       },
       {
         "netclass": "Power",
-        "pattern": "Net-(U3-FB)"
+        "pattern": "*BATT*"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(U3-*)"
       },
       {
         "netclass": "Power",
@@ -566,7 +570,19 @@
       },
       {
         "netclass": "Power",
-        "pattern": "*BATT*"
+        "pattern": "TFT_LEDA"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "LCD28"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "TFTATP"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(D10-*)"
       }
     ]
   },
@@ -575,8 +591,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Super-2025-Swadge-Hw-Rev1",
-      "pos_files": "Super-2025-Swadge-Hw-Rev0",
+      "plot": "../art/",
+      "pos_files": "Manufacturing Information/",
       "specctra_dsn": "",
       "step": "../../Swadge-HW.step",
       "svg": "C:/Users/eanthony/Downloads/",
@@ -641,7 +657,7 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -683,7 +699,7 @@
           "group_by": false,
           "label": "Cost @ 2.5k",
           "name": "Cost @ 2.5k",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,

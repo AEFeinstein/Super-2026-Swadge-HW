@@ -9422,7 +9422,7 @@
 		)
 		(uuid "12fe8770-28f3-471e-adc0-36eda19e3aec")
 	)
-	(text "COLUMN 7"
+	(text "COLUMN 6"
 		(exclude_from_sim no)
 		(at 366.522 81.28 0)
 		(effects
@@ -9466,7 +9466,7 @@
 		)
 		(uuid "2a4f3e9f-f8e4-415e-a4b5-59f8de903cc1")
 	)
-	(text "COLUMN 9"
+	(text "COLUMN 8"
 		(exclude_from_sim no)
 		(at 400.812 81.28 0)
 		(effects
@@ -9520,7 +9520,7 @@
 		)
 		(uuid "51266a10-9e9b-4cd9-b310-c449f0e1633d")
 	)
-	(text "COLUMN 3"
+	(text "COLUMN 2"
 		(exclude_from_sim no)
 		(at 298.958 81.026 0)
 		(effects
@@ -9630,7 +9630,7 @@
 		)
 		(uuid "7c12da0b-7a4f-4893-b866-2b2b022109b0")
 	)
-	(text "COLUMN 4"
+	(text "COLUMN 3"
 		(exclude_from_sim no)
 		(at 315.468 81.026 0)
 		(effects
@@ -9652,7 +9652,7 @@
 		)
 		(uuid "8d598f7d-e4a0-4ba6-b1d3-f7babceb0e8f")
 	)
-	(text "COLUMN 1"
+	(text "COLUMN 0"
 		(exclude_from_sim no)
 		(at 267.716 81.026 0)
 		(effects
@@ -9663,7 +9663,7 @@
 		)
 		(uuid "a1317b61-8985-45f7-81fd-3631db8362a1")
 	)
-	(text "COLUMN 2"
+	(text "COLUMN 1"
 		(exclude_from_sim no)
 		(at 283.972 81.026 0)
 		(effects
@@ -9674,7 +9674,7 @@
 		)
 		(uuid "b25ddfb9-802b-4f1f-9208-ef34dffcbd6e")
 	)
-	(text "COLUMN 5"
+	(text "COLUMN 4"
 		(exclude_from_sim no)
 		(at 331.47 81.026 0)
 		(effects
@@ -9696,7 +9696,7 @@
 		)
 		(uuid "cacb0bac-2643-478c-8057-f4a3ef403fdf")
 	)
-	(text "COLUMN 8"
+	(text "COLUMN 7"
 		(exclude_from_sim no)
 		(at 383.286 81.28 0)
 		(effects
@@ -9707,7 +9707,7 @@
 		)
 		(uuid "d6a28674-74b6-4fd9-bbb8-d67d711b8df9")
 	)
-	(text "COLUMN 6"
+	(text "COLUMN 5"
 		(exclude_from_sim no)
 		(at 350.266 81.026 0)
 		(effects
@@ -9752,16 +9752,40 @@
 		(uuid "f2620c1f-3259-40eb-888f-5c8242211e1a")
 	)
 	(junction
+		(at 306.07 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "00637757-ae8e-4952-8b43-2e47c19ddb1c")
+	)
+	(junction
+		(at 407.67 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "00f1b759-e2b5-483e-a0bf-993c2dc321d2")
+	)
+	(junction
+		(at 389.89 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "014c2e02-dfc7-4167-92d5-6b79b856036c")
+	)
+	(junction
 		(at 158.75 231.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "019ab9d2-87e6-4d47-abde-8b83752f5199")
 	)
 	(junction
-		(at 306.07 129.54)
+		(at 322.58 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "025468f6-ad3f-429d-a9cd-56c549af5247")
+		(uuid "01b95cd5-910a-46c6-8997-ee460445d218")
+	)
+	(junction
+		(at 356.87 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "02214c00-97ed-42e8-994b-24d0ed21356f")
 	)
 	(junction
 		(at 392.43 41.91)
@@ -9770,10 +9794,16 @@
 		(uuid "028d2472-cdce-439a-ae95-9946ab0fe974")
 	)
 	(junction
-		(at 356.87 116.84)
+		(at 306.07 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "03e7c3e0-5e0f-4433-9bb2-2069702b5b37")
+		(uuid "031f2e06-5296-43a8-bfa4-d665aff9f012")
+	)
+	(junction
+		(at 266.7 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "053d5e80-d47f-4c7c-97e8-c0c9abca2e86")
 	)
 	(junction
 		(at 349.25 123.19)
@@ -9788,10 +9818,22 @@
 		(uuid "08c99e06-2a53-441e-ad93-addb37473b45")
 	)
 	(junction
+		(at 290.83 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "09e1e4dd-9112-4f52-803b-f47367fced6c")
+	)
+	(junction
 		(at 60.96 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0a64e84b-c8d8-4e2a-9290-54e44bf2f1f7")
+	)
+	(junction
+		(at 322.58 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c715edb-6129-47e0-a095-8a5776553722")
 	)
 	(junction
 		(at 283.21 97.79)
@@ -9800,28 +9842,28 @@
 		(uuid "0d480281-4824-4c66-9e97-4b6be97d90a5")
 	)
 	(junction
+		(at 266.7 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0eba1849-2a78-454c-a57b-15579e326ce1")
+	)
+	(junction
 		(at 142.24 184.15)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0f4dd752-78ff-43f1-a2ac-d8d94c7e2b41")
 	)
 	(junction
-		(at 356.87 129.54)
+		(at 389.89 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "128f4f0e-3e2e-4152-913c-c67d1e23fcf9")
+		(uuid "14bbad1c-b952-478f-b612-7600f65e4a1a")
 	)
 	(junction
-		(at 373.38 104.14)
+		(at 306.07 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "146425ed-d328-4864-ace4-8e07375c670e")
-	)
-	(junction
-		(at 389.89 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "15d0f231-c735-4901-8841-92b23fe38443")
+		(uuid "17e4995a-c94e-4062-aef3-5c4e309a6f69")
 	)
 	(junction
 		(at 58.42 123.19)
@@ -9836,16 +9878,10 @@
 		(uuid "1b6ebd13-07eb-4442-a307-533b3740e596")
 	)
 	(junction
-		(at 274.32 129.54)
+		(at 274.32 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1b853629-5501-4cd8-8ff5-24344f66a264")
-	)
-	(junction
-		(at 266.7 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1bf3d2a4-ead3-4526-b9db-13d1d127d63c")
+		(uuid "1cb39b63-032c-4182-bc94-adf6e75adc0c")
 	)
 	(junction
 		(at 365.76 97.79)
@@ -9860,16 +9896,40 @@
 		(uuid "1cf95adc-4f75-4b9e-9e63-633ca0622364")
 	)
 	(junction
+		(at 266.7 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "23782181-3a14-4abc-926c-f2d6048303a7")
+	)
+	(junction
 		(at 314.96 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "238ed8c9-e35a-4e4f-8021-e70254c1e4ca")
 	)
 	(junction
-		(at 290.83 129.54)
+		(at 266.7 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "26593c8d-5e35-4bfe-b6ee-47fb10930105")
+		(uuid "24e9c7f1-2c0c-470d-8d8b-96624aebb41e")
+	)
+	(junction
+		(at 373.38 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "27703ec4-a530-4faf-aa38-4c0cf4320b81")
+	)
+	(junction
+		(at 274.32 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2903c5cc-9221-46f0-8923-d932967485b5")
+	)
+	(junction
+		(at 389.89 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2947674f-bc66-4db4-a25c-b057fef98008")
 	)
 	(junction
 		(at 135.89 66.04)
@@ -9884,10 +9944,22 @@
 		(uuid "2ad887c4-edf2-4b34-99fe-c37041768362")
 	)
 	(junction
-		(at 389.89 104.14)
+		(at 373.38 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2f87828f-112b-414c-935a-170b26584adc")
+		(uuid "2adf0d8f-c6e1-4902-9883-d114289ed1f7")
+	)
+	(junction
+		(at 274.32 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2ddfc841-7b38-4a10-81fd-504907df58ec")
+	)
+	(junction
+		(at 407.67 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2e6abec1-c347-4337-ba1b-4d9e9e8374af")
 	)
 	(junction
 		(at 17.78 250.19)
@@ -9908,12 +9980,6 @@
 		(uuid "32eb973d-3c2e-4403-86b8-0fd7afa5d8ba")
 	)
 	(junction
-		(at 290.83 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "33de1ad4-ebab-405e-ab41-4c6b548d2d04")
-	)
-	(junction
 		(at 331.47 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9932,16 +9998,10 @@
 		(uuid "370a2fd6-54b4-47c5-b48e-83e7f0d10bba")
 	)
 	(junction
-		(at 373.38 116.84)
+		(at 407.67 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "39df0473-4df2-4c23-809b-dd4039ff8fa4")
-	)
-	(junction
-		(at 266.7 154.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3ba0be42-2ebb-4d72-8b85-082f54ee455b")
+		(uuid "3a698056-bf8e-47df-bfda-4a30e3c38f25")
 	)
 	(junction
 		(at 298.45 123.19)
@@ -9956,6 +10016,18 @@
 		(uuid "3e2bc9d7-650c-446c-87d4-74037e151b0c")
 	)
 	(junction
+		(at 322.58 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3eb2e29d-4066-4430-a4c3-67fe7898fc25")
+	)
+	(junction
+		(at 290.83 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3f1739ec-567d-4826-9bc2-a92d9d1c717d")
+	)
+	(junction
 		(at 220.98 240.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9968,12 +10040,6 @@
 		(uuid "3f90a8f2-8287-4772-bf91-43e42e534e84")
 	)
 	(junction
-		(at 266.7 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3fab34b3-25d8-4eb0-a95c-4db78dffe61c")
-	)
-	(junction
 		(at 365.76 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9984,12 +10050,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "43658252-fd5e-4ac4-8a2f-3b0c757f6d4b")
-	)
-	(junction
-		(at 266.7 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "461671ea-f875-40ff-8c6c-b3a579c69762")
 	)
 	(junction
 		(at 283.21 83.82)
@@ -10022,28 +10082,16 @@
 		(uuid "4956889e-6924-4103-8d74-f631d7e7761f")
 	)
 	(junction
-		(at 407.67 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4a207f38-cfb8-4946-b27b-35b36e92a96d")
-	)
-	(junction
-		(at 322.58 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4a4ac970-94ac-4900-a546-af4b9fb628e1")
-	)
-	(junction
-		(at 407.67 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4c45bf37-9fdf-4f11-9edb-fbc46cdb4057")
-	)
-	(junction
 		(at 382.27 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4e97a7c5-6a61-476c-b0fe-4d2cfa2f9175")
+	)
+	(junction
+		(at 339.09 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "503ce75b-443a-432f-87ef-310737c26353")
 	)
 	(junction
 		(at 20.32 218.44)
@@ -10058,16 +10106,16 @@
 		(uuid "53bd07ce-7d23-4a05-84b6-55ef61d97217")
 	)
 	(junction
+		(at 407.67 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "53dc4994-406f-4b08-b53e-78f7d16db670")
+	)
+	(junction
 		(at 73.66 175.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "540b7ad8-de7e-4507-a62f-1cefdab6eaca")
-	)
-	(junction
-		(at 266.7 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5486ba4e-d601-47b6-b8a0-a6cd58fe096c")
 	)
 	(junction
 		(at 298.45 158.75)
@@ -10076,16 +10124,16 @@
 		(uuid "58203153-c2fa-458e-8d4d-36e8c3a812f0")
 	)
 	(junction
-		(at 266.7 116.84)
+		(at 407.67 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "587b5e0b-bb48-4998-883c-56b4ce412d67")
+		(uuid "59ee5632-0656-44d2-9e8e-00c5981a210d")
 	)
 	(junction
-		(at 322.58 154.94)
+		(at 290.83 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5a2a9853-346a-428c-8517-b3446f731d03")
+		(uuid "5a16b709-2d81-4a63-9d3e-92f4feaf6f01")
 	)
 	(junction
 		(at 365.76 83.82)
@@ -10094,22 +10142,22 @@
 		(uuid "5acf27d9-5eb9-49f5-8508-f819f1b1cba9")
 	)
 	(junction
-		(at 306.07 154.94)
+		(at 373.38 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5bee764b-fbb2-45be-b7f2-93469e408e14")
+		(uuid "5c434f98-1b61-49da-b04a-e9a6ba0bfc4b")
+	)
+	(junction
+		(at 322.58 166.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d350878-c8de-4d06-b897-379238573058")
 	)
 	(junction
 		(at 55.88 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5e3e5348-c471-4ef5-a436-8d7fd2493551")
-	)
-	(junction
-		(at 266.7 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5effdae7-443e-4a0f-bb88-672be4731614")
 	)
 	(junction
 		(at 382.27 135.89)
@@ -10142,28 +10190,22 @@
 		(uuid "645b7d10-3420-47e4-a2d1-855030c18cd5")
 	)
 	(junction
-		(at 290.83 154.94)
+		(at 389.89 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "64b57aa4-2be1-4eed-ba71-09f0049e057a")
+		(uuid "65ece62f-43c6-42e4-8e61-41ff2c048220")
 	)
 	(junction
-		(at 322.58 104.14)
+		(at 274.32 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "67cb7266-ad67-4ffa-bfe3-656834401870")
+		(uuid "68c3ec5b-0346-4f31-8b64-eb92bd1d487d")
 	)
 	(junction
 		(at 135.89 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "69224883-a1d5-4fe7-838a-82ea507f6812")
-	)
-	(junction
-		(at 407.67 154.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6a81a596-3821-4bf1-ae5a-5661dfe55083")
 	)
 	(junction
 		(at 162.56 46.99)
@@ -10182,12 +10224,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6c96170b-96d9-48a2-96bc-c871e9b527bf")
-	)
-	(junction
-		(at 407.67 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6e5e7872-f158-409c-90d0-61c030b6d094")
 	)
 	(junction
 		(at 134.62 176.53)
@@ -10214,34 +10250,28 @@
 		(uuid "71f84fb6-f635-4a65-b522-cbdc9c60cce0")
 	)
 	(junction
+		(at 339.09 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "72553bb8-96b9-4865-ab1e-31022e27cb7f")
+	)
+	(junction
 		(at 382.27 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "730101f2-ab86-48a8-b1f5-a0309c9aa373")
 	)
 	(junction
-		(at 356.87 166.37)
+		(at 373.38 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "76154a0d-3ad5-46ea-8386-765157b878b0")
+		(uuid "7330b56e-a791-446c-bdd7-31d8f8049cc1")
 	)
 	(junction
 		(at 382.27 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7b4eebef-1f5a-4557-a403-5df262b4ce09")
-	)
-	(junction
-		(at 339.09 154.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7bfd63ac-d0b5-4ca8-a829-a234ddceffea")
-	)
-	(junction
-		(at 373.38 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7cd2c501-84b5-494d-9fe9-c2036971a305")
 	)
 	(junction
 		(at 203.2 76.2)
@@ -10268,12 +10298,6 @@
 		(uuid "80d2add1-f770-4ddc-aa88-782d285b90e5")
 	)
 	(junction
-		(at 322.58 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "83fd69a8-efbc-46ae-82e4-315b8e7f15c6")
-	)
-	(junction
 		(at 82.55 194.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10292,34 +10316,10 @@
 		(uuid "877245f5-e705-475f-81af-827d503f5bd9")
 	)
 	(junction
-		(at 356.87 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "87f7210a-79f5-4678-8875-a2e8977aade2")
-	)
-	(junction
-		(at 389.89 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "88fcfb31-2b80-4401-b02e-3b4c3ffbb200")
-	)
-	(junction
-		(at 274.32 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8af32bcd-0a51-4520-8dd3-15d50471fc33")
-	)
-	(junction
 		(at 349.25 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8b8a435e-c1ad-4605-b7a7-3023661f9db1")
-	)
-	(junction
-		(at 373.38 154.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8baafdf7-eb6c-48c5-bdc0-13fa5d10e570")
 	)
 	(junction
 		(at 104.14 173.99)
@@ -10340,6 +10340,12 @@
 		(uuid "8e5ae513-9410-403a-a510-e10fa6ee86c2")
 	)
 	(junction
+		(at 266.7 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8e8ded07-f220-489c-8005-eacd9a168287")
+	)
+	(junction
 		(at 48.26 173.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10350,6 +10356,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "93b306b9-a27d-4b1a-9b0a-05bd58098591")
+	)
+	(junction
+		(at 322.58 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "94fd8baf-4d5f-4a1f-93da-5b71a3850a40")
 	)
 	(junction
 		(at 382.27 123.19)
@@ -10364,22 +10376,16 @@
 		(uuid "98e7103c-7828-45d3-9dc4-d07b2f78f886")
 	)
 	(junction
-		(at 339.09 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9a39f253-f9cc-4a0d-aea1-b7925b4f1614")
-	)
-	(junction
 		(at 283.21 170.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9c172e4d-dc3b-493c-b901-97ad16ad173f")
 	)
 	(junction
-		(at 290.83 142.24)
+		(at 274.32 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9f7aff2b-6a5b-4598-b64b-7bbade482ce0")
+		(uuid "a229c34b-0133-4808-955a-afba378152be")
 	)
 	(junction
 		(at 283.21 110.49)
@@ -10388,28 +10394,16 @@
 		(uuid "a2310e34-eda8-42d9-a161-9991e2077f53")
 	)
 	(junction
-		(at 339.09 166.37)
+		(at 356.87 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a353f365-9b52-41ff-b478-314bdc8f2411")
+		(uuid "a6abbd25-dfc7-4d5a-bfe9-e5800221d662")
 	)
 	(junction
-		(at 407.67 116.84)
+		(at 322.58 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a5b3bc4e-0ecf-4761-a8d0-d743792e5602")
-	)
-	(junction
-		(at 290.83 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a884ca07-b634-49b7-a3cf-e2ac328ae5bc")
-	)
-	(junction
-		(at 322.58 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a8c82e3a-ef48-4c6b-9cfc-015c34ca7eeb")
+		(uuid "a96b65b9-aa57-4619-9c7e-b2e4c9105a87")
 	)
 	(junction
 		(at 31.75 259.08)
@@ -10424,16 +10418,22 @@
 		(uuid "ab6422dc-6947-4b01-a156-db81e00b3ed2")
 	)
 	(junction
+		(at 373.38 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ac5e1039-f42b-487a-b3cb-cde2cc27fb9f")
+	)
+	(junction
 		(at 76.2 175.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ae34b03e-3d6d-4ade-8918-6a54c6f5ad5c")
 	)
 	(junction
-		(at 356.87 104.14)
+		(at 306.07 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b03b21d8-f237-41e4-8cf4-7bd703b8eb69")
+		(uuid "af81bdd0-ec6f-4450-9dd2-9014f1ba1961")
 	)
 	(junction
 		(at 157.48 123.19)
@@ -10442,16 +10442,28 @@
 		(uuid "b196d5b6-9fa9-40cb-9324-f4f9a06e503c")
 	)
 	(junction
+		(at 306.07 166.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b24aae30-2eff-4c4d-87fc-204fe1ed6a4b")
+	)
+	(junction
+		(at 290.83 166.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2617c37-8cb7-4d48-9566-f5ba390c4382")
+	)
+	(junction
+		(at 356.87 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b3227959-8dc5-4f4a-8b8c-9301ff3c9b76")
+	)
+	(junction
 		(at 349.25 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b4843fed-fc6f-44b5-ad9e-7fb690ea8dc5")
-	)
-	(junction
-		(at 274.32 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b585a606-a158-424a-a8a6-c70b9358f06f")
 	)
 	(junction
 		(at 365.76 123.19)
@@ -10460,16 +10472,10 @@
 		(uuid "b68169a3-da2b-40c0-b7ad-740458c145f9")
 	)
 	(junction
-		(at 306.07 166.37)
+		(at 306.07 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b6edaea8-1111-4403-a8ed-2270b89f678b")
-	)
-	(junction
-		(at 339.09 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b766c525-20e0-4a98-b7c7-beb86888cb46")
+		(uuid "b833528c-1fd6-4910-9333-b1ab1754490d")
 	)
 	(junction
 		(at 298.45 110.49)
@@ -10484,22 +10490,16 @@
 		(uuid "b9a416ed-90f3-41f4-9f3c-bbb537b30e76")
 	)
 	(junction
-		(at 373.38 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bae5c4c0-bc4f-42fc-8bac-469e8c2fc83e")
-	)
-	(junction
-		(at 322.58 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bbf93a97-90fa-4c03-9b80-1b6f56d2e74e")
-	)
-	(junction
 		(at 349.25 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bd5de9b6-c1c3-4973-8fdc-6645848f50ea")
+	)
+	(junction
+		(at 290.83 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bd768fcb-dfd1-4158-9b5c-031ce0dc0c74")
 	)
 	(junction
 		(at 331.47 83.82)
@@ -10538,22 +10538,10 @@
 		(uuid "c3370b3e-2bd9-4bac-9190-c281a68afa11")
 	)
 	(junction
-		(at 290.83 166.37)
+		(at 274.32 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c3acdb53-c8b8-415f-9f3c-04d478627cb8")
-	)
-	(junction
-		(at 306.07 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c5bbf700-917b-4d53-95fb-66031f789e6d")
-	)
-	(junction
-		(at 389.89 154.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c66da602-cb65-451f-8221-192fd6071cfc")
+		(uuid "c63bdf05-6b5b-4715-b635-7c36688c4af3")
 	)
 	(junction
 		(at 24.13 22.86)
@@ -10566,6 +10554,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c9c5227c-da76-4abd-a18a-7aba2c4a6260")
+	)
+	(junction
+		(at 389.89 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ca048ca8-6aa8-4b5d-aa32-77e39d48b92b")
 	)
 	(junction
 		(at 331.47 123.19)
@@ -10598,22 +10592,28 @@
 		(uuid "cfd7c029-ff17-4a64-9578-b2565e1f7bb4")
 	)
 	(junction
+		(at 339.09 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d4ed39c5-7e0f-4d02-93aa-f5ac817c86b5")
+	)
+	(junction
 		(at 298.45 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d515fd3b-b561-4e1e-a6c1-c35720402a26")
 	)
 	(junction
-		(at 407.67 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d533a6e1-5533-413d-af8a-801531b6a052")
-	)
-	(junction
 		(at 25.4 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d738552f-5f7c-49e9-8337-702bb83df910")
+	)
+	(junction
+		(at 407.67 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d7e1ee23-1096-4ca4-bbe5-a91654937417")
 	)
 	(junction
 		(at 331.47 170.18)
@@ -10634,22 +10634,22 @@
 		(uuid "d8cacc74-330d-4ec9-874c-5bc2f81f21cf")
 	)
 	(junction
-		(at 389.89 166.37)
+		(at 339.09 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d91f5af7-c7ec-4256-bbad-ac527ff410e2")
+		(uuid "d94c2459-ac26-420d-a72d-eeea6fa62f10")
 	)
 	(junction
-		(at 339.09 129.54)
+		(at 290.83 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d96b4b77-6711-4c05-81b8-4f7441d93619")
+		(uuid "da8cff2d-250b-4998-acf2-1060cb0823fa")
 	)
 	(junction
-		(at 274.32 154.94)
+		(at 339.09 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d98820fa-f75f-4b0e-a405-8663beeeca8f")
+		(uuid "deb33e8b-817b-4625-98cf-ddf9447cdfba")
 	)
 	(junction
 		(at 135.89 46.99)
@@ -10670,16 +10670,16 @@
 		(uuid "e2057dfa-5ebc-434e-954a-f932f9f87408")
 	)
 	(junction
-		(at 339.09 116.84)
+		(at 266.7 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e2261058-f88c-4571-a37c-cc2604a4c3c0")
+		(uuid "e2e0fcd6-1ca5-4f0e-9dd5-d8fec77d491b")
 	)
 	(junction
-		(at 274.32 116.84)
+		(at 266.7 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e482ccae-1c0c-4924-909a-dff75e022776")
+		(uuid "e36b7dc9-c236-4af7-8b03-cbe84ba36760")
 	)
 	(junction
 		(at 22.86 250.19)
@@ -10688,16 +10688,22 @@
 		(uuid "e75e3c22-87b1-4daf-9c1a-4da34458c946")
 	)
 	(junction
+		(at 356.87 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e76d8f63-f712-4069-9443-342beff355cd")
+	)
+	(junction
 		(at 373.38 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ec638780-03f9-4814-8e40-9525bce9212c")
+		(uuid "eb40b585-b68c-4a2f-8e72-d279284826b9")
 	)
 	(junction
-		(at 306.07 104.14)
+		(at 339.09 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ed2825c9-61d5-4314-8c5d-3e0c3e04bf45")
+		(uuid "ec805e8e-4756-44ba-9af4-1c4f0d15d39e")
 	)
 	(junction
 		(at 203.2 71.12)
@@ -10706,10 +10712,10 @@
 		(uuid "f01b2f7f-fb76-4742-9796-e686b5b7fc14")
 	)
 	(junction
-		(at 389.89 129.54)
+		(at 266.7 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f0d68db2-442d-42ec-9bb8-2551b4ee063a")
+		(uuid "f25b3930-0f92-469b-812e-b7caf4969dd7")
 	)
 	(junction
 		(at 382.27 170.18)
@@ -10724,6 +10730,12 @@
 		(uuid "f4e0eb61-f79f-4231-9bae-63cac344d8ac")
 	)
 	(junction
+		(at 356.87 166.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f53a8426-3d08-4eb8-b710-20ae56630abb")
+	)
+	(junction
 		(at 58.42 17.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10734,12 +10746,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f6392dc9-b44a-4854-904e-d1f73c8a1c2a")
-	)
-	(junction
-		(at 274.32 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f665858e-ce84-452b-b30b-76c37ec99ebc")
 	)
 	(junction
 		(at 314.96 170.18)
@@ -10754,12 +10760,6 @@
 		(uuid "f67f2fa0-0f47-424d-acd3-ec2de35358ff")
 	)
 	(junction
-		(at 356.87 154.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f7443ee2-ddd6-4f82-811f-df398386a771")
-	)
-	(junction
 		(at 298.45 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10770,6 +10770,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f7d66024-9156-4997-939e-d3d7b4e2f451")
+	)
+	(junction
+		(at 356.87 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f88a084a-a79b-42ed-aa59-10968f7e9f11")
+	)
+	(junction
+		(at 389.89 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f9692ab9-c400-4009-b4c7-18aa590e11e5")
 	)
 	(junction
 		(at 349.25 148.59)
@@ -10784,12 +10796,6 @@
 		(uuid "fa1250ac-56d8-4e46-a7a5-ac03dba3684d")
 	)
 	(junction
-		(at 266.7 177.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fb46e947-34f1-4959-97fd-21df5aa66152")
-	)
-	(junction
 		(at 314.96 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10800,12 +10806,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fda46fb3-3630-4178-8344-a8f33ac628de")
-	)
-	(junction
-		(at 306.07 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fdbbdbf2-7b8b-4884-827b-e41ccde514fc")
 	)
 	(junction
 		(at 134.62 228.6)
@@ -10872,16 +10872,6 @@
 			(type default)
 		)
 		(uuid "001148cf-3c06-4fdf-a663-913fa61732db")
-	)
-	(wire
-		(pts
-			(xy 389.89 129.54) (xy 389.89 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0040fe3d-40fa-4523-9a94-ebc5eca9afb6")
 	)
 	(wire
 		(pts
@@ -10975,13 +10965,13 @@
 	)
 	(wire
 		(pts
-			(xy 339.09 154.94) (xy 339.09 166.37)
+			(xy 389.89 154.94) (xy 389.89 166.37)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "04ba008e-70df-42b7-8c74-5f095f3427d4")
+		(uuid "04c2f6cb-5dc8-4506-8043-4c78c550f43f")
 	)
 	(wire
 		(pts
@@ -10992,16 +10982,6 @@
 			(type default)
 		)
 		(uuid "04c90aad-d70a-4bf5-9b61-9e4d26b331d6")
-	)
-	(wire
-		(pts
-			(xy 339.09 104.14) (xy 339.09 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04f3f6f7-9f27-48b5-af8c-94cdc03c0736")
 	)
 	(wire
 		(pts
@@ -11043,6 +11023,16 @@
 		)
 		(uuid "069a5267-6621-497c-9626-bd694a597f56")
 	)
+	(wire
+		(pts
+			(xy 373.38 142.24) (xy 373.38 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07746b69-9903-4392-8977-a3420ffa6c78")
+	)
 	(polyline
 		(pts
 			(xy 12.7 16.51) (xy 25.4 16.51)
@@ -11072,6 +11062,16 @@
 			(type default)
 		)
 		(uuid "09b4855f-85b7-4da6-a358-7ded8a23e3b5")
+	)
+	(wire
+		(pts
+			(xy 306.07 104.14) (xy 306.07 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a85dcce-7065-4ff4-b29d-6c16b57f3308")
 	)
 	(wire
 		(pts
@@ -11135,6 +11135,16 @@
 	)
 	(wire
 		(pts
+			(xy 356.87 104.14) (xy 356.87 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1043db84-ec6a-4b30-98e7-24e40eb2ba8a")
+	)
+	(wire
+		(pts
 			(xy 283.21 148.59) (xy 298.45 148.59)
 		)
 		(stroke
@@ -11152,16 +11162,6 @@
 			(type default)
 		)
 		(uuid "1125b42d-12d8-4154-9f96-8cb12b8e0ed4")
-	)
-	(wire
-		(pts
-			(xy 322.58 154.94) (xy 322.58 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11a06267-f296-475d-8276-e3e0a3007611")
 	)
 	(polyline
 		(pts
@@ -11183,26 +11183,6 @@
 		)
 		(uuid "11bc81b0-5536-4319-a881-dd0656bb0ae0")
 	)
-	(wire
-		(pts
-			(xy 339.09 166.37) (xy 339.09 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1206bcdd-0b83-4dff-95d5-5674c0c75292")
-	)
-	(wire
-		(pts
-			(xy 356.87 142.24) (xy 356.87 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "129c7b44-b353-410b-b4da-ba0d5d08c1ba")
-	)
 	(polyline
 		(pts
 			(xy 116.84 16.51) (xy 116.84 12.7)
@@ -11212,6 +11192,26 @@
 			(type default)
 		)
 		(uuid "14134afe-4603-4595-b05f-15065112bf9b")
+	)
+	(wire
+		(pts
+			(xy 322.58 129.54) (xy 322.58 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1433699a-2ffb-4ccd-a7ab-3d9e9dd91a58")
+	)
+	(wire
+		(pts
+			(xy 339.09 129.54) (xy 339.09 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "149ca588-4f32-4678-82b8-618393c1eb45")
 	)
 	(wire
 		(pts
@@ -11305,16 +11305,6 @@
 	)
 	(wire
 		(pts
-			(xy 290.83 142.24) (xy 290.83 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18c9338c-e8f2-417f-899b-149e9282fc47")
-	)
-	(wire
-		(pts
 			(xy 58.42 17.78) (xy 58.42 22.86)
 		)
 		(stroke
@@ -11383,6 +11373,16 @@
 		)
 		(uuid "1b347bc1-89fe-479e-b8e1-5cce0d293204")
 	)
+	(wire
+		(pts
+			(xy 274.32 154.94) (xy 274.32 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b65c1c7-cd91-4e96-afa3-c546316feb56")
+	)
 	(polyline
 		(pts
 			(xy 67.31 208.28) (xy 83.82 208.28)
@@ -11402,16 +11402,6 @@
 			(type default)
 		)
 		(uuid "1cf1c51e-eb9a-4321-95f4-99a3b74ba9f2")
-	)
-	(wire
-		(pts
-			(xy 373.38 129.54) (xy 373.38 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d1464c5-cc7b-4ebf-9a95-d920098707a5")
 	)
 	(wire
 		(pts
@@ -11455,16 +11445,6 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 91.44) (xy 274.32 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f0664c8-2ac9-45ce-981c-e132b999d35c")
-	)
-	(wire
-		(pts
 			(xy 262.89 177.8) (xy 266.7 177.8)
 		)
 		(stroke
@@ -11485,16 +11465,6 @@
 	)
 	(wire
 		(pts
-			(xy 356.87 129.54) (xy 356.87 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20e94761-51e7-4721-803d-1bb7107aed8e")
-	)
-	(wire
-		(pts
 			(xy 314.96 154.94) (xy 314.96 148.59)
 		)
 		(stroke
@@ -11502,16 +11472,6 @@
 			(type default)
 		)
 		(uuid "21520937-a832-42fb-ad8a-3db3a9c742bc")
-	)
-	(wire
-		(pts
-			(xy 290.83 91.44) (xy 290.83 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21e1a690-f7c6-4c54-9b81-c892f52fff86")
 	)
 	(wire
 		(pts
@@ -11595,7 +11555,7 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 142.24) (xy 322.58 154.94)
+			(xy 322.58 91.44) (xy 322.58 104.14)
 		)
 		(stroke
 			(width 0)
@@ -11625,16 +11585,6 @@
 	)
 	(wire
 		(pts
-			(xy 290.83 129.54) (xy 290.83 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "27c4101e-c716-4d10-b6ec-921b7e35b033")
-	)
-	(wire
-		(pts
 			(xy 283.21 158.75) (xy 283.21 166.37)
 		)
 		(stroke
@@ -11655,13 +11605,13 @@
 	)
 	(wire
 		(pts
-			(xy 306.07 116.84) (xy 306.07 129.54)
+			(xy 389.89 166.37) (xy 389.89 177.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2a1e52b7-d5df-4d69-bbc9-7f3494e92a8e")
+		(uuid "2a1cbb0e-b90d-4458-8a21-d29c73dd0f5b")
 	)
 	(wire
 		(pts
@@ -11682,16 +11632,6 @@
 			(type default)
 		)
 		(uuid "2c1bea9b-f7bd-4bcb-bfe9-167e81c88afb")
-	)
-	(wire
-		(pts
-			(xy 339.09 142.24) (xy 339.09 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2caaf4b7-1385-4d3b-ad2b-1bd4802f2235")
 	)
 	(wire
 		(pts
@@ -11725,6 +11665,16 @@
 	)
 	(wire
 		(pts
+			(xy 373.38 129.54) (xy 373.38 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f2d37d9-7023-496a-87a2-4026ff2edd70")
+	)
+	(wire
+		(pts
 			(xy 41.91 166.37) (xy 41.91 165.1)
 		)
 		(stroke
@@ -11732,16 +11682,6 @@
 			(type default)
 		)
 		(uuid "316744e6-c7e9-4074-88fa-fb48bcdde30b")
-	)
-	(wire
-		(pts
-			(xy 389.89 142.24) (xy 389.89 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "329f4841-0991-417a-ae39-5e7046ab58d8")
 	)
 	(wire
 		(pts
@@ -11825,16 +11765,6 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 116.84) (xy 274.32 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35e8eed3-571d-4f0e-bb05-2222352f641e")
-	)
-	(wire
-		(pts
 			(xy 156.21 176.53) (xy 156.21 177.8)
 		)
 		(stroke
@@ -11882,6 +11812,16 @@
 			(type default)
 		)
 		(uuid "391d799a-4a11-44ca-96bd-f3166cc9eb44")
+	)
+	(wire
+		(pts
+			(xy 389.89 116.84) (xy 389.89 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39894ae7-e9d9-40ae-ae58-e29a7227ea18")
 	)
 	(wire
 		(pts
@@ -12025,16 +11965,6 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 154.94) (xy 373.38 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "42454619-5e93-40c8-808e-a192728e0b41")
-	)
-	(wire
-		(pts
 			(xy 58.42 165.1) (xy 58.42 176.53)
 		)
 		(stroke
@@ -12052,6 +11982,16 @@
 			(type default)
 		)
 		(uuid "42eab810-f928-4fde-94a3-5b1e55f6bf80")
+	)
+	(wire
+		(pts
+			(xy 306.07 154.94) (xy 306.07 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "437ea491-3253-4974-940c-2fd0f13981f9")
 	)
 	(wire
 		(pts
@@ -12075,23 +12015,13 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 142.24) (xy 274.32 154.94)
+			(xy 274.32 166.37) (xy 274.32 177.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "45294c70-3137-4657-a142-9801bada41f1")
-	)
-	(wire
-		(pts
-			(xy 306.07 166.37) (xy 306.07 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47ca6a7e-b688-4dc3-8b54-f3a48596f599")
+		(uuid "47bd3c53-c865-48dd-ab01-8fe09230493d")
 	)
 	(wire
 		(pts
@@ -12145,6 +12075,16 @@
 	)
 	(wire
 		(pts
+			(xy 356.87 116.84) (xy 356.87 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a73f2e2-0182-492d-aa49-f09150d3b026")
+	)
+	(wire
+		(pts
 			(xy 35.56 15.24) (xy 35.56 13.97)
 		)
 		(stroke
@@ -12162,16 +12102,6 @@
 			(type default)
 		)
 		(uuid "4b6abb60-a5db-4056-b588-917297aca184")
-	)
-	(wire
-		(pts
-			(xy 274.32 104.14) (xy 274.32 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4bf33d48-c71b-4d5c-aadd-4acb42168ad0")
 	)
 	(wire
 		(pts
@@ -12255,16 +12185,6 @@
 	)
 	(wire
 		(pts
-			(xy 389.89 104.14) (xy 389.89 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5135e3c5-bd6a-4c5f-9995-118bf3006634")
-	)
-	(wire
-		(pts
 			(xy 17.78 250.19) (xy 22.86 250.19)
 		)
 		(stroke
@@ -12282,6 +12202,16 @@
 			(type default)
 		)
 		(uuid "53306c3c-5f80-42bf-b0d5-c2d9751ebc6f")
+	)
+	(wire
+		(pts
+			(xy 290.83 116.84) (xy 290.83 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53fbb42a-42b0-48d9-b0b7-0027ada27cf3")
 	)
 	(wire
 		(pts
@@ -12345,6 +12275,16 @@
 	)
 	(wire
 		(pts
+			(xy 373.38 154.94) (xy 373.38 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5688f766-007d-4262-b481-7654daa148eb")
+	)
+	(wire
+		(pts
 			(xy 176.53 224.79) (xy 176.53 228.6)
 		)
 		(stroke
@@ -12392,6 +12332,16 @@
 			(type default)
 		)
 		(uuid "57d3f206-62a6-4045-a7c0-3af57e2e7f33")
+	)
+	(wire
+		(pts
+			(xy 407.67 142.24) (xy 407.67 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58a84e82-76c0-46e9-8f65-07be4c6e44f3")
 	)
 	(wire
 		(pts
@@ -12493,6 +12443,16 @@
 		)
 		(uuid "606d3e5a-e36b-4e1a-8f81-8df926da58a4")
 	)
+	(wire
+		(pts
+			(xy 373.38 166.37) (xy 373.38 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61243f3b-3ba1-410a-9e9f-079519c20888")
+	)
 	(polyline
 		(pts
 			(xy 204.47 208.28) (xy 204.47 204.47)
@@ -12575,6 +12535,16 @@
 	)
 	(wire
 		(pts
+			(xy 290.83 154.94) (xy 290.83 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "654c4579-f027-4baf-8c7d-aeb085dd4e29")
+	)
+	(wire
+		(pts
 			(xy 223.52 66.04) (xy 231.14 66.04)
 		)
 		(stroke
@@ -12625,6 +12595,16 @@
 	)
 	(wire
 		(pts
+			(xy 306.07 142.24) (xy 306.07 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69cd244d-93d3-408c-a17d-98e5396c8952")
+	)
+	(wire
+		(pts
 			(xy 176.53 228.6) (xy 175.26 228.6)
 		)
 		(stroke
@@ -12665,6 +12645,16 @@
 	)
 	(wire
 		(pts
+			(xy 373.38 116.84) (xy 373.38 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b2020a1-2e11-4dec-80c4-a0c8da9f3296")
+	)
+	(wire
+		(pts
 			(xy 223.52 83.82) (xy 234.95 83.82)
 		)
 		(stroke
@@ -12695,16 +12685,6 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 116.84) (xy 373.38 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6da3f791-cb68-4c27-b254-2fc0779e848c")
-	)
-	(wire
-		(pts
 			(xy 331.47 83.82) (xy 314.96 83.82)
 		)
 		(stroke
@@ -12712,6 +12692,16 @@
 			(type default)
 		)
 		(uuid "6dbe6d37-5cae-4bb3-a32e-ed070870fea8")
+	)
+	(wire
+		(pts
+			(xy 339.09 154.94) (xy 339.09 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e13b55d-809d-4f40-b463-9574c126051b")
 	)
 	(wire
 		(pts
@@ -12815,16 +12805,6 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 104.14) (xy 373.38 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72ba25bb-4cd3-46f2-acfa-75e91349596f")
-	)
-	(wire
-		(pts
 			(xy 314.96 148.59) (xy 298.45 148.59)
 		)
 		(stroke
@@ -12835,16 +12815,6 @@
 	)
 	(wire
 		(pts
-			(xy 306.07 142.24) (xy 306.07 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7338ec18-1487-4495-a80c-337d4ffa379c")
-	)
-	(wire
-		(pts
 			(xy 71.12 175.26) (xy 73.66 175.26)
 		)
 		(stroke
@@ -12852,6 +12822,16 @@
 			(type default)
 		)
 		(uuid "73d1d6ed-fa89-42ab-a533-9eff3a6a9d69")
+	)
+	(wire
+		(pts
+			(xy 322.58 142.24) (xy 322.58 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74c54a6b-048b-489c-9a6c-8440967d052c")
 	)
 	(wire
 		(pts
@@ -12882,16 +12862,6 @@
 			(type default)
 		)
 		(uuid "7612d684-0067-4017-9713-b7d7a9b4e298")
-	)
-	(wire
-		(pts
-			(xy 322.58 129.54) (xy 322.58 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "77a606e3-722d-4bed-85ef-7ae57b019114")
 	)
 	(wire
 		(pts
@@ -12945,13 +12915,13 @@
 	)
 	(wire
 		(pts
-			(xy 407.67 104.14) (xy 407.67 116.84)
+			(xy 290.83 129.54) (xy 290.83 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7b5a43ac-a2f1-402f-a8e9-5e1043120ac7")
+		(uuid "7ae905ba-1bb6-4f5a-a914-a799bcd16046")
 	)
 	(wire
 		(pts
@@ -12972,26 +12942,6 @@
 			(type default)
 		)
 		(uuid "7bcebe40-83cb-4b84-bc76-81ba27bcd48a")
-	)
-	(wire
-		(pts
-			(xy 407.67 142.24) (xy 407.67 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c55055b-8f64-4d28-b272-c4a7f3947f27")
-	)
-	(wire
-		(pts
-			(xy 373.38 142.24) (xy 373.38 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d1a35b4-d52f-41f9-99bd-1f7289fb5fad")
 	)
 	(wire
 		(pts
@@ -13042,6 +12992,16 @@
 			(type default)
 		)
 		(uuid "7e75c3bf-98b1-4552-ac08-6304388e2308")
+	)
+	(wire
+		(pts
+			(xy 407.67 154.94) (xy 407.67 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "802e81af-437c-4e06-a559-522cd18dbafb")
 	)
 	(wire
 		(pts
@@ -13115,6 +13075,16 @@
 	)
 	(wire
 		(pts
+			(xy 339.09 116.84) (xy 339.09 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81cf9516-a8e8-43ff-9bb8-0cf7015a6339")
+	)
+	(wire
+		(pts
 			(xy 73.66 175.26) (xy 73.66 176.53)
 		)
 		(stroke
@@ -13162,16 +13132,6 @@
 			(type default)
 		)
 		(uuid "826251d5-6aba-44b9-878d-c0be029e6613")
-	)
-	(wire
-		(pts
-			(xy 290.83 154.94) (xy 290.83 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8299f110-bad5-4c8a-8b2d-803ae30ac4ce")
 	)
 	(wire
 		(pts
@@ -13235,13 +13195,13 @@
 	)
 	(wire
 		(pts
-			(xy 407.67 166.37) (xy 407.67 177.8)
+			(xy 339.09 104.14) (xy 339.09 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "871a17d9-d044-45e4-bb1c-2098f81bd6fd")
+		(uuid "85a593a1-f3ce-49b3-89e4-c99d564df4ae")
 	)
 	(wire
 		(pts
@@ -13315,13 +13275,13 @@
 	)
 	(wire
 		(pts
-			(xy 407.67 129.54) (xy 407.67 142.24)
+			(xy 322.58 116.84) (xy 322.58 129.54)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8c1e391a-8140-4d0f-ae70-c11166047212")
+		(uuid "8c70afed-d9af-470e-9a1f-54da0b4b4cf8")
 	)
 	(wire
 		(pts
@@ -13332,16 +13292,6 @@
 			(type default)
 		)
 		(uuid "8ca7b1ae-24f2-4642-b4c3-32280ba9d827")
-	)
-	(wire
-		(pts
-			(xy 389.89 116.84) (xy 389.89 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d31b80f-08b0-40b1-a148-fa013c9370a6")
 	)
 	(wire
 		(pts
@@ -13395,16 +13345,6 @@
 	)
 	(wire
 		(pts
-			(xy 356.87 104.14) (xy 356.87 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f715d2f-c2d5-4932-9ce0-8aa3b5f69866")
-	)
-	(wire
-		(pts
 			(xy 220.98 240.03) (xy 223.52 240.03)
 		)
 		(stroke
@@ -13422,6 +13362,16 @@
 			(type default)
 		)
 		(uuid "8f959d7b-4b42-4747-adb3-3fb8d03b0bec")
+	)
+	(wire
+		(pts
+			(xy 373.38 104.14) (xy 373.38 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "900888b2-1b8c-41cd-83be-c2a1da228cd4")
 	)
 	(wire
 		(pts
@@ -13462,6 +13412,16 @@
 			(type default)
 		)
 		(uuid "927b7775-999b-4bb8-ab34-9ba483aacb6b")
+	)
+	(wire
+		(pts
+			(xy 407.67 104.14) (xy 407.67 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92fbddc0-7ec1-418b-bee3-194a0bea8c9e")
 	)
 	(wire
 		(pts
@@ -13545,16 +13505,6 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 91.44) (xy 322.58 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94e2141d-209b-42c0-9516-6e6303032cc9")
-	)
-	(wire
-		(pts
 			(xy 41.91 123.19) (xy 41.91 130.81)
 		)
 		(stroke
@@ -13565,16 +13515,6 @@
 	)
 	(wire
 		(pts
-			(xy 306.07 154.94) (xy 306.07 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9626ef09-bdd7-43dd-b7d1-3ebe8d51c586")
-	)
-	(wire
-		(pts
 			(xy 382.27 129.54) (xy 382.27 123.19)
 		)
 		(stroke
@@ -13582,16 +13522,6 @@
 			(type default)
 		)
 		(uuid "964b8b5a-b9e9-471e-b5d5-2240407ab612")
-	)
-	(wire
-		(pts
-			(xy 306.07 129.54) (xy 306.07 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "972693fc-71be-481f-a102-43c4867b467b")
 	)
 	(wire
 		(pts
@@ -13675,7 +13605,17 @@
 	)
 	(wire
 		(pts
-			(xy 356.87 154.94) (xy 356.87 166.37)
+			(xy 306.07 116.84) (xy 306.07 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "997f2086-76d7-4a82-8c26-1dffdf3014ce")
+	)
+	(wire
+		(pts
+			(xy 356.87 91.44) (xy 356.87 104.14)
 		)
 		(stroke
 			(width 0)
@@ -13712,16 +13652,6 @@
 			(type default)
 		)
 		(uuid "9a38d7a2-9f65-459d-bd00-dd6c16ee24f1")
-	)
-	(wire
-		(pts
-			(xy 407.67 116.84) (xy 407.67 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a447e13-4df4-4b01-bb12-8887b5222881")
 	)
 	(wire
 		(pts
@@ -13772,6 +13702,16 @@
 			(type default)
 		)
 		(uuid "9cbf86b9-787d-47b1-a7ec-392c18efc217")
+	)
+	(wire
+		(pts
+			(xy 389.89 142.24) (xy 389.89 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e585999-01ba-4403-9df3-1ccb5e86fbe4")
 	)
 	(wire
 		(pts
@@ -13975,23 +13915,13 @@
 	)
 	(wire
 		(pts
-			(xy 306.07 104.14) (xy 306.07 116.84)
+			(xy 290.83 104.14) (xy 290.83 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a88c8300-3b5d-48bc-b5d7-5969d9f977b3")
-	)
-	(wire
-		(pts
-			(xy 356.87 91.44) (xy 356.87 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab103331-0429-4f9c-bf80-49a7792c8622")
+		(uuid "a799f15e-ad0f-4119-bf4f-fb6a3402d26e")
 	)
 	(wire
 		(pts
@@ -14022,6 +13952,16 @@
 			(type default)
 		)
 		(uuid "ac8debdf-22e3-407d-a382-5ca8b7efe4b1")
+	)
+	(wire
+		(pts
+			(xy 356.87 166.37) (xy 356.87 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad97a459-cd07-4b93-88bd-c8fff4ca1bbf")
 	)
 	(wire
 		(pts
@@ -14075,23 +14015,13 @@
 	)
 	(wire
 		(pts
-			(xy 290.83 116.84) (xy 290.83 129.54)
+			(xy 306.07 129.54) (xy 306.07 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "afcec36a-b31d-4729-9c0b-28b064d6b15f")
-	)
-	(wire
-		(pts
-			(xy 322.58 116.84) (xy 322.58 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b06f7f8d-fd90-4187-88cd-05b27c7f266e")
+		(uuid "afba3a92-9955-4830-a614-706f9e764b85")
 	)
 	(wire
 		(pts
@@ -14102,6 +14032,26 @@
 			(type default)
 		)
 		(uuid "b0c1fd79-425b-4b74-94ae-6dce109d40c4")
+	)
+	(wire
+		(pts
+			(xy 389.89 104.14) (xy 389.89 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b122da0d-ca56-4736-a97c-541b6cbb3dd9")
+	)
+	(wire
+		(pts
+			(xy 274.32 129.54) (xy 274.32 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b47ea432-7ec1-44c3-b39e-4ec38c540972")
 	)
 	(wire
 		(pts
@@ -14125,6 +14075,26 @@
 	)
 	(wire
 		(pts
+			(xy 339.09 166.37) (xy 339.09 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b66feed2-5e4d-4504-a31f-246e8cbb4682")
+	)
+	(wire
+		(pts
+			(xy 274.32 142.24) (xy 274.32 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6ce5471-a5af-44f6-8f05-b7e4d9e882a4")
+	)
+	(wire
+		(pts
 			(xy 400.05 83.82) (xy 382.27 83.82)
 		)
 		(stroke
@@ -14135,13 +14105,13 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 166.37) (xy 322.58 177.8)
+			(xy 407.67 166.37) (xy 407.67 177.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bb16049a-2a09-4bfd-91d6-4062823b5d3c")
+		(uuid "b9fb69de-baad-4f76-b138-d7782c8a57a1")
 	)
 	(wire
 		(pts
@@ -14172,6 +14142,16 @@
 			(type default)
 		)
 		(uuid "bc84d0f7-f7ff-4ec4-8101-49af6660bdba")
+	)
+	(wire
+		(pts
+			(xy 306.07 166.37) (xy 306.07 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd0a7e0b-0852-4236-99ba-89fc4ffe722c")
 	)
 	(polyline
 		(pts
@@ -14235,6 +14215,16 @@
 	)
 	(wire
 		(pts
+			(xy 322.58 166.37) (xy 322.58 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0296609-e381-450f-b5d2-179bba050dbb")
+	)
+	(wire
+		(pts
 			(xy 382.27 142.24) (xy 382.27 135.89)
 		)
 		(stroke
@@ -14242,16 +14232,6 @@
 			(type default)
 		)
 		(uuid "c0a55acf-16c2-4136-9e91-520832564daa")
-	)
-	(wire
-		(pts
-			(xy 339.09 129.54) (xy 339.09 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c10da68d-51ea-44e1-bd35-0be242f708ed")
 	)
 	(polyline
 		(pts
@@ -14262,6 +14242,26 @@
 			(type default)
 		)
 		(uuid "c136dfd9-55fd-4ad0-9d9c-f0298fc49e2b")
+	)
+	(wire
+		(pts
+			(xy 356.87 129.54) (xy 356.87 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1584971-31a6-4535-b1a6-a043c78f4306")
+	)
+	(wire
+		(pts
+			(xy 389.89 129.54) (xy 389.89 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c192a6db-57e1-48a2-873e-e5c93d91c081")
 	)
 	(polyline
 		(pts
@@ -14305,33 +14305,33 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 129.54) (xy 274.32 142.24)
+			(xy 290.83 142.24) (xy 290.83 154.94)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c3d2ab7f-790c-46cf-82fa-a7fd28a862a0")
+		(uuid "c483692f-7811-442d-be80-d0f0dfc2b6a3")
 	)
 	(wire
 		(pts
-			(xy 389.89 154.94) (xy 389.89 166.37)
+			(xy 274.32 104.14) (xy 274.32 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c4a9ff8e-0b94-4343-876f-785c67e002af")
+		(uuid "c4f0122d-361f-4905-adef-fc84556e39b5")
 	)
 	(wire
 		(pts
-			(xy 356.87 116.84) (xy 356.87 129.54)
+			(xy 274.32 116.84) (xy 274.32 129.54)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c4b937dc-c904-46e3-a019-b6af911ff541")
+		(uuid "c577e470-ef69-4404-b1b3-36061d24700a")
 	)
 	(wire
 		(pts
@@ -14435,7 +14435,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 166.37) (xy 274.32 177.8)
+			(xy 274.32 91.44) (xy 274.32 104.14)
 		)
 		(stroke
 			(width 0)
@@ -14452,16 +14452,6 @@
 			(type default)
 		)
 		(uuid "cbfefdc1-c8dd-42db-88ba-227f2c331e0d")
-	)
-	(wire
-		(pts
-			(xy 389.89 166.37) (xy 389.89 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc1ab407-4b19-4967-8010-2b880ac665f4")
 	)
 	(wire
 		(pts
@@ -14575,6 +14565,16 @@
 	)
 	(wire
 		(pts
+			(xy 322.58 154.94) (xy 322.58 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d020731f-4235-4911-9c6a-aac8f953bd9d")
+	)
+	(wire
+		(pts
 			(xy 314.96 91.44) (xy 314.96 83.82)
 		)
 		(stroke
@@ -14582,6 +14582,16 @@
 			(type default)
 		)
 		(uuid "d0e79911-4146-4680-b3fe-4159b63a0bbd")
+	)
+	(wire
+		(pts
+			(xy 407.67 116.84) (xy 407.67 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d14bae57-04f6-4fa8-943c-ce5090eab19e")
 	)
 	(wire
 		(pts
@@ -14625,7 +14635,7 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 166.37) (xy 373.38 177.8)
+			(xy 373.38 91.44) (xy 373.38 104.14)
 		)
 		(stroke
 			(width 0)
@@ -14645,13 +14655,13 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 104.14) (xy 322.58 116.84)
+			(xy 290.83 166.37) (xy 290.83 177.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d459e4f4-9b5d-48e8-9aee-8ddf2f6e2290")
+		(uuid "d4355e73-4d90-4ba0-b756-aacf7e019930")
 	)
 	(wire
 		(pts
@@ -14705,7 +14715,7 @@
 	)
 	(wire
 		(pts
-			(xy 407.67 154.94) (xy 407.67 166.37)
+			(xy 407.67 91.44) (xy 407.67 104.14)
 		)
 		(stroke
 			(width 0)
@@ -14795,16 +14805,6 @@
 	)
 	(wire
 		(pts
-			(xy 339.09 116.84) (xy 339.09 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dafc6a94-44bf-45ce-b701-9a04439222de")
-	)
-	(wire
-		(pts
 			(xy 55.88 162.56) (xy 53.34 162.56)
 		)
 		(stroke
@@ -14812,6 +14812,16 @@
 			(type default)
 		)
 		(uuid "db2bc98b-c565-4478-94f3-75505835e48f")
+	)
+	(wire
+		(pts
+			(xy 407.67 129.54) (xy 407.67 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc0cb5df-1d54-4350-9023-61447df1cf81")
 	)
 	(wire
 		(pts
@@ -14862,26 +14872,6 @@
 			(type default)
 		)
 		(uuid "de32c366-1a8d-4c6b-8ccf-09ab890918b0")
-	)
-	(wire
-		(pts
-			(xy 407.67 91.44) (xy 407.67 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dfc921a3-c7de-4e1d-84de-d9aa156d3fcf")
-	)
-	(wire
-		(pts
-			(xy 373.38 91.44) (xy 373.38 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0274137-cb26-4747-bb74-cf7ebef830b1")
 	)
 	(polyline
 		(pts
@@ -15042,16 +15032,6 @@
 			(type default)
 		)
 		(uuid "e98c86fb-9ec2-4c2a-b740-20c5f3465431")
-	)
-	(wire
-		(pts
-			(xy 274.32 154.94) (xy 274.32 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9f65f0c-f430-4cd5-8da6-c54d0ec8efd7")
 	)
 	(wire
 		(pts
@@ -15225,6 +15205,16 @@
 	)
 	(wire
 		(pts
+			(xy 322.58 104.14) (xy 322.58 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f39ce09a-533f-4dfb-a33d-05f1f1ce519a")
+	)
+	(wire
+		(pts
 			(xy 262.89 104.14) (xy 266.7 104.14)
 		)
 		(stroke
@@ -15232,16 +15222,6 @@
 			(type default)
 		)
 		(uuid "f3c77a18-42be-41a2-af8f-fc2792fd5342")
-	)
-	(wire
-		(pts
-			(xy 356.87 166.37) (xy 356.87 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f481a93a-11f5-410c-9cd6-9be1f015f0f1")
 	)
 	(wire
 		(pts
@@ -15255,7 +15235,17 @@
 	)
 	(wire
 		(pts
-			(xy 290.83 166.37) (xy 290.83 177.8)
+			(xy 356.87 154.94) (xy 356.87 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f562a536-c5ea-406e-bb09-ed43b7e30b32")
+	)
+	(wire
+		(pts
+			(xy 290.83 91.44) (xy 290.83 104.14)
 		)
 		(stroke
 			(width 0)
@@ -15315,16 +15305,6 @@
 	)
 	(wire
 		(pts
-			(xy 290.83 104.14) (xy 290.83 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8b60404-1b47-404d-b988-7c043d568add")
-	)
-	(wire
-		(pts
 			(xy 133.35 166.37) (xy 134.62 166.37)
 		)
 		(stroke
@@ -15355,6 +15335,16 @@
 	)
 	(wire
 		(pts
+			(xy 339.09 142.24) (xy 339.09 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb48fd40-4325-4ac3-8f0f-0a38f939381b")
+	)
+	(wire
+		(pts
 			(xy 383.54 69.85) (xy 388.62 69.85)
 		)
 		(stroke
@@ -15382,6 +15372,16 @@
 			(type default)
 		)
 		(uuid "fdb804cb-9f2a-4253-baa4-14b7b8a5c772")
+	)
+	(wire
+		(pts
+			(xy 356.87 142.24) (xy 356.87 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe145e66-40ea-47c6-9446-6735e3c68fd9")
 	)
 	(wire
 		(pts
@@ -16934,7 +16934,7 @@
 			)
 		)
 	)
-	(global_label "R5"
+	(global_label "R4"
 		(shape output)
 		(at 396.24 69.85 0)
 		(effects
@@ -17086,7 +17086,7 @@
 			)
 		)
 	)
-	(global_label "R7"
+	(global_label "R6"
 		(shape output)
 		(at 396.24 54.61 0)
 		(effects
@@ -17150,7 +17150,7 @@
 			)
 		)
 	)
-	(global_label "C7"
+	(global_label "C6"
 		(shape output)
 		(at 378.46 34.29 0)
 		(effects
@@ -17236,7 +17236,7 @@
 			)
 		)
 	)
-	(global_label "R4"
+	(global_label "R3"
 		(shape output)
 		(at 261.62 69.85 180)
 		(effects
@@ -17564,7 +17564,7 @@
 			)
 		)
 	)
-	(global_label "R8"
+	(global_label "R7"
 		(shape input)
 		(at 262.89 177.8 180)
 		(effects
@@ -17584,7 +17584,7 @@
 			)
 		)
 	)
-	(global_label "C6"
+	(global_label "C5"
 		(shape input)
 		(at 356.87 91.44 0)
 		(effects
@@ -17648,7 +17648,7 @@
 			)
 		)
 	)
-	(global_label "R2"
+	(global_label "R1"
 		(shape input)
 		(at 262.89 104.14 180)
 		(effects
@@ -17668,7 +17668,7 @@
 			)
 		)
 	)
-	(global_label "R1"
+	(global_label "R0"
 		(shape input)
 		(at 262.89 91.44 180)
 		(effects
@@ -17754,7 +17754,7 @@
 			)
 		)
 	)
-	(global_label "R4"
+	(global_label "R3"
 		(shape input)
 		(at 262.89 129.54 180)
 		(effects
@@ -17818,7 +17818,7 @@
 			)
 		)
 	)
-	(global_label "R3"
+	(global_label "R2"
 		(shape input)
 		(at 262.89 116.84 180)
 		(effects
@@ -17926,27 +17926,7 @@
 			)
 		)
 	)
-	(global_label "C5"
-		(shape output)
-		(at 378.46 39.37 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "63578e93-e2ba-4a02-8851-325ea43b159b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 378.46 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "C9"
+	(global_label "C4"
 		(shape output)
 		(at 378.46 29.21 0)
 		(effects
@@ -17955,9 +17935,29 @@
 			)
 			(justify left)
 		)
-		(uuid "64c6709e-478f-42e0-8a55-7ba7c8e2e5a5")
+		(uuid "63578e93-e2ba-4a02-8851-325ea43b159b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 378.46 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C8"
+		(shape output)
+		(at 378.46 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "64c6709e-478f-42e0-8a55-7ba7c8e2e5a5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 378.46 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18032,7 +18032,7 @@
 			)
 		)
 	)
-	(global_label "R5"
+	(global_label "R4"
 		(shape input)
 		(at 262.89 142.24 180)
 		(effects
@@ -18074,7 +18074,7 @@
 			)
 		)
 	)
-	(global_label "C5"
+	(global_label "C4"
 		(shape input)
 		(at 339.09 91.44 0)
 		(effects
@@ -18116,7 +18116,7 @@
 			)
 		)
 	)
-	(global_label "C1"
+	(global_label "C0"
 		(shape input)
 		(at 274.32 91.44 0)
 		(effects
@@ -18180,7 +18180,7 @@
 			)
 		)
 	)
-	(global_label "C9"
+	(global_label "C8"
 		(shape input)
 		(at 407.67 91.44 0)
 		(effects
@@ -18200,7 +18200,7 @@
 			)
 		)
 	)
-	(global_label "C3"
+	(global_label "C2"
 		(shape input)
 		(at 306.07 91.44 0)
 		(effects
@@ -18220,7 +18220,7 @@
 			)
 		)
 	)
-	(global_label "C4"
+	(global_label "C3"
 		(shape input)
 		(at 322.58 91.44 0)
 		(effects
@@ -18372,9 +18372,9 @@
 			)
 		)
 	)
-	(global_label "C1"
+	(global_label "C0"
 		(shape output)
-		(at 284.48 29.21 180)
+		(at 284.48 39.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18383,7 +18383,7 @@
 		)
 		(uuid "8cd0a5da-bf6d-4f0d-9e17-41a82e2e8e57")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 284.48 29.21 0)
+			(at 284.48 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18414,7 +18414,7 @@
 			)
 		)
 	)
-	(global_label "R6"
+	(global_label "R5"
 		(shape input)
 		(at 262.89 154.94 180)
 		(effects
@@ -18456,7 +18456,7 @@
 			)
 		)
 	)
-	(global_label "R1"
+	(global_label "R0"
 		(shape output)
 		(at 261.62 46.99 180)
 		(effects
@@ -18564,7 +18564,7 @@
 			)
 		)
 	)
-	(global_label "R2"
+	(global_label "R1"
 		(shape output)
 		(at 261.62 54.61 180)
 		(effects
@@ -18694,7 +18694,7 @@
 			)
 		)
 	)
-	(global_label "R7"
+	(global_label "R6"
 		(shape input)
 		(at 262.89 166.37 180)
 		(effects
@@ -18824,9 +18824,9 @@
 			)
 		)
 	)
-	(global_label "C4"
+	(global_label "C3"
 		(shape output)
-		(at 284.48 39.37 180)
+		(at 284.48 29.21 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18835,7 +18835,7 @@
 		)
 		(uuid "c2f00661-0a7e-4d1e-83aa-1692b97d4b74")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 284.48 39.37 0)
+			(at 284.48 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18910,9 +18910,9 @@
 			)
 		)
 	)
-	(global_label "C3"
+	(global_label "C2"
 		(shape output)
-		(at 284.48 34.29 180)
+		(at 284.48 31.75 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18921,7 +18921,7 @@
 		)
 		(uuid "c85d2db2-ba55-4b84-bd15-3729ca8c7551")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 284.48 34.29 0)
+			(at 284.48 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18974,7 +18974,7 @@
 			)
 		)
 	)
-	(global_label "R8"
+	(global_label "R7"
 		(shape output)
 		(at 396.24 46.99 0)
 		(effects
@@ -19082,7 +19082,7 @@
 			)
 		)
 	)
-	(global_label "C8"
+	(global_label "C7"
 		(shape input)
 		(at 389.89 91.44 0)
 		(effects
@@ -19124,7 +19124,7 @@
 			)
 		)
 	)
-	(global_label "C2"
+	(global_label "C1"
 		(shape input)
 		(at 290.83 91.44 0)
 		(effects
@@ -19144,7 +19144,7 @@
 			)
 		)
 	)
-	(global_label "R6"
+	(global_label "R5"
 		(shape output)
 		(at 396.24 62.23 0)
 		(effects
@@ -19208,9 +19208,9 @@
 			)
 		)
 	)
-	(global_label "C6"
+	(global_label "C5"
 		(shape output)
-		(at 378.46 36.83 0)
+		(at 378.46 31.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19219,7 +19219,7 @@
 		)
 		(uuid "e2aa93c4-e47c-4d78-ae8f-fd8d1ccdd571")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 378.46 36.83 0)
+			(at 378.46 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19404,7 +19404,7 @@
 			)
 		)
 	)
-	(global_label "C7"
+	(global_label "C6"
 		(shape input)
 		(at 373.38 91.44 0)
 		(effects
@@ -19446,9 +19446,9 @@
 			)
 		)
 	)
-	(global_label "C2"
+	(global_label "C1"
 		(shape output)
-		(at 284.48 31.75 180)
+		(at 284.48 34.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19457,7 +19457,7 @@
 		)
 		(uuid "f262ac28-7ca0-4b97-90e8-aa757009d59a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 284.48 31.75 0)
+			(at 284.48 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19466,7 +19466,7 @@
 			)
 		)
 	)
-	(global_label "R3"
+	(global_label "R2"
 		(shape output)
 		(at 261.62 62.23 180)
 		(effects
@@ -19574,9 +19574,9 @@
 			)
 		)
 	)
-	(global_label "C8"
+	(global_label "C7"
 		(shape output)
-		(at 378.46 31.75 0)
+		(at 378.46 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19585,7 +19585,7 @@
 		)
 		(uuid "f9bd1cbc-1eb7-4cda-9f0e-c9715003a0b5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 378.46 31.75 0)
+			(at 378.46 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19904,7 +19904,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 271.78 166.37 0)
+		(at 269.24 166.37 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19912,7 +19913,7 @@
 		(dnp no)
 		(uuid "01682e58-9765-45fe-bece-83b41461b415")
 		(property "Reference" "D19"
-			(at 272.288 164.592 0)
+			(at 268.732 164.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19921,7 +19922,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 270.764 169.164 0)
+			(at 270.256 169.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19930,7 +19931,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 271.78 161.925 0)
+			(at 269.24 161.925 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19948,7 +19949,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 271.78 166.37 0)
+			(at 269.24 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19957,7 +19958,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 271.78 166.37 0)
+			(at 269.24 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20439,7 +20440,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 405.13 166.37 0)
+		(at 402.59 166.37 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20447,7 +20449,7 @@
 		(dnp no)
 		(uuid "07edacef-1517-4b72-bb22-4e09af5621b2")
 		(property "Reference" "D83"
-			(at 405.638 164.592 0)
+			(at 402.082 164.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20456,7 +20458,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 404.114 169.164 0)
+			(at 403.606 169.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20465,7 +20467,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 405.13 161.925 0)
+			(at 402.59 161.925 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20483,7 +20485,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 405.13 166.37 0)
+			(at 402.59 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20492,7 +20494,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 405.13 166.37 0)
+			(at 402.59 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20644,7 +20646,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 405.13 104.14 0)
+		(at 402.59 104.14 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20652,7 +20655,7 @@
 		(dnp no)
 		(uuid "0a3db0b7-a73b-42e7-bf50-f82751aade41")
 		(property "Reference" "D78"
-			(at 405.638 102.362 0)
+			(at 402.082 102.362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20661,7 +20664,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 404.114 106.934 0)
+			(at 403.606 106.934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20670,7 +20673,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 405.13 99.695 0)
+			(at 402.59 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20688,7 +20691,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 405.13 104.14 0)
+			(at 402.59 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20697,7 +20700,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 405.13 104.14 0)
+			(at 402.59 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20722,7 +20725,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 271.78 129.54 0)
+		(at 269.24 129.54 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20730,7 +20734,7 @@
 		(dnp no)
 		(uuid "0ad93066-8ddf-4ee8-a6d8-a8ad532aa403")
 		(property "Reference" "D16"
-			(at 272.288 127.762 0)
+			(at 268.732 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20739,7 +20743,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 270.764 132.334 0)
+			(at 270.256 132.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20748,7 +20752,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 271.78 125.095 0)
+			(at 269.24 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20766,7 +20770,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 271.78 129.54 0)
+			(at 269.24 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20775,7 +20779,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 271.78 129.54 0)
+			(at 269.24 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20800,7 +20804,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 320.04 177.8 0)
+		(at 317.5 177.8 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20808,7 +20813,7 @@
 		(dnp no)
 		(uuid "0b72115d-8a3b-4675-8917-be05544de7cc")
 		(property "Reference" "D44"
-			(at 320.548 176.022 0)
+			(at 316.992 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20817,7 +20822,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 319.024 180.594 0)
+			(at 318.516 180.594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20826,7 +20831,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 320.04 173.355 0)
+			(at 317.5 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20844,7 +20849,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 320.04 177.8 0)
+			(at 317.5 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20853,7 +20858,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 320.04 177.8 0)
+			(at 317.5 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20969,7 +20974,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Swadge_Parts:RK10J11R001Y"
+		(property "Footprint" "Swadge_Parts:RK10J11E0034"
 			(at 203.2 99.06 0)
 			(effects
 				(font
@@ -20978,7 +20983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_ALPSALPINE-RK10J11R001Y_C470765.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C470643.pdf"
 			(at 203.2 96.52 0)
 			(effects
 				(font
@@ -20987,7 +20992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RK10J11R001Y"
+		(property "Description" "RK10J11E0034"
 			(at 203.2 83.82 0)
 			(effects
 				(font
@@ -20996,7 +21001,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C470765"
+		(property "LCSC" "C470643"
 			(at 203.2 101.6 0)
 			(effects
 				(font
@@ -21005,7 +21010,7 @@
 				(hide yes)
 			)
 		)
-		(property "Cost @ 2.5k" "0.514"
+		(property "Cost @ 2.5k" ".8437"
 			(at 203.2 83.82 0)
 			(effects
 				(font
@@ -21034,7 +21039,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 370.84 116.84 0)
+		(at 368.3 116.84 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21042,7 +21048,7 @@
 		(dnp no)
 		(uuid "0d7c9388-5246-4b7d-ac87-a60a1fa26785")
 		(property "Reference" "D63"
-			(at 371.348 115.062 0)
+			(at 367.792 115.062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21051,7 +21057,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 369.824 119.634 0)
+			(at 369.316 119.634 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21060,7 +21066,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 370.84 112.395 0)
+			(at 368.3 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21078,7 +21084,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 370.84 116.84 0)
+			(at 368.3 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21087,7 +21093,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 370.84 116.84 0)
+			(at 368.3 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21289,7 +21295,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 320.04 142.24 0)
+		(at 317.5 142.24 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21297,7 +21304,7 @@
 		(dnp no)
 		(uuid "12ddbf48-a8dd-4f87-be84-6a256ccd0c61")
 		(property "Reference" "D41"
-			(at 320.548 140.462 0)
+			(at 316.992 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21306,7 +21313,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 319.024 145.034 0)
+			(at 318.516 145.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21315,7 +21322,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 320.04 137.795 0)
+			(at 317.5 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21333,7 +21340,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 320.04 142.24 0)
+			(at 317.5 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21342,7 +21349,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 320.04 142.24 0)
+			(at 317.5 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21479,7 +21486,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 405.13 91.44 0)
+		(at 402.59 91.44 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21487,7 +21495,7 @@
 		(dnp no)
 		(uuid "14767a15-e7e2-4264-8f20-d91918d8be8d")
 		(property "Reference" "D77"
-			(at 405.638 89.662 0)
+			(at 402.082 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21496,7 +21504,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 404.114 94.234 0)
+			(at 403.606 94.234 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21505,7 +21513,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 405.13 86.995 0)
+			(at 402.59 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21523,7 +21531,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 405.13 91.44 0)
+			(at 402.59 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21532,7 +21540,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 405.13 91.44 0)
+			(at 402.59 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21557,7 +21565,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 288.29 142.24 0)
+		(at 285.75 142.24 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21565,7 +21574,7 @@
 		(dnp no)
 		(uuid "15a8becd-ff2e-4e69-a941-9ede28d4d152")
 		(property "Reference" "D25"
-			(at 288.798 140.462 0)
+			(at 285.242 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21574,7 +21583,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 287.274 145.034 0)
+			(at 286.766 145.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21583,7 +21592,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 288.29 137.795 0)
+			(at 285.75 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21601,7 +21610,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 288.29 142.24 0)
+			(at 285.75 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21610,7 +21619,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 288.29 142.24 0)
+			(at 285.75 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21765,7 +21774,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 320.04 116.84 0)
+		(at 317.5 116.84 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21773,7 +21783,7 @@
 		(dnp no)
 		(uuid "172fb641-e844-488a-84b8-daa75f53e687")
 		(property "Reference" "D39"
-			(at 320.548 115.062 0)
+			(at 316.992 115.062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21782,7 +21792,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 319.024 119.634 0)
+			(at 318.516 119.634 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21791,7 +21801,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 320.04 112.395 0)
+			(at 317.5 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21809,7 +21819,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 320.04 116.84 0)
+			(at 317.5 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21818,7 +21828,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 320.04 116.84 0)
+			(at 317.5 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22020,7 +22030,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 354.33 129.54 0)
+		(at 351.79 129.54 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22028,7 +22039,7 @@
 		(dnp no)
 		(uuid "184c78f2-ce1c-4558-a3ba-26a166815464")
 		(property "Reference" "D56"
-			(at 354.838 127.762 0)
+			(at 351.282 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22037,7 +22048,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 353.314 132.334 0)
+			(at 352.806 132.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22046,7 +22057,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 354.33 125.095 0)
+			(at 351.79 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22064,7 +22075,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 354.33 129.54 0)
+			(at 351.79 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22073,7 +22084,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 354.33 129.54 0)
+			(at 351.79 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22403,7 +22414,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 336.55 166.37 0)
+		(at 334.01 166.37 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22411,7 +22423,7 @@
 		(dnp no)
 		(uuid "195553c5-ca1e-4382-aec1-961fd74568bf")
 		(property "Reference" "D51"
-			(at 337.058 164.592 0)
+			(at 333.502 164.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22420,7 +22432,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 335.534 169.164 0)
+			(at 335.026 169.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22429,7 +22441,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 336.55 161.925 0)
+			(at 334.01 161.925 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22447,7 +22459,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 336.55 166.37 0)
+			(at 334.01 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22456,7 +22468,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 336.55 166.37 0)
+			(at 334.01 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22932,7 +22944,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 387.35 104.14 0)
+		(at 384.81 104.14 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22940,7 +22953,7 @@
 		(dnp no)
 		(uuid "1b60e32d-1802-4e8e-8b68-6df72050f0d8")
 		(property "Reference" "D70"
-			(at 387.858 102.362 0)
+			(at 384.302 102.362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22949,7 +22962,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 386.334 106.934 0)
+			(at 385.826 106.934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22958,7 +22971,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 387.35 99.695 0)
+			(at 384.81 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22976,7 +22989,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 387.35 104.14 0)
+			(at 384.81 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22985,7 +22998,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 387.35 104.14 0)
+			(at 384.81 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23346,7 +23359,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 320.04 104.14 0)
+		(at 317.5 104.14 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23354,7 +23368,7 @@
 		(dnp no)
 		(uuid "1d24d330-9112-42d4-8de9-fc2fa362f336")
 		(property "Reference" "D38"
-			(at 320.548 102.362 0)
+			(at 316.992 102.362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23363,7 +23377,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 319.024 106.934 0)
+			(at 318.516 106.934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23372,7 +23386,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 320.04 99.695 0)
+			(at 317.5 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23390,7 +23404,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 320.04 104.14 0)
+			(at 317.5 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23399,7 +23413,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 320.04 104.14 0)
+			(at 317.5 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23555,7 +23569,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 405.13 177.8 0)
+		(at 402.59 177.8 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23563,7 +23578,7 @@
 		(dnp no)
 		(uuid "1d94c5b2-99df-4f99-b416-93ae684d6ee1")
 		(property "Reference" "D84"
-			(at 405.638 176.022 0)
+			(at 402.082 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23572,7 +23587,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 404.114 180.594 0)
+			(at 403.606 180.594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23581,7 +23596,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 405.13 173.355 0)
+			(at 402.59 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23599,7 +23614,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 405.13 177.8 0)
+			(at 402.59 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23608,7 +23623,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 405.13 177.8 0)
+			(at 402.59 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24117,7 +24132,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 370.84 129.54 0)
+		(at 368.3 129.54 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24125,7 +24141,7 @@
 		(dnp no)
 		(uuid "25cf03c4-ce11-4b61-8406-5a82c5a7d408")
 		(property "Reference" "D64"
-			(at 371.348 127.762 0)
+			(at 367.792 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24134,7 +24150,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 369.824 132.334 0)
+			(at 369.316 132.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24143,7 +24159,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 370.84 125.095 0)
+			(at 368.3 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24161,7 +24177,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 370.84 129.54 0)
+			(at 368.3 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24170,7 +24186,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 370.84 129.54 0)
+			(at 368.3 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24326,7 +24342,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 303.53 177.8 0)
+		(at 300.99 177.8 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24334,7 +24351,7 @@
 		(dnp no)
 		(uuid "28dbe067-c986-4f25-8295-c85aed8d09ce")
 		(property "Reference" "D36"
-			(at 304.038 176.022 0)
+			(at 300.482 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24343,7 +24360,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 302.514 180.594 0)
+			(at 302.006 180.594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24352,7 +24369,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 303.53 173.355 0)
+			(at 300.99 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24370,7 +24387,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 303.53 177.8 0)
+			(at 300.99 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24379,7 +24396,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 303.53 177.8 0)
+			(at 300.99 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24404,7 +24421,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 354.33 104.14 0)
+		(at 351.79 104.14 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24412,7 +24430,7 @@
 		(dnp no)
 		(uuid "2a73a9b0-b6c5-4dec-8447-e9ac2c82167c")
 		(property "Reference" "D54"
-			(at 354.838 102.362 0)
+			(at 351.282 102.362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24421,7 +24439,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 353.314 106.934 0)
+			(at 352.806 106.934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24430,7 +24448,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 354.33 99.695 0)
+			(at 351.79 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24448,7 +24466,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 354.33 104.14 0)
+			(at 351.79 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24457,7 +24475,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 354.33 104.14 0)
+			(at 351.79 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24482,7 +24500,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 405.13 142.24 0)
+		(at 402.59 142.24 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24490,7 +24509,7 @@
 		(dnp no)
 		(uuid "2b850f93-6fda-491c-bb65-8bb1f17f564f")
 		(property "Reference" "D81"
-			(at 405.638 140.462 0)
+			(at 402.082 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24499,7 +24518,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 404.114 145.034 0)
+			(at 403.606 145.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24508,7 +24527,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 405.13 137.795 0)
+			(at 402.59 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24526,7 +24545,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 405.13 142.24 0)
+			(at 402.59 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24535,7 +24554,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 405.13 142.24 0)
+			(at 402.59 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24625,7 +24644,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 271.78 142.24 0)
+		(at 269.24 142.24 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24633,7 +24653,7 @@
 		(dnp no)
 		(uuid "30380e38-f274-477a-9b29-596de38bd7c6")
 		(property "Reference" "D17"
-			(at 272.288 140.462 0)
+			(at 268.732 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24642,7 +24662,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 270.764 145.034 0)
+			(at 270.256 145.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24651,7 +24671,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 271.78 137.795 0)
+			(at 269.24 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24669,7 +24689,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 271.78 142.24 0)
+			(at 269.24 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24678,7 +24698,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 271.78 142.24 0)
+			(at 269.24 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24963,7 +24983,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 336.55 91.44 0)
+		(at 334.01 91.44 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24971,7 +24992,7 @@
 		(dnp no)
 		(uuid "3391fc10-88bf-4b3f-858c-4df6f7a351df")
 		(property "Reference" "D45"
-			(at 337.058 89.662 0)
+			(at 333.502 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24980,7 +25001,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 335.534 94.234 0)
+			(at 335.026 94.234 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24989,7 +25010,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 336.55 86.995 0)
+			(at 334.01 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25007,7 +25028,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 336.55 91.44 0)
+			(at 334.01 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25016,7 +25037,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 336.55 91.44 0)
+			(at 334.01 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25041,7 +25062,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 288.29 166.37 0)
+		(at 285.75 166.37 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25049,7 +25071,7 @@
 		(dnp no)
 		(uuid "35e2f345-d2da-48fb-a036-021d95a6acf5")
 		(property "Reference" "D27"
-			(at 288.798 164.592 0)
+			(at 285.242 164.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25058,7 +25080,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 287.274 169.164 0)
+			(at 286.766 169.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25067,7 +25089,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 288.29 161.925 0)
+			(at 285.75 161.925 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25085,7 +25107,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 288.29 166.37 0)
+			(at 285.75 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25094,7 +25116,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 288.29 166.37 0)
+			(at 285.75 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25791,7 +25813,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 336.55 104.14 0)
+		(at 334.01 104.14 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25799,7 +25822,7 @@
 		(dnp no)
 		(uuid "3e3a2056-c369-43e1-a7d0-c5cf3393b68c")
 		(property "Reference" "D46"
-			(at 337.058 102.362 0)
+			(at 333.502 102.362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25808,7 +25831,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 335.534 106.934 0)
+			(at 335.026 106.934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25817,7 +25840,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 336.55 99.695 0)
+			(at 334.01 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25835,7 +25858,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 336.55 104.14 0)
+			(at 334.01 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25844,7 +25867,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 336.55 104.14 0)
+			(at 334.01 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25869,7 +25892,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 354.33 166.37 0)
+		(at 351.79 166.37 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25877,7 +25901,7 @@
 		(dnp no)
 		(uuid "42609b58-7049-4cac-8b12-f553de88e614")
 		(property "Reference" "D59"
-			(at 354.838 164.592 0)
+			(at 351.282 164.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25886,7 +25910,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 353.314 169.164 0)
+			(at 352.806 169.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25895,7 +25919,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 354.33 161.925 0)
+			(at 351.79 161.925 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25913,7 +25937,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 354.33 166.37 0)
+			(at 351.79 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25922,7 +25946,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 354.33 166.37 0)
+			(at 351.79 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26428,7 +26452,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 370.84 154.94 0)
+		(at 368.3 154.94 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26436,7 +26461,7 @@
 		(dnp no)
 		(uuid "44dd6a4b-b364-4e5c-9d75-796cf7db3f84")
 		(property "Reference" "D66"
-			(at 371.348 153.162 0)
+			(at 367.792 153.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26445,7 +26470,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 369.824 157.734 0)
+			(at 369.316 157.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26454,7 +26479,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 370.84 150.495 0)
+			(at 368.3 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26472,7 +26497,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 370.84 154.94 0)
+			(at 368.3 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26481,7 +26506,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 370.84 154.94 0)
+			(at 368.3 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26506,7 +26531,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 320.04 154.94 0)
+		(at 317.5 154.94 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26514,7 +26540,7 @@
 		(dnp no)
 		(uuid "4614434d-f2be-4295-94f7-95dcc496f6a1")
 		(property "Reference" "D42"
-			(at 320.548 153.162 0)
+			(at 316.992 153.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26523,7 +26549,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 319.024 157.734 0)
+			(at 318.516 157.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26532,7 +26558,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 320.04 150.495 0)
+			(at 317.5 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26550,7 +26576,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 320.04 154.94 0)
+			(at 317.5 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26559,7 +26585,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 320.04 154.94 0)
+			(at 317.5 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26584,7 +26610,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 405.13 129.54 0)
+		(at 402.59 129.54 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26592,7 +26619,7 @@
 		(dnp no)
 		(uuid "46234865-6f29-46ac-9684-a1c14e911cde")
 		(property "Reference" "D80"
-			(at 405.638 127.762 0)
+			(at 402.082 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26601,7 +26628,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 404.114 132.334 0)
+			(at 403.606 132.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26610,7 +26637,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 405.13 125.095 0)
+			(at 402.59 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26628,7 +26655,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 405.13 129.54 0)
+			(at 402.59 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26637,7 +26664,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 405.13 129.54 0)
+			(at 402.59 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26857,7 +26884,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 370.84 104.14 0)
+		(at 368.3 104.14 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26865,7 +26893,7 @@
 		(dnp no)
 		(uuid "49c9a1b6-6fcc-42aa-8f6f-b0ea421b385e")
 		(property "Reference" "D62"
-			(at 371.348 102.362 0)
+			(at 367.792 102.362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26874,7 +26902,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 369.824 106.934 0)
+			(at 369.316 106.934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26883,7 +26911,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 370.84 99.695 0)
+			(at 368.3 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26901,7 +26929,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 370.84 104.14 0)
+			(at 368.3 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26910,7 +26938,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 370.84 104.14 0)
+			(at 368.3 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27065,7 +27093,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 320.04 129.54 0)
+		(at 317.5 129.54 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27073,7 +27102,7 @@
 		(dnp no)
 		(uuid "4b5ef775-955e-4b62-983e-9fcbc5550360")
 		(property "Reference" "D40"
-			(at 320.548 127.762 0)
+			(at 316.992 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27082,7 +27111,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 319.024 132.334 0)
+			(at 318.516 132.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27091,7 +27120,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 320.04 125.095 0)
+			(at 317.5 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27109,7 +27138,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 320.04 129.54 0)
+			(at 317.5 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27118,7 +27147,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 320.04 129.54 0)
+			(at 317.5 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27843,7 +27872,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 405.13 154.94 0)
+		(at 402.59 154.94 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27851,7 +27881,7 @@
 		(dnp no)
 		(uuid "52b09dfc-1e77-4d08-afe3-7bc5eb86c6d4")
 		(property "Reference" "D82"
-			(at 405.638 153.162 0)
+			(at 402.082 153.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27860,7 +27890,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 404.114 157.734 0)
+			(at 403.606 157.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27869,7 +27899,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 405.13 150.495 0)
+			(at 402.59 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27887,7 +27917,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 405.13 154.94 0)
+			(at 402.59 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27896,7 +27926,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 405.13 154.94 0)
+			(at 402.59 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28582,7 +28612,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22/33"
 			(at 392.43 64.77 90)
 			(effects
 				(font
@@ -28679,7 +28709,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 336.55 142.24 0)
+		(at 334.01 142.24 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28687,7 +28718,7 @@
 		(dnp no)
 		(uuid "5a0627a0-0c19-4e6a-8aeb-505f1256b923")
 		(property "Reference" "D49"
-			(at 337.058 140.462 0)
+			(at 333.502 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28696,7 +28727,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 335.534 145.034 0)
+			(at 335.026 145.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28705,7 +28736,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 336.55 137.795 0)
+			(at 334.01 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28723,7 +28754,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 336.55 142.24 0)
+			(at 334.01 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28732,7 +28763,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 336.55 142.24 0)
+			(at 334.01 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28887,7 +28918,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 370.84 142.24 0)
+		(at 368.3 142.24 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28895,7 +28927,7 @@
 		(dnp no)
 		(uuid "5da4e3dd-28b3-4050-bf3c-0deb67437cae")
 		(property "Reference" "D65"
-			(at 371.348 140.462 0)
+			(at 367.792 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28904,7 +28936,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 369.824 145.034 0)
+			(at 369.316 145.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28913,7 +28945,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 370.84 137.795 0)
+			(at 368.3 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28931,7 +28963,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 370.84 142.24 0)
+			(at 368.3 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28940,7 +28972,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 370.84 142.24 0)
+			(at 368.3 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29288,7 +29320,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 303.53 91.44 0)
+		(at 300.99 91.44 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29296,7 +29329,7 @@
 		(dnp no)
 		(uuid "66740dcd-18a6-435e-8e12-4e0dd4e9d3e5")
 		(property "Reference" "D29"
-			(at 304.038 89.662 0)
+			(at 300.482 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29305,7 +29338,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 302.514 94.234 0)
+			(at 302.006 94.234 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29314,7 +29347,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 303.53 86.995 0)
+			(at 300.99 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29332,7 +29365,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 303.53 91.44 0)
+			(at 300.99 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29341,7 +29374,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 303.53 91.44 0)
+			(at 300.99 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29581,7 +29614,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 387.35 91.44 0)
+		(at 384.81 91.44 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29589,7 +29623,7 @@
 		(dnp no)
 		(uuid "699c51dd-5b54-400e-b605-395fe3e0c15c")
 		(property "Reference" "D69"
-			(at 387.858 89.662 0)
+			(at 384.302 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29598,7 +29632,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 386.334 94.234 0)
+			(at 385.826 94.234 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29607,7 +29641,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 387.35 86.995 0)
+			(at 384.81 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29625,7 +29659,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 387.35 91.44 0)
+			(at 384.81 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29634,7 +29668,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 387.35 91.44 0)
+			(at 384.81 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29674,7 +29708,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22/33"
 			(at 392.43 57.15 90)
 			(effects
 				(font
@@ -29771,7 +29805,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 303.53 104.14 0)
+		(at 300.99 104.14 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29779,7 +29814,7 @@
 		(dnp no)
 		(uuid "6a546c0b-1c0b-4a19-8d24-fd99cea5aa40")
 		(property "Reference" "D30"
-			(at 304.038 102.362 0)
+			(at 300.482 102.362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29788,7 +29823,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 302.514 106.934 0)
+			(at 302.006 106.934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29797,7 +29832,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 303.53 99.695 0)
+			(at 300.99 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29815,7 +29850,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 303.53 104.14 0)
+			(at 300.99 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29824,7 +29859,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 303.53 104.14 0)
+			(at 300.99 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30977,7 +31012,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 288.29 129.54 0)
+		(at 285.75 129.54 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -30985,7 +31021,7 @@
 		(dnp no)
 		(uuid "77a99e4a-5d19-4154-9744-23239d3de388")
 		(property "Reference" "D24"
-			(at 288.798 127.762 0)
+			(at 285.242 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30994,7 +31030,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 287.274 132.334 0)
+			(at 286.766 132.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31003,7 +31039,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 288.29 125.095 0)
+			(at 285.75 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31021,7 +31057,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 288.29 129.54 0)
+			(at 285.75 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31030,7 +31066,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 288.29 129.54 0)
+			(at 285.75 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31427,7 +31463,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 288.29 154.94 0)
+		(at 285.75 154.94 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31435,7 +31472,7 @@
 		(dnp no)
 		(uuid "7c88fa19-e853-44ae-849d-ffbce6a1e9bc")
 		(property "Reference" "D26"
-			(at 288.798 153.162 0)
+			(at 285.242 153.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31444,7 +31481,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 287.274 157.734 0)
+			(at 286.766 157.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31453,7 +31490,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 288.29 150.495 0)
+			(at 285.75 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31471,7 +31508,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 288.29 154.94 0)
+			(at 285.75 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31480,7 +31517,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 288.29 154.94 0)
+			(at 285.75 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31570,7 +31607,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 370.84 177.8 0)
+		(at 368.3 177.8 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31578,7 +31616,7 @@
 		(dnp no)
 		(uuid "7dee6fb9-605f-4896-9d4a-cea08002b16c")
 		(property "Reference" "D68"
-			(at 371.348 176.022 0)
+			(at 367.792 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31587,7 +31625,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 369.824 180.594 0)
+			(at 369.316 180.594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31596,7 +31634,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 370.84 173.355 0)
+			(at 368.3 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31614,7 +31652,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 370.84 177.8 0)
+			(at 368.3 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31623,7 +31661,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 370.84 177.8 0)
+			(at 368.3 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31663,7 +31701,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22/33"
 			(at 265.43 72.39 90)
 			(effects
 				(font
@@ -32082,7 +32120,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22/33"
 			(at 265.43 64.77 90)
 			(effects
 				(font
@@ -32179,7 +32217,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 370.84 91.44 0)
+		(at 368.3 91.44 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32187,7 +32226,7 @@
 		(dnp no)
 		(uuid "8201504f-edc9-497c-bf78-8458b20cce9e")
 		(property "Reference" "D61"
-			(at 371.348 89.662 0)
+			(at 367.792 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32196,7 +32235,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 369.824 94.234 0)
+			(at 369.316 94.234 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32205,7 +32244,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 370.84 86.995 0)
+			(at 368.3 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32223,7 +32262,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 370.84 91.44 0)
+			(at 368.3 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32232,7 +32271,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 370.84 91.44 0)
+			(at 368.3 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32257,7 +32296,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 288.29 91.44 0)
+		(at 285.75 91.44 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32265,7 +32305,7 @@
 		(dnp no)
 		(uuid "8243b711-a7ec-4870-9560-3df0b9439f7d")
 		(property "Reference" "D21"
-			(at 288.798 89.662 0)
+			(at 285.242 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32274,7 +32314,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 287.274 94.234 0)
+			(at 286.766 94.234 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32283,7 +32323,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 288.29 86.995 0)
+			(at 285.75 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32301,7 +32341,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 288.29 91.44 0)
+			(at 285.75 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32310,7 +32350,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 288.29 91.44 0)
+			(at 285.75 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32335,7 +32375,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 387.35 116.84 0)
+		(at 384.81 116.84 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32343,7 +32384,7 @@
 		(dnp no)
 		(uuid "836fd23e-76d5-41f5-8d08-9ec82d7f7fa1")
 		(property "Reference" "D71"
-			(at 387.858 115.062 0)
+			(at 384.302 115.062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32352,7 +32393,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 386.334 119.634 0)
+			(at 385.826 119.634 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32361,7 +32402,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 387.35 112.395 0)
+			(at 384.81 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32379,7 +32420,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 387.35 116.84 0)
+			(at 384.81 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32388,7 +32429,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 387.35 116.84 0)
+			(at 384.81 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32593,7 +32634,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 288.29 116.84 0)
+		(at 285.75 116.84 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32601,7 +32643,7 @@
 		(dnp no)
 		(uuid "89b3998a-4f96-4315-915d-75f5c7d48791")
 		(property "Reference" "D23"
-			(at 288.798 115.062 0)
+			(at 285.242 115.062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32610,7 +32652,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 287.274 119.634 0)
+			(at 286.766 119.634 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32619,7 +32661,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 288.29 112.395 0)
+			(at 285.75 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32637,7 +32679,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 288.29 116.84 0)
+			(at 285.75 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32646,7 +32688,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 288.29 116.84 0)
+			(at 285.75 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33029,7 +33071,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 370.84 166.37 0)
+		(at 368.3 166.37 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33037,7 +33080,7 @@
 		(dnp no)
 		(uuid "8e1726bb-4dbe-4407-b7f7-5627b2c9069b")
 		(property "Reference" "D67"
-			(at 371.348 164.592 0)
+			(at 367.792 164.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33046,7 +33089,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 369.824 169.164 0)
+			(at 369.316 169.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33055,7 +33098,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 370.84 161.925 0)
+			(at 368.3 161.925 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33073,7 +33116,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 370.84 166.37 0)
+			(at 368.3 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33082,7 +33125,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 370.84 166.37 0)
+			(at 368.3 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33640,7 +33683,7 @@
 			)
 		)
 		(property "Value" "INGHAi_GSPK2307P-8R1W"
-			(at 237.49 91.44 0)
+			(at 227.33 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33760,7 +33803,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22/33"
 			(at 392.43 72.39 90)
 			(effects
 				(font
@@ -33922,7 +33965,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 303.53 166.37 0)
+		(at 300.99 166.37 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33930,7 +33974,7 @@
 		(dnp no)
 		(uuid "92ce6860-9990-479c-9d65-528610a71071")
 		(property "Reference" "D35"
-			(at 304.038 164.592 0)
+			(at 300.482 164.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33939,7 +33983,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 302.514 169.164 0)
+			(at 302.006 169.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33948,7 +33992,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 303.53 161.925 0)
+			(at 300.99 161.925 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33966,7 +34010,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 303.53 166.37 0)
+			(at 300.99 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33975,7 +34019,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 303.53 166.37 0)
+			(at 300.99 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34089,7 +34133,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C455218"
+		(property "LCSC" "C5377634"
 			(at 146.05 93.98 0)
 			(effects
 				(font
@@ -34309,7 +34353,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 354.33 116.84 0)
+		(at 351.79 116.84 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34317,7 +34362,7 @@
 		(dnp no)
 		(uuid "9584e14b-85fd-4a84-a32f-df23fbcd5e79")
 		(property "Reference" "D55"
-			(at 354.838 115.062 0)
+			(at 351.282 115.062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34326,7 +34371,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 353.314 119.634 0)
+			(at 352.806 119.634 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34335,7 +34380,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 354.33 112.395 0)
+			(at 351.79 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34353,7 +34398,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 354.33 116.84 0)
+			(at 351.79 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34362,7 +34407,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 354.33 116.84 0)
+			(at 351.79 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34782,7 +34827,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 271.78 154.94 0)
+		(at 269.24 154.94 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34790,7 +34836,7 @@
 		(dnp no)
 		(uuid "9aca4b07-ebc8-42c1-b1b8-c43bc30ef45f")
 		(property "Reference" "D18"
-			(at 272.288 153.162 0)
+			(at 268.732 153.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34799,7 +34845,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 270.764 157.734 0)
+			(at 270.256 157.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34808,7 +34854,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 271.78 150.495 0)
+			(at 269.24 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34826,7 +34872,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 271.78 154.94 0)
+			(at 269.24 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34835,7 +34881,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 271.78 154.94 0)
+			(at 269.24 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35037,7 +35083,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 303.53 116.84 0)
+		(at 300.99 116.84 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35045,7 +35092,7 @@
 		(dnp no)
 		(uuid "9d57e8d3-d82c-4256-bf60-d14f5e28f911")
 		(property "Reference" "D31"
-			(at 304.038 115.062 0)
+			(at 300.482 115.062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35054,7 +35101,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 302.514 119.634 0)
+			(at 302.006 119.634 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35063,7 +35110,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 303.53 112.395 0)
+			(at 300.99 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35081,7 +35128,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 303.53 116.84 0)
+			(at 300.99 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35090,7 +35137,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 303.53 116.84 0)
+			(at 300.99 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35821,7 +35868,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 354.33 154.94 0)
+		(at 351.79 154.94 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35829,7 +35877,7 @@
 		(dnp no)
 		(uuid "a45bd300-1ad4-49cd-b69e-6bd748aed95c")
 		(property "Reference" "D58"
-			(at 354.838 153.162 0)
+			(at 351.282 153.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35838,7 +35886,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 353.314 157.734 0)
+			(at 352.806 157.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35847,7 +35895,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 354.33 150.495 0)
+			(at 351.79 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35865,7 +35913,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 354.33 154.94 0)
+			(at 351.79 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35874,7 +35922,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 354.33 154.94 0)
+			(at 351.79 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36095,7 +36143,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 303.53 154.94 0)
+		(at 300.99 154.94 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36103,7 +36152,7 @@
 		(dnp no)
 		(uuid "aa8a671a-8525-40b6-a16d-f4523f3d83a2")
 		(property "Reference" "D34"
-			(at 304.038 153.162 0)
+			(at 300.482 153.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36112,7 +36161,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 302.514 157.734 0)
+			(at 302.006 157.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36121,7 +36170,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 303.53 150.495 0)
+			(at 300.99 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36139,7 +36188,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 303.53 154.94 0)
+			(at 300.99 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36148,7 +36197,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 303.53 154.94 0)
+			(at 300.99 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36188,7 +36237,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22/33"
 			(at 265.43 49.53 90)
 			(effects
 				(font
@@ -36300,7 +36349,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22/33"
 			(at 392.43 49.53 90)
 			(effects
 				(font
@@ -36689,7 +36738,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 288.29 177.8 0)
+		(at 285.75 177.8 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36697,7 +36747,7 @@
 		(dnp no)
 		(uuid "b08b8021-b4d0-4655-8bec-ce1055b78ae0")
 		(property "Reference" "D28"
-			(at 288.798 176.022 0)
+			(at 285.242 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36706,7 +36756,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 287.274 180.594 0)
+			(at 286.766 180.594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36715,7 +36765,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 288.29 173.355 0)
+			(at 285.75 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36733,7 +36783,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 288.29 177.8 0)
+			(at 285.75 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36742,7 +36792,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 288.29 177.8 0)
+			(at 285.75 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36832,7 +36882,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 303.53 142.24 0)
+		(at 300.99 142.24 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36840,7 +36891,7 @@
 		(dnp no)
 		(uuid "b33e9494-870b-4d0b-93da-d8be5e6002e8")
 		(property "Reference" "D33"
-			(at 304.038 140.462 0)
+			(at 300.482 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36849,7 +36900,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 302.514 145.034 0)
+			(at 302.006 145.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36858,7 +36909,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 303.53 137.795 0)
+			(at 300.99 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36876,7 +36927,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 303.53 142.24 0)
+			(at 300.99 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36885,7 +36936,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 303.53 142.24 0)
+			(at 300.99 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37587,7 +37638,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C455218"
+		(property "LCSC" "C5377634"
 			(at 116.84 82.55 0)
 			(effects
 				(font
@@ -38228,7 +38279,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 354.33 142.24 0)
+		(at 351.79 142.24 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38236,7 +38288,7 @@
 		(dnp no)
 		(uuid "bc87410c-5d61-4fcc-9e43-297a72a0ad4c")
 		(property "Reference" "D57"
-			(at 354.838 140.462 0)
+			(at 351.282 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38245,7 +38297,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 353.314 145.034 0)
+			(at 352.806 145.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38254,7 +38306,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 354.33 137.795 0)
+			(at 351.79 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38272,7 +38324,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 354.33 142.24 0)
+			(at 351.79 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38281,7 +38333,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 354.33 142.24 0)
+			(at 351.79 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38954,7 +39006,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 336.55 116.84 0)
+		(at 334.01 116.84 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38962,7 +39015,7 @@
 		(dnp no)
 		(uuid "c303c2e7-6ab2-4ff5-86f2-780f24df3a9c")
 		(property "Reference" "D47"
-			(at 337.058 115.062 0)
+			(at 333.502 115.062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38971,7 +39024,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 335.534 119.634 0)
+			(at 335.026 119.634 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38980,7 +39033,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 336.55 112.395 0)
+			(at 334.01 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38998,7 +39051,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 336.55 116.84 0)
+			(at 334.01 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39007,7 +39060,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 336.55 116.84 0)
+			(at 334.01 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39097,7 +39150,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 336.55 129.54 0)
+		(at 334.01 129.54 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -39105,7 +39159,7 @@
 		(dnp no)
 		(uuid "c35cf319-08d6-4179-84b7-2b6881b67b9f")
 		(property "Reference" "D48"
-			(at 337.058 127.762 0)
+			(at 333.502 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39114,7 +39168,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 335.534 132.334 0)
+			(at 335.026 132.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39123,7 +39177,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 336.55 125.095 0)
+			(at 334.01 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39141,7 +39195,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 336.55 129.54 0)
+			(at 334.01 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39150,7 +39204,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 336.55 129.54 0)
+			(at 334.01 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39175,7 +39229,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 288.29 104.14 0)
+		(at 285.75 104.14 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -39183,7 +39238,7 @@
 		(dnp no)
 		(uuid "c3611898-0ff3-4c36-bced-5c72962ff8c6")
 		(property "Reference" "D22"
-			(at 288.798 102.362 0)
+			(at 285.242 102.362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39192,7 +39247,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 287.274 106.934 0)
+			(at 286.766 106.934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39201,7 +39256,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 288.29 99.695 0)
+			(at 285.75 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39219,7 +39274,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 288.29 104.14 0)
+			(at 285.75 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39228,7 +39283,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 288.29 104.14 0)
+			(at 285.75 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39253,7 +39308,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 271.78 177.8 0)
+		(at 269.24 177.8 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -39261,7 +39317,7 @@
 		(dnp no)
 		(uuid "c48a6c46-e269-4c2f-94a7-7edaae31c2ad")
 		(property "Reference" "D20"
-			(at 272.288 176.022 0)
+			(at 268.732 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39270,7 +39326,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 270.764 180.594 0)
+			(at 270.256 180.594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39279,7 +39335,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 271.78 173.355 0)
+			(at 269.24 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39297,7 +39353,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 271.78 177.8 0)
+			(at 269.24 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39306,7 +39362,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 271.78 177.8 0)
+			(at 269.24 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39331,7 +39387,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 271.78 116.84 0)
+		(at 269.24 116.84 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -39339,7 +39396,7 @@
 		(dnp no)
 		(uuid "c7cb1f55-bdc1-4d9f-8d7b-16f376292ce6")
 		(property "Reference" "D15"
-			(at 272.288 115.062 0)
+			(at 268.732 115.062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39348,7 +39405,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 270.764 119.634 0)
+			(at 270.256 119.634 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39357,7 +39414,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 271.78 112.395 0)
+			(at 269.24 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39375,7 +39432,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 271.78 116.84 0)
+			(at 269.24 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39384,7 +39441,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 271.78 116.84 0)
+			(at 269.24 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40356,7 +40413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2105281609_Goertek-B4013AM423-098_C2835889.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C529869.pdf"
 			(at 190.5 27.94 90)
 			(effects
 				(font
@@ -40401,7 +40458,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C2835889"
+		(property "LCSC" "C529869"
 			(at 209.55 34.29 0)
 			(effects
 				(font
@@ -40410,7 +40467,7 @@
 				(hide yes)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0752"
+		(property "Cost @ 2.5k" ".1579"
 			(at 209.55 34.29 0)
 			(effects
 				(font
@@ -40510,7 +40567,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 303.53 129.54 0)
+		(at 300.99 129.54 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40518,7 +40576,7 @@
 		(dnp no)
 		(uuid "d59579b2-066a-474d-be1d-056ed59134d8")
 		(property "Reference" "D32"
-			(at 304.038 127.762 0)
+			(at 300.482 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40527,7 +40585,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 302.514 132.334 0)
+			(at 302.006 132.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40536,7 +40594,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 303.53 125.095 0)
+			(at 300.99 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40554,7 +40612,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 303.53 129.54 0)
+			(at 300.99 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40563,7 +40621,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 303.53 129.54 0)
+			(at 300.99 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40588,7 +40646,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 387.35 154.94 0)
+		(at 384.81 154.94 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40596,7 +40655,7 @@
 		(dnp no)
 		(uuid "d5ac05fa-7120-4b4e-bc34-b46f6c82f492")
 		(property "Reference" "D74"
-			(at 387.858 153.162 0)
+			(at 384.302 153.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40605,7 +40664,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 386.334 157.734 0)
+			(at 385.826 157.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40614,7 +40673,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 387.35 150.495 0)
+			(at 384.81 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40632,7 +40691,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 387.35 154.94 0)
+			(at 384.81 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40641,7 +40700,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 387.35 154.94 0)
+			(at 384.81 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40731,7 +40790,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 320.04 91.44 0)
+		(at 317.5 91.44 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40739,7 +40799,7 @@
 		(dnp no)
 		(uuid "d756ad34-4926-4b8b-be79-e94a493bb542")
 		(property "Reference" "D37"
-			(at 320.548 89.662 0)
+			(at 316.992 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40748,7 +40808,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 319.024 94.234 0)
+			(at 318.516 94.234 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40757,7 +40817,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 320.04 86.995 0)
+			(at 317.5 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40775,7 +40835,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 320.04 91.44 0)
+			(at 317.5 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40784,7 +40844,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 320.04 91.44 0)
+			(at 317.5 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40897,7 +40957,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 271.78 91.44 0)
+		(at 269.24 91.44 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40905,7 +40966,7 @@
 		(dnp no)
 		(uuid "d78e6b5d-eb73-4e24-b028-304f32eefd71")
 		(property "Reference" "D13"
-			(at 272.288 89.662 0)
+			(at 268.732 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40914,7 +40975,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 270.764 94.234 0)
+			(at 270.256 94.234 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40923,7 +40984,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 271.78 86.995 0)
+			(at 269.24 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40941,7 +41002,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 271.78 91.44 0)
+			(at 269.24 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40950,7 +41011,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 271.78 91.44 0)
+			(at 269.24 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40975,7 +41036,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 354.33 177.8 0)
+		(at 351.79 177.8 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40983,7 +41045,7 @@
 		(dnp no)
 		(uuid "d7ce5666-edcc-4781-89b2-f0aaa98d1068")
 		(property "Reference" "D60"
-			(at 354.838 176.022 0)
+			(at 351.282 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40992,7 +41054,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 353.314 180.594 0)
+			(at 352.806 180.594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41001,7 +41063,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 354.33 173.355 0)
+			(at 351.79 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41019,7 +41081,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 354.33 177.8 0)
+			(at 351.79 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41028,7 +41090,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 354.33 177.8 0)
+			(at 351.79 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41118,7 +41180,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 387.35 166.37 0)
+		(at 384.81 166.37 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -41126,7 +41189,7 @@
 		(dnp no)
 		(uuid "d99178a0-f92b-416b-af93-41a69f817d66")
 		(property "Reference" "D75"
-			(at 387.858 164.592 0)
+			(at 384.302 164.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41135,7 +41198,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 386.334 169.164 0)
+			(at 385.826 169.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41144,7 +41207,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 387.35 161.925 0)
+			(at 384.81 161.925 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41162,7 +41225,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 387.35 166.37 0)
+			(at 384.81 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41171,7 +41234,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 387.35 166.37 0)
+			(at 384.81 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41261,7 +41324,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 387.35 129.54 0)
+		(at 384.81 129.54 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -41269,7 +41333,7 @@
 		(dnp no)
 		(uuid "dbed62d5-0815-463c-afa3-66dfb5a74b38")
 		(property "Reference" "D72"
-			(at 387.858 127.762 0)
+			(at 384.302 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41278,7 +41342,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 386.334 132.334 0)
+			(at 385.826 132.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41287,7 +41351,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 387.35 125.095 0)
+			(at 384.81 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41305,7 +41369,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 387.35 129.54 0)
+			(at 384.81 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41314,7 +41378,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 387.35 129.54 0)
+			(at 384.81 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41339,7 +41403,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 320.04 166.37 0)
+		(at 317.5 166.37 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -41347,7 +41412,7 @@
 		(dnp no)
 		(uuid "dfa7b699-dcc5-4c44-a4b0-fbddd1e4a6fa")
 		(property "Reference" "D43"
-			(at 320.548 164.592 0)
+			(at 316.992 164.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41356,7 +41421,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 319.024 169.164 0)
+			(at 318.516 169.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41365,7 +41430,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 320.04 161.925 0)
+			(at 317.5 161.925 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41383,7 +41448,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 320.04 166.37 0)
+			(at 317.5 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41392,7 +41457,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 320.04 166.37 0)
+			(at 317.5 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41482,7 +41547,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 405.13 116.84 0)
+		(at 402.59 116.84 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -41490,7 +41556,7 @@
 		(dnp no)
 		(uuid "e1ed367c-0de2-4850-aa6d-073b1bbec326")
 		(property "Reference" "D79"
-			(at 405.638 115.062 0)
+			(at 402.082 115.062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41499,7 +41565,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 404.114 119.634 0)
+			(at 403.606 119.634 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41508,7 +41574,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 405.13 112.395 0)
+			(at 402.59 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41526,7 +41592,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 405.13 116.84 0)
+			(at 402.59 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41535,7 +41601,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 405.13 116.84 0)
+			(at 402.59 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41943,7 +42009,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22/33"
 			(at 265.43 57.15 90)
 			(effects
 				(font
@@ -42366,7 +42432,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 271.78 104.14 0)
+		(at 269.24 104.14 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42374,7 +42441,7 @@
 		(dnp no)
 		(uuid "e81de7a2-fc2a-4fcd-92bc-ec43d5c4c519")
 		(property "Reference" "D14"
-			(at 272.288 102.362 0)
+			(at 268.732 102.362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42383,7 +42450,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 270.764 106.934 0)
+			(at 270.256 106.934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42392,7 +42459,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 271.78 99.695 0)
+			(at 269.24 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42410,7 +42477,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 271.78 104.14 0)
+			(at 269.24 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42419,7 +42486,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 271.78 104.14 0)
+			(at 269.24 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42802,7 +42869,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 387.35 142.24 0)
+		(at 384.81 142.24 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42810,7 +42878,7 @@
 		(dnp no)
 		(uuid "eeaeb131-8017-423a-a289-0faddbb015e5")
 		(property "Reference" "D73"
-			(at 387.858 140.462 0)
+			(at 384.302 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42819,7 +42887,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 386.334 145.034 0)
+			(at 385.826 145.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42828,7 +42896,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 387.35 137.795 0)
+			(at 384.81 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42846,7 +42914,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 387.35 142.24 0)
+			(at 384.81 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42855,7 +42923,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 387.35 142.24 0)
+			(at 384.81 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43122,7 +43190,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 336.55 177.8 0)
+		(at 334.01 177.8 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43130,7 +43199,7 @@
 		(dnp no)
 		(uuid "f2a2e83c-4058-44f0-a1d5-670cc125f7af")
 		(property "Reference" "D52"
-			(at 337.058 176.022 0)
+			(at 333.502 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43139,7 +43208,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 335.534 180.594 0)
+			(at 335.026 180.594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43148,7 +43217,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 336.55 173.355 0)
+			(at 334.01 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43166,7 +43235,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 336.55 177.8 0)
+			(at 334.01 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43175,7 +43244,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 336.55 177.8 0)
+			(at 334.01 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43200,7 +43269,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 387.35 177.8 0)
+		(at 384.81 177.8 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43208,7 +43278,7 @@
 		(dnp no)
 		(uuid "f33a3c37-331b-44cc-8ac5-d36c4d4da7b1")
 		(property "Reference" "D76"
-			(at 387.858 176.022 0)
+			(at 384.302 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43217,7 +43287,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 386.334 180.594 0)
+			(at 385.826 180.594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43226,7 +43296,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 387.35 173.355 0)
+			(at 384.81 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43244,7 +43314,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 387.35 177.8 0)
+			(at 384.81 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43253,7 +43323,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 387.35 177.8 0)
+			(at 384.81 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43343,7 +43413,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 354.33 91.44 0)
+		(at 351.79 91.44 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43351,7 +43422,7 @@
 		(dnp no)
 		(uuid "f74781ea-28a0-4ef5-a8b5-2372336ea803")
 		(property "Reference" "D53"
-			(at 354.838 89.662 0)
+			(at 351.282 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43360,7 +43431,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 353.314 94.234 0)
+			(at 352.806 94.234 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43369,7 +43440,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 354.33 86.995 0)
+			(at 351.79 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43387,7 +43458,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 354.33 91.44 0)
+			(at 351.79 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43396,7 +43467,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 354.33 91.44 0)
+			(at 351.79 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43769,7 +43840,8 @@
 	)
 	(symbol
 		(lib_id "Swadge_Parts:A-SP192GB1D-A02-4T")
-		(at 336.55 154.94 0)
+		(at 334.01 154.94 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43777,7 +43849,7 @@
 		(dnp no)
 		(uuid "fae474f4-1f6f-4c9c-a37a-575243a60bbe")
 		(property "Reference" "D50"
-			(at 337.058 153.162 0)
+			(at 333.502 153.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43786,7 +43858,7 @@
 			)
 		)
 		(property "Value" "A-SP192GB1D-A02-4T"
-			(at 335.534 157.734 0)
+			(at 335.026 157.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43795,7 +43867,7 @@
 			)
 		)
 		(property "Footprint" "Swadge_Parts:LED_0603_1608Metric"
-			(at 336.55 150.495 0)
+			(at 334.01 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43813,7 +43885,7 @@
 			)
 		)
 		(property "Description" "20mA 1420mcd -40℃~+85℃ op View Mount Ice Blue 130° 75mW 2.8V~3.3V 0603 LED Indication - Discrete ROHS"
-			(at 336.55 154.94 0)
+			(at 334.01 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43822,7 +43894,7 @@
 			)
 		)
 		(property "LCSC" "C5355458"
-			(at 336.55 154.94 0)
+			(at 334.01 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
