@@ -738,12 +738,8 @@
 			(embedded_fonts no)
 		)
 		(symbol "Swadge_Parts:Battery"
-			(pin_numbers
-				(hide yes)
-			)
 			(pin_names
 				(offset 0)
-				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -802,15 +798,6 @@
 					(hide yes)
 				)
 			)
-			(property "Cost100" "116"
-				(at 7.62 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
 			(property "Substitutable" "Y"
 				(at 10.16 10.16 0)
 				(effects
@@ -822,6 +809,24 @@
 			)
 			(property "Notes" "Use through-hole AA Battery Holder in Style of Keystone 2460. Two fins hold batteries, not four fins."
 				(at -10.16 11.43 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C5370863"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost @ 2.5k" "0.9266"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -7925,7 +7930,7 @@
 					(hide yes)
 				)
 			)
-			(property "Cost@2500" "0.0393"
+			(property "Cost @ 2.5k" "0.0393"
 				(at 0 0 0)
 				(effects
 					(font
@@ -27845,7 +27850,7 @@
 		(dnp no)
 		(uuid "4f77388d-b9d0-4512-8c08-99b0c79a19a3")
 		(property "Reference" "BT3"
-			(at 106.426 199.644 90)
+			(at 110.49 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27854,7 +27859,7 @@
 			)
 		)
 		(property "Value" "Battery"
-			(at 104.648 197.612 90)
+			(at 107.95 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27898,15 +27903,6 @@
 				(hide yes)
 			)
 		)
-		(property "Cost100" "116"
-			(at 115.57 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Substitutable" "Y"
 			(at 118.11 204.47 0)
 			(effects
@@ -27925,7 +27921,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "~"
+		(property "LCSC" "C5370863"
 			(at 107.95 194.31 0)
 			(effects
 				(font
@@ -27934,17 +27930,8 @@
 				(hide yes)
 			)
 		)
-		(property "Cost @ 2.5k" "0.11"
+		(property "Cost @ 2.5k" "0.9266"
 			(at 107.95 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Cost@2500" ""
-			(at 107.95 194.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30680,7 +30667,7 @@
 		(dnp no)
 		(uuid "6efbac4e-4c48-4d85-b138-3166666d2e76")
 		(property "Reference" "BT1"
-			(at 86.106 199.39 90)
+			(at 90.17 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30689,7 +30676,7 @@
 			)
 		)
 		(property "Value" "Battery"
-			(at 84.836 197.358 90)
+			(at 87.63 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30733,15 +30720,6 @@
 				(hide yes)
 			)
 		)
-		(property "Cost100" "116"
-			(at 95.25 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Substitutable" "Y"
 			(at 97.79 204.47 0)
 			(effects
@@ -30760,7 +30738,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "~"
+		(property "LCSC" "C5370863"
 			(at 87.63 194.31 0)
 			(effects
 				(font
@@ -30769,17 +30747,8 @@
 				(hide yes)
 			)
 		)
-		(property "Cost @ 2.5k" "0.11"
+		(property "Cost @ 2.5k" "0.9266"
 			(at 87.63 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Cost@2500" ""
-			(at 87.63 194.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35051,7 +35020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Cost@2500" "0.0393"
+		(property "Cost @ 2.5k" "0.0393"
 			(at 146.05 93.98 0)
 			(effects
 				(font
@@ -36986,7 +36955,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "a55c1b99-3293-490d-831c-cf15a08bdfa8")
@@ -38781,7 +38750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Cost@2500" "0.0393"
+		(property "Cost @ 2.5k" "0.0393"
 			(at 116.84 82.55 0)
 			(effects
 				(font
@@ -43047,7 +43016,7 @@
 		(dnp no)
 		(uuid "e1fee77c-81d7-41c3-8abc-23bc6745f544")
 		(property "Reference" "BT2"
-			(at 96.774 199.644 90)
+			(at 100.33 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43056,7 +43025,7 @@
 			)
 		)
 		(property "Value" "Battery"
-			(at 94.996 197.612 90)
+			(at 97.79 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43100,15 +43069,6 @@
 				(hide yes)
 			)
 		)
-		(property "Cost100" "116"
-			(at 105.41 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Substitutable" "Y"
 			(at 107.95 204.47 0)
 			(effects
@@ -43127,7 +43087,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "~"
+		(property "LCSC" "C5370863"
 			(at 97.79 194.31 0)
 			(effects
 				(font
@@ -43136,17 +43096,8 @@
 				(hide yes)
 			)
 		)
-		(property "Cost @ 2.5k" "0.11"
+		(property "Cost @ 2.5k" "0.9266"
 			(at 97.79 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Cost@2500" ""
-			(at 97.79 194.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
