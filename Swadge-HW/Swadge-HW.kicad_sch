@@ -41508,7 +41508,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Swadge_Parts:PinHeader_2x03_P2.54mm_Vertical"
+		(property "Footprint" "Swadge_Parts:PinSocket_2x03_P2.54mm_Vertical"
 			(at 198.12 135.89 0)
 			(effects
 				(font
