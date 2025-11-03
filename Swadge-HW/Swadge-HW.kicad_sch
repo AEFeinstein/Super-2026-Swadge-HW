@@ -26069,7 +26069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C223226.pdf"
 			(at 43.18 250.19 0)
 			(effects
 				(font
@@ -26087,16 +26087,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C90317"
-			(at 43.18 250.19 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Cost100" "11.16"
+		(property "LCSC" "C223226"
 			(at 43.18 250.19 90)
 			(effects
 				(font
@@ -26123,17 +26114,8 @@
 				(hide yes)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0545"
+		(property "Cost @ 2.5k" "0.0483"
 			(at 43.18 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Cost@2500" ""
-			(at 43.18 250.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
