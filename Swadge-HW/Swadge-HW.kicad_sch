@@ -737,194 +737,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Swadge_Parts:B3FS-4002P"
-			(pin_names
-				(offset 0.762)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW"
-				(at 6.35 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "B3FS-4002P"
-				(at 6.35 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "Swadge_Parts:B3FS4002P"
-				(at 11.43 11.43 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_XUNPU-TS-1003S-04526_C455218.pdf"
-				(at 20.32 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" "Black Cap Tactile Switch, SPST-NO 50 mA @ 24 V dc 0.4mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Digikey" "SW1278CT-ND"
-				(at 12.7 15.24 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Cost100" "76"
-				(at 7.62 11.43 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Substitutable" "Y"
-				(at 3.81 12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Notes" "Use standard 12mmx12mm SMT box tactile buttons with flat top. Similar to TL3300DF160Q."
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC" "C455218"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "B3FS-4002P_0_0"
-				(pin bidirectional line
-					(at 0 0 0)
-					(length 5.08)
-					(name "COM_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "COM_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 24.13 0 180)
-					(length 5.08)
-					(name "NO_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 24.13 -2.54 180)
-					(length 5.08)
-					(name "NO_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "B3FS-4002P_0_1"
-				(rectangle
-					(start 5.08 1.27)
-					(end 19.05 -3.81)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Swadge_Parts:Battery"
 			(pin_numbers
 				(hide yes)
@@ -8018,6 +7830,194 @@
 								(size 1.27 1.27)
 							)
 						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Swadge_Parts:TS-1103S-B-B"
+			(pin_names
+				(offset 0.762)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 6.35 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "TS-1103S-B-B"
+				(at 6.35 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Swadge_Parts:B3FS4002P"
+				(at 11.43 11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C561251.pdf"
+				(at 20.32 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "Black Cap Tactile Switch, SPST-NO 50 mA @ 24 V dc 0.4mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Digikey" "SW1278CT-ND"
+				(at 12.7 15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Substitutable" "Y"
+				(at 3.81 12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Notes" "Use standard 12mmx12mm SMT box tactile buttons with flat top. Similar to TL3300DF160Q."
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C561251"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost@2500" "0.0393"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TS-1103S-B-B_0_0"
+				(pin bidirectional line
+					(at 0 0 0)
+					(length 5.08)
+					(name "COM_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "COM_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 0 180)
+					(length 5.08)
+					(name "NO_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 -2.54 180)
+					(length 5.08)
+					(name "NO_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "TS-1103S-B-B_0_1"
+				(rectangle
+					(start 5.08 1.27)
+					(end 19.05 -3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
 					)
 				)
 			)
@@ -34961,7 +34961,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Swadge_Parts:B3FS-4002P")
+		(lib_id "Swadge_Parts:TS-1103S-B-B")
 		(at 146.05 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -34978,7 +34978,7 @@
 				)
 			)
 		)
-		(property "Value" "B3FS-4002P"
+		(property "Value" "TS-1103S-B-B"
 			(at 158.115 90.17 0)
 			(effects
 				(font
@@ -34996,7 +34996,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_XUNPU-TS-1003S-04526_C455218.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C561251.pdf"
 			(at 166.37 93.98 0)
 			(effects
 				(font
@@ -35024,15 +35024,6 @@
 				(hide yes)
 			)
 		)
-		(property "Cost100" "76"
-			(at 153.67 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Substitutable" "Y"
 			(at 149.86 81.28 0)
 			(effects
@@ -35051,7 +35042,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C5377634"
+		(property "LCSC" "C561251"
 			(at 146.05 93.98 0)
 			(effects
 				(font
@@ -35060,20 +35051,11 @@
 				(hide yes)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0461"
+		(property "Cost@2500" "0.0393"
 			(at 146.05 93.98 0)
 			(effects
 				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Cost@2500" ""
-			(at 146.05 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -38709,7 +38691,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Swadge_Parts:B3FS-4002P")
+		(lib_id "Swadge_Parts:TS-1103S-B-B")
 		(at 116.84 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -38726,7 +38708,7 @@
 				)
 			)
 		)
-		(property "Value" "B3FS-4002P"
+		(property "Value" "TS-1103S-B-B"
 			(at 128.905 78.74 0)
 			(effects
 				(font
@@ -38744,7 +38726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_XUNPU-TS-1003S-04526_C455218.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C561251.pdf"
 			(at 137.16 82.55 0)
 			(effects
 				(font
@@ -38772,15 +38754,6 @@
 				(hide yes)
 			)
 		)
-		(property "Cost100" "76"
-			(at 124.46 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Substitutable" "Y"
 			(at 120.65 69.85 0)
 			(effects
@@ -38799,7 +38772,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C5377634"
+		(property "LCSC" "C561251"
 			(at 116.84 82.55 0)
 			(effects
 				(font
@@ -38808,20 +38781,11 @@
 				(hide yes)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0461"
+		(property "Cost@2500" "0.0393"
 			(at 116.84 82.55 0)
 			(effects
 				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Cost@2500" ""
-			(at 116.84 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(hide yes)
 			)
