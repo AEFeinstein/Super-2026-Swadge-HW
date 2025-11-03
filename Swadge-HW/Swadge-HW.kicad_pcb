@@ -186,7 +186,7 @@
 				)
 			)
 		)
-		(property "Value" "B3FS-4002P"
+		(property "Value" "TS-1103S-B-B"
 			(at -1.143 7.366 291)
 			(layer "F.Fab")
 			(hide yes)
@@ -198,7 +198,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_XUNPU-TS-1003S-04526_C455218.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C561251.pdf"
 			(at 0 0 291)
 			(layer "F.Fab")
 			(hide yes)
@@ -274,7 +274,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C5377634"
+		(property "LCSC" "C561251"
 			(at 0 0 291)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -287,7 +287,7 @@
 				)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0461"
+		(property "Cost @ 2.5k" "0.0393"
 			(at 0 0 291)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -804,6 +804,19 @@
 				)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 120)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c491547e-7bc9-4197-8496-cb7bc76b36d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c2630870-6f08-42d2-86fa-87ab829d64aa")
 		(sheetname "/")
 		(sheetfile "Swadge-HW.kicad_sch")
@@ -1081,6 +1094,19 @@
 				)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "66b9a71b-d169-432a-9ae3-83b8dbb187b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/600449c1-75c9-4c5e-bdff-37bb5ef723e1")
 		(sheetname "/")
 		(sheetfile "Swadge-HW.kicad_sch")
@@ -1243,7 +1269,7 @@
 				)
 			)
 		)
-		(property "Value" "B3FS-4002P"
+		(property "Value" "TS-1103S-B-B"
 			(at -1.143 7.366 291)
 			(layer "F.Fab")
 			(hide yes)
@@ -1255,7 +1281,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_XUNPU-TS-1003S-04526_C455218.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C561251.pdf"
 			(at 0 0 291)
 			(layer "F.Fab")
 			(hide yes)
@@ -1331,7 +1357,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C5377634"
+		(property "LCSC" "C561251"
 			(at 0 0 291)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1344,7 +1370,7 @@
 				)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0461"
+		(property "Cost @ 2.5k" "0.0393"
 			(at 0 0 291)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1853,6 +1879,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "48761e64-8e84-449f-89a4-673e6b27b9d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8caed668-ac97-43dc-82ab-b99c106cc921")
 			(effects
 				(font
 					(size 1 1)
@@ -9854,6 +9893,19 @@
 				)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 315)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c421ffc2-f110-451a-8979-1442ecfd26f4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:SW_4-1437565-2")
 		(path "/e7c12f50-e59b-4511-92a6-3281b12d1a72")
 		(sheetname "/")
@@ -10317,6 +10369,19 @@
 				)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1c5df50f-6183-4893-b0bb-1c315ec87be1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:SW_4-1437565-2")
 		(path "/278ded9c-0b79-415b-be20-4287aa9c3b8e")
 		(sheetname "/")
@@ -10719,10 +10784,23 @@
 				)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea78a383-46bc-4d8c-abd6-93484cb3d70e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/d7868730-1a2c-4690-80a4-53c7715e722e")
 		(sheetname "/")
 		(sheetfile "Swadge-HW.kicad_sch")
-		(attr through_hole dnp)
+		(attr through_hole exclude_from_bom dnp)
 		(fp_poly
 			(pts
 				(xy 3.349095 12.761522) (xy 3.349094 12.761522) (xy 3.349095 12.761522)
@@ -13427,6 +13505,19 @@
 				)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9ded2ce3-0acd-4570-8ba4-104ff681cf73")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:CMA-4544PF-W")
 		(path "/d4fd4c4d-fae0-447a-8f61-1756ec9ef1fc")
 		(sheetname "/")
@@ -13483,6 +13574,367 @@
 			)
 			(rotate
 				(xyz 0 180 0)
+			)
+		)
+	)
+	(footprint "Swadge_Parts:PinSocket_2x03_P2.54mm_Vertical"
+		(layer "F.Cu")
+		(uuid "865f57f5-8014-4abb-9724-25472b3e27df")
+		(at 132.264886 45.009006 90)
+		(descr "Through hole straight socket strip, 2x03, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated")
+		(tags "Through hole socket strip THT 2x03 2.54mm double row")
+		(property "Reference" "J1"
+			(at -1.27 -2.77 90)
+			(layer "F.SilkS")
+			(uuid "edb922f0-b093-439c-9758-f885f7d25e68")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Conn_02x03_Odd_Even"
+			(at -1.27 7.85 90)
+			(layer "F.Fab")
+			(uuid "799630f6-04f5-4329-862c-16dc915505d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2004241810_CONNFLY-Elec-DS1023-2-3SF11_C92272.pdf"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "142b7ba7-9051-4faf-bd06-dc39f2216827")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic connector, double row, 02x03"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e758330-d36f-427f-b633-4bae8772c5cc")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C92272"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8bfa1ee-4bfc-4876-bc74-ffeed2b93912")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey" "SFH11-PBPC-D03-ST-BK-ND"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "85563056-4103-4d73-a704-8ac6ec48039c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost100" "0.0109"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6777c774-4b7d-479c-91f9-ff9f59a3be7b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Notes" "DNP"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c3e8e57-46d6-4e47-b39f-37e0a645d3df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Substitutable" "Y"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc85749d-0b31-4f82-8a0a-fd00b515f61c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost @ 2.5k" "0.0471"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "303f5dca-67fe-4281-8543-87ca3a7901f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "be1f4949-25aa-44b6-b2f7-c3b3800c46d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_2x??_*")
+		(path "/d152c5e1-3383-499e-93f8-9937b37582cc")
+		(sheetname "/")
+		(sheetfile "Swadge-HW.kicad_sch")
+		(attr through_hole)
+		(fp_rect
+			(start -4.27 -1.8)
+			(end 1.73 6.85)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "94f988c8-50a0-4ad3-958a-f98d97fc76b5")
+		)
+		(fp_rect
+			(start 1.73 0.635)
+			(end 2.73 4.445)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.SilkS")
+			(uuid "ab92264a-68ff-49c6-b74d-945b9b53dbed")
+		)
+		(fp_circle
+			(center 2.25 -2.25)
+			(end 2.809017 -2.25)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.SilkS")
+			(uuid "00882aa6-371b-4930-bb07-6da668ff4593")
+		)
+		(fp_line
+			(start 1.76 -1.8)
+			(end 1.76 6.85)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "361a53f5-26de-4385-a40f-b086d602c85d")
+		)
+		(fp_line
+			(start -4.34 -1.8)
+			(end 1.76 -1.8)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "f50c413f-db3d-4241-876b-d19ac505ad2c")
+		)
+		(fp_line
+			(start 1.76 6.85)
+			(end -4.34 6.85)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "6e040f95-b4c4-43fd-bdd7-9fc085fb596b")
+		)
+		(fp_line
+			(start -4.34 6.85)
+			(end -4.34 -1.8)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "748a9eb1-d58f-4963-ab2a-4a85c397cdd9")
+		)
+		(fp_line
+			(start 0.27 -1.27)
+			(end 1.27 -0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "1075257d-5b7b-4271-b8b5-e0c05a5a68b3")
+		)
+		(fp_line
+			(start -3.81 -1.27)
+			(end 0.27 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "23209c65-836a-47ae-a226-849f79095c3d")
+		)
+		(fp_line
+			(start 1.27 -0.27)
+			(end 1.27 6.35)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "ea3bf7e1-360e-4fb0-be9a-72c17a71bc9e")
+		)
+		(fp_line
+			(start 1.27 6.35)
+			(end -3.81 6.35)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "4f367ea6-b589-45af-8e64-f1f0265e216a")
+		)
+		(fp_line
+			(start -3.81 6.35)
+			(end -3.81 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "f5699820-8148-427f-810c-80b6fd8fc96b")
+		)
+		(fp_text user "${REFERENCE}"
+			(at -1.27 2.54 0)
+			(layer "F.Fab")
+			(uuid "ca80849b-db66-478c-9739-22d969275f44")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0 90)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 85 "3V3")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "4d488fcb-9110-4247-a62b-82dca17335f9")
+		)
+		(pad "2" thru_hole oval
+			(at -2.54 0 90)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 2 "GND")
+			(pinfunction "Pin_2")
+			(pintype "passive")
+			(uuid "21613dd0-95a2-4f0e-9ca6-803903f374de")
+		)
+		(pad "3" thru_hole oval
+			(at 0 2.54 90)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 29 "SDA")
+			(pinfunction "Pin_3")
+			(pintype "passive")
+			(uuid "26db91dd-48f2-4a96-91cf-b12df812b664")
+		)
+		(pad "4" thru_hole oval
+			(at -2.54 2.54 90)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 28 "SCL")
+			(pinfunction "Pin_4")
+			(pintype "passive")
+			(uuid "20cffca5-3d88-47ad-b494-ad8270d3fd25")
+		)
+		(pad "5" thru_hole oval
+			(at 0 5.08 90)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 30 "GPIO40")
+			(pinfunction "Pin_5")
+			(pintype "passive")
+			(uuid "825cf2af-d50c-4cf1-8e84-1febb3526fc8")
+		)
+		(pad "6" thru_hole oval
+			(at -2.54 5.08 90)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 27 "GPIO42")
+			(pinfunction "Pin_6")
+			(pintype "passive")
+			(uuid "0d66040a-592f-4074-aa07-f980dd1be213")
+		)
+		(embedded_fonts no)
+		(model "${KIPRJMOD}/../Swadge-Parts/package3d/PinSocket_2x03_P2.54mm_Vertical.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -13610,6 +14062,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "37999a07-dc44-4d5e-bcf8-0eb3592ac3fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 300)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cb3710e2-d931-4f18-beca-38368346520e")
 			(effects
 				(font
 					(size 1 1)
@@ -13886,6 +14351,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "22852e4d-facc-4c09-af25-d3dbff1930f4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41128b0b-ca5c-47a6-a5c1-645bb5864a20")
 			(effects
 				(font
 					(size 1 1)
@@ -14348,6 +14826,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d7851282-fcc7-4260-8fa8-c9110e5ce887")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 45)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2056842-6cec-465c-9847-cea73397bf7e")
 			(effects
 				(font
 					(size 1 1)
@@ -14819,6 +15310,19 @@
 				)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 240)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07a54934-624e-4548-9627-b20e9fd5bc50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b425d9db-05e1-4ce5-8e86-6b4fad1f09b2")
 		(sheetname "/")
 		(sheetfile "Swadge-HW.kicad_sch")
@@ -15088,6 +15592,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5f9f3430-180f-46bf-8e0c-bc5ea3e951d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4124a8a5-1da0-4dfd-9d70-ab870bc23a69")
 			(effects
 				(font
 					(size 1 1)
@@ -15558,6 +16075,19 @@
 				)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 135)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d604c79f-3d9e-4093-bbb5-f63b994095dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:SW_4-1437565-2")
 		(path "/1d850c49-1b9d-4666-9d46-66f80f5df6fe")
 		(sheetname "/")
@@ -16021,6 +16551,19 @@
 				)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 34)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d4069cf-8486-4d1f-9994-cb2696c6fd4c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/90cec39b-5414-4856-bdb9-17f8f83d83cc")
 		(sheetname "/")
 		(sheetfile "Swadge-HW.kicad_sch")
@@ -16278,6 +16821,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a899fdba-6d08-4ba8-8ba6-9ff1695d5fb0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 60)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f03a6207-b2b5-4ffb-9382-78d2a421851a")
 			(effects
 				(font
 					(size 1 1)
@@ -16562,10 +17118,23 @@
 				)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "33a8b0b3-6a4f-4abe-975f-7cd25c197e23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b76facbc-1c81-48a8-8df4-454e027dea11")
 		(sheetname "/")
 		(sheetfile "Swadge-HW.kicad_sch")
-		(attr through_hole allow_missing_courtyard)
+		(attr through_hole exclude_from_bom allow_missing_courtyard)
 		(embedded_fonts no)
 	)
 	(footprint "Swadge_Parts:SK6812_SIDE_2"
@@ -16692,6 +17261,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b586bfbd-42fd-4bd6-80c6-beb23d9ebbae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "867a2bb2-9b7f-4645-9a3d-d1705eef250c")
 			(effects
 				(font
 					(size 1 1)
@@ -16962,6 +17544,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c2315ee1-142f-4c63-81e5-8e3bb35e06c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "45ed96c3-12f3-4087-9bd3-f19876f58621")
 			(effects
 				(font
 					(size 1 1)
@@ -17244,6 +17840,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "de2ba077-abcd-4e39-a58f-a34412086cca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/13886ffe-dd53-4eba-847d-e9bc881b8b44")
 		(sheetname "/")
@@ -17518,6 +18128,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "95824d74-e9a2-4f7d-a0b0-b4b35b8f89c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:C_0603_1608Metric")
 		(path "/eace953a-224a-4fc3-a54e-6238fcb47c9c")
 		(sheetname "/")
@@ -17696,7 +18320,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C223226.pdf"
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -17722,7 +18346,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C90317"
+		(property "LCSC" "C223226"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17778,7 +18402,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Cost @ 2.5k" "0.0545"
+		(property "Cost @ 2.5k" "0.0483"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18068,6 +18692,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a74fe89e-bf5f-4f7d-912f-fea1564d9d90")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/1c23f8e0-280c-4d0e-9b99-aac1f8b03251")
 		(sheetname "/")
@@ -18334,6 +18972,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "70c4c517-754b-43fc-9694-2cd821e737d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "27d166ba-dc58-4e6e-9740-fabd61cad5d4")
 			(effects
 				(font
 					(size 1 1)
@@ -18616,6 +19268,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6e536841-2f27-4e1f-ada8-782329fa5946")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/53fc0cd9-b1ff-4327-a5c2-a1ac828121a4")
 		(sheetname "/")
@@ -18882,6 +19548,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "32b56bff-8607-4dd7-976b-fb1e9673ffbe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a5f5af03-09b3-4b7c-bbcd-d8a8954127bd")
 			(effects
 				(font
 					(size 1 1)
@@ -19170,6 +19850,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "5df24cdc-87a7-4176-bda9-d5c722959704")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7a5ac24e-620a-4961-a81b-3add53e80316")
 			(effects
 				(font
 					(size 1 1)
@@ -19490,6 +20184,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f7e16087-811b-453e-9d5e-5aab1d77e86c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/ada9e36f-b0d9-46fc-81af-0d00a8b1f93d")
 		(sheetname "/")
@@ -19756,6 +20464,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4482d6b4-32ba-4d62-8224-82fd63d26151")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2015e5bb-c2b7-4d93-a7f6-03b378ade673")
 			(effects
 				(font
 					(size 1 1)
@@ -20038,6 +20760,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "75d5d78e-6f64-4b4d-861e-7d2f178fa456")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/744a90d4-399c-4d93-9ce6-b4b7d4d66358")
 		(sheetname "/")
@@ -20312,6 +21048,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b69453c4-7c0c-4436-b0fc-436e5c5686bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/0f4eeffc-7c39-465b-969c-dab74e9842da")
 		(sheetname "/")
@@ -20558,7 +21308,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C159801"
+		(property "LCSC" "C15849"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -20578,6 +21328,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0ffe163a-2b1a-437d-a1cf-74b722106409")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ad1d6440-2cfc-4cbb-8af3-db1543c4326d")
 			(effects
 				(font
 					(size 1 1)
@@ -20860,6 +21624,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e421d809-67e6-4319-8dcf-343ce667d099")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/1756254b-d0db-486e-9209-346ca15c2198")
 		(sheetname "/")
@@ -21134,6 +21912,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6c1000e7-b6a4-4317-9659-4c123b821c67")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:C_0603_1608Metric")
 		(path "/d0310562-c3fd-48e4-9212-09c60fd22663")
 		(sheetname "/")
@@ -21400,6 +22192,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "3fb00e45-ac72-4c76-8c27-441f20a6a685")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "929a84bf-bf7f-4fe0-8d0f-1be67c14cbe0")
 			(effects
 				(font
 					(size 1 1)
@@ -21689,6 +22495,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2ba67426-ad18-4a29-8b54-acca7e99ca00")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "af57d760-cba4-4e0b-9305-48daaff8ee37")
 			(effects
 				(font
 					(size 1 1)
@@ -22163,6 +22983,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "204f2f8b-5d3e-45bd-8d90-bfa46fee1246")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/e751a295-f4a9-468a-8a26-953320ee632f")
 		(sheetname "/")
 		(sheetfile "Swadge-HW.kicad_sch")
@@ -22473,6 +23307,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "65b0e6b0-85fd-45bd-821c-a682b59c3e46")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/1a847fe9-1e9c-4bf7-89cc-c3c82cffdcc9")
 		(sheetname "/")
@@ -22739,6 +23587,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ca4c19fd-f848-417a-b05b-c09c3690f74c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "631191fb-b009-418d-a913-408c6899ae55")
 			(effects
 				(font
 					(size 1 1)
@@ -23021,6 +23883,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "671418b3-b12b-469d-8685-d635e6694f1c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/9e035b70-c3ec-4ebe-9753-392a39401e74")
 		(sheetname "/")
@@ -23295,6 +24171,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "262c659f-9154-4a18-8612-78a44d336d81")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/014edec8-bd96-492e-a2f3-4eb64dda3396")
 		(sheetname "/")
@@ -23461,7 +24351,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1μF"
 			(at 0 -1.43 180)
 			(layer "B.SilkS")
 			(uuid "2087800f-c7ac-484d-b0ff-cff5f3cd52a5")
@@ -23561,6 +24451,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b5eec452-b75d-4026-8f07-f74c320a92c4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1bdb3b3c-e49c-4de9-bb72-227587a81722")
 			(effects
 				(font
 					(size 1 1)
@@ -23831,7 +24735,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "~"
+		(property "LCSC" "C5370863"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23845,7 +24749,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Cost @ 2.5k" "0.11"
+		(property "Cost @ 2.5k" "0.9266"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24220,6 +25124,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "07385d8c-d233-4042-ac37-45e7e8520ecc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:C_0603_1608Metric")
 		(path "/3abebef8-7f2e-4eb4-8b19-cd943f615ce3")
 		(sheetname "/")
@@ -24486,6 +25404,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9737d399-b2d5-4422-b6ac-de54267c08f4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "70fe5176-d079-401c-aaeb-97a1d5d2635f")
 			(effects
 				(font
 					(size 1 1)
@@ -24770,6 +25702,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "25f195a7-e871-4367-af12-4d3f11807f2f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:C_0603_1608Metric")
 		(path "/6fe46a44-9154-40eb-b226-1bf188d0ac8f")
 		(sheetname "/")
@@ -25008,6 +25954,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c6673b3b-b95d-407a-b1cd-ca7c31bfe528")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "dce244da-f06e-4998-ae99-24d507a6f266")
 			(effects
 				(font
 					(size 1 1)
@@ -25471,6 +26431,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "73fd868d-600f-4f67-8377-c6c4682df804")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:C_0603_1608Metric")
 		(path "/766bd987-11de-4ea2-8d80-6afe0869f159")
 		(sheetname "/")
@@ -25737,6 +26711,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4a3a44e2-8b4a-4d7a-ab2c-370e6d411696")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "98468639-96ff-4554-b3b4-15a0fe62cbbe")
 			(effects
 				(font
 					(size 1 1)
@@ -26019,6 +27007,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "786d13b0-d003-41c1-a5d0-566deec8afed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:C_0603_1608Metric")
 		(path "/8a62984f-c435-4c45-9359-f55dba83124e")
 		(sheetname "/")
@@ -26167,412 +27169,6 @@
 			)
 		)
 	)
-	(footprint "Swadge_Parts:PinHeader_2x03_P2.54mm_Vertical"
-		(layer "B.Cu")
-		(uuid "865f57f5-8014-4abb-9724-25472b3e27df")
-		(at 132.264886 45.009006 -90)
-		(descr "Through hole straight pin header, 2x03, 2.54mm pitch, double rows")
-		(tags "Through hole pin header THT 2x03 2.54mm double row")
-		(property "Reference" "J1"
-			(at 1.27 2.33 90)
-			(layer "B.SilkS")
-			(uuid "edb922f0-b093-439c-9758-f885f7d25e68")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Value" "Conn_02x03_Odd_Even"
-			(at 1.27 -7.41 90)
-			(layer "B.Fab")
-			(uuid "799630f6-04f5-4329-862c-16dc915505d1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2004241810_CONNFLY-Elec-DS1023-2-3SF11_C92272.pdf"
-			(at 0 0 90)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "142b7ba7-9051-4faf-bd06-dc39f2216827")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Description" "Generic connector, double row, 02x03"
-			(at 0 0 90)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "0e758330-d36f-427f-b633-4bae8772c5cc")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "LCSC" "C92272"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "8fc35b99-c05a-4ae6-9854-eb5fe13b4394")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Digikey" "SFH11-PBPC-D03-ST-BK-ND"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "e8f7cbc1-5a92-42a1-abc3-804eba093404")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Cost100" "0.0109"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "dcda2491-68e1-4ac7-bfe3-f7916e018900")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Notes" "DNP"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "cdaf1e2b-e305-4f26-b491-801d2751cd3f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Substitutable" "Y"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "becd78a0-d55c-4ab4-85fb-5c88ec33714c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Cost @ 2.5k" "0.0471"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "6b48059c-71cc-49ba-ba06-c689a81cbd9f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_2x??_*")
-		(path "/d152c5e1-3383-499e-93f8-9937b37582cc")
-		(sheetname "/")
-		(sheetfile "Swadge-HW.kicad_sch")
-		(attr through_hole)
-		(fp_line
-			(start -1.33 1.33)
-			(end 0 1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "20d3c058-2ee9-4051-8f28-64101239b29c")
-		)
-		(fp_line
-			(start 1.27 1.33)
-			(end 3.87 1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "3b64eb8a-ad55-43ae-b0cf-5d0667bf259f")
-		)
-		(fp_line
-			(start 3.87 1.33)
-			(end 3.87 -6.41)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "03c3d3d3-840e-4068-aaab-25a9a74d43df")
-		)
-		(fp_line
-			(start -1.33 0)
-			(end -1.33 1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "0c608907-2271-40ef-9a71-ac74f6e1dfe7")
-		)
-		(fp_line
-			(start -1.33 -1.27)
-			(end 1.27 -1.27)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "a800439a-b334-483f-bd66-530cdf2bdad7")
-		)
-		(fp_line
-			(start -1.33 -1.27)
-			(end -1.33 -6.41)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "3430a895-d432-414d-a198-eb51db02b71f")
-		)
-		(fp_line
-			(start 1.27 -1.27)
-			(end 1.27 1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "c394a44a-9c63-4373-ad1b-34256b545455")
-		)
-		(fp_line
-			(start -1.33 -6.41)
-			(end 3.87 -6.41)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "8feec6f6-f3c2-45a3-9f91-15976cdeaa2f")
-		)
-		(fp_line
-			(start -1.8 1.8)
-			(end -1.8 -6.85)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "ee9cd521-4c09-4c5d-8a4d-a68fcae8aa13")
-		)
-		(fp_line
-			(start 4.35 1.8)
-			(end -1.8 1.8)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "cb4553d2-2105-4443-a129-f7bc46d65632")
-		)
-		(fp_line
-			(start -1.8 -6.85)
-			(end 4.35 -6.85)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "d3c8df63-bbbe-48fd-bdef-0d4b0d672afb")
-		)
-		(fp_line
-			(start 4.35 -6.85)
-			(end 4.35 1.8)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "98a6062f-5576-4076-b46a-5e924cc161b1")
-		)
-		(fp_line
-			(start 0 1.27)
-			(end 3.81 1.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "472e1626-275d-4c12-8580-1040591328f2")
-		)
-		(fp_line
-			(start 3.81 1.27)
-			(end 3.81 -6.35)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "80cfd90a-e1f9-4f14-88c9-da1983f21f3d")
-		)
-		(fp_line
-			(start -1.27 0)
-			(end 0 1.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "26015808-4320-4b4c-bae0-92bdf55fcb76")
-		)
-		(fp_line
-			(start -1.27 -6.35)
-			(end -1.27 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "f749d26b-0294-4a52-b22f-fdcc150ea8f8")
-		)
-		(fp_line
-			(start 3.81 -6.35)
-			(end -1.27 -6.35)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "d0838de3-a685-4180-9462-927d7fb0935c")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 1.27 -2.54 180)
-			(layer "B.Fab")
-			(uuid "ca80849b-db66-478c-9739-22d969275f44")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(pad "1" thru_hole rect
-			(at 0 0 270)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 85 "3V3")
-			(pinfunction "Pin_1")
-			(pintype "passive")
-			(uuid "4d488fcb-9110-4247-a62b-82dca17335f9")
-		)
-		(pad "2" thru_hole oval
-			(at 2.54 0 270)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 2 "GND")
-			(pinfunction "Pin_2")
-			(pintype "passive")
-			(uuid "21613dd0-95a2-4f0e-9ca6-803903f374de")
-		)
-		(pad "3" thru_hole oval
-			(at 0 -2.54 270)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 29 "SDA")
-			(pinfunction "Pin_3")
-			(pintype "passive")
-			(uuid "26db91dd-48f2-4a96-91cf-b12df812b664")
-		)
-		(pad "4" thru_hole oval
-			(at 2.54 -2.54 270)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 28 "SCL")
-			(pinfunction "Pin_4")
-			(pintype "passive")
-			(uuid "20cffca5-3d88-47ad-b494-ad8270d3fd25")
-		)
-		(pad "5" thru_hole oval
-			(at 0 -5.08 270)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 30 "GPIO40")
-			(pinfunction "Pin_5")
-			(pintype "passive")
-			(uuid "825cf2af-d50c-4cf1-8e84-1febb3526fc8")
-		)
-		(pad "6" thru_hole oval
-			(at 2.54 -5.08 270)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 27 "GPIO42")
-			(pinfunction "Pin_6")
-			(pintype "passive")
-			(uuid "0d66040a-592f-4074-aa07-f980dd1be213")
-		)
-		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Swadge-Parts/package3d/PinHeader_2x03_P2.54mm_Vertical.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "Swadge_Parts:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "873205d1-f004-4734-b94b-0a7de06fca40")
@@ -26691,6 +27287,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d9ac9aed-e85e-45c0-9137-cc4701f02004")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bd8cdb35-e2ae-4fb6-b757-644b0aaf80c2")
 			(effects
 				(font
 					(size 1 1)
@@ -26973,6 +27583,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "15eb9a63-1ce1-428f-be97-4dbbd7acbfef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/7fb36b86-4780-428d-86d2-7c8b0ffaebde")
 		(sheetname "/")
@@ -27247,6 +27871,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c364c30c-6f4c-477a-9147-d6466be4c4ee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/9c3b887e-4682-4c57-8104-7eeac4d12822")
 		(sheetname "/")
@@ -27513,6 +28151,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "69485bdf-2c3f-495b-87db-b61a64cea3fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ec5947b3-0fbe-4626-b815-82b9c0d9c113")
 			(effects
 				(font
 					(size 1 1)
@@ -27868,6 +28520,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e4d47a1e-b31f-476c-8325-7dd6b2379795")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/c027fb56-6c2a-4af4-b564-2da0bfd4a8cd")
 		(sheetname "/")
@@ -28098,6 +28764,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "3d4ab911-357e-490d-980d-8661d3ad6e42")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "57774eb6-e467-4c76-b6de-dfe41b6054a4")
 			(effects
 				(font
 					(size 1 1)
@@ -28380,6 +29060,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "26670194-0045-45af-91fe-038dd8ee39ec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/73e87f03-237d-4fe9-b8b8-f9f55f6f16b4")
 		(sheetname "/")
@@ -28646,6 +29340,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d7a785bf-da4d-4486-b9d8-4c5088b53ebd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a37a28e3-d5a9-4ebb-8135-6a2932247f20")
 			(effects
 				(font
 					(size 1 1)
@@ -28998,6 +29706,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "68736b2e-a856-49a8-9865-38f9dabb672c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/ad90d8bd-6ca1-4ef3-afd7-d50fcb90cda5")
 		(sheetname "/")
@@ -29264,6 +29986,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "de20766f-cbc9-46b4-a63f-b4b0853e3cf1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "75ce06f1-f789-408f-ad4c-df5927f11b2d")
 			(effects
 				(font
 					(size 1 1)
@@ -29546,6 +30282,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "84f63937-0b19-4220-a245-e84863679310")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/cdfa048c-86c7-43b3-be7e-d35186d17a94")
 		(sheetname "/")
@@ -29812,6 +30562,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8c999b86-b2ad-49b3-ba4a-91af0adaaffe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "220cec91-5f6b-408c-a248-e1b05e5e2960")
 			(effects
 				(font
 					(size 1 1)
@@ -30108,11 +30872,25 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b7ae8112-7706-4d60-996f-3b9b4d7e5c03")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/a55c1b99-3293-490d-831c-cf15a08bdfa8")
 		(sheetname "/")
 		(sheetfile "Swadge-HW.kicad_sch")
-		(attr smd dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -1.33 1.33)
 			(end 0 1.33)
@@ -30436,7 +31214,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "~"
+		(property "LCSC" "C5370863"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30450,7 +31228,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Cost @ 2.5k" "0.11"
+		(property "Cost @ 2.5k" "0.9266"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30825,6 +31603,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "59f614d1-bc98-461b-b1f9-247544dec598")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/1c31a40f-0dc5-4f1d-b1db-a052ed059b89")
 		(sheetname "/")
@@ -31057,6 +31849,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "21afa330-dac8-40d1-88a9-343ad5ba0860")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/0d5e2399-1b20-46b2-9b26-f9aceecb5df8")
 		(sheetname "/")
@@ -31265,6 +32071,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2c401b0c-04dd-423f-8e2b-8077e30dff6e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "df8801cb-a463-41fc-995f-b5cd9f974bf1")
 			(effects
 				(font
 					(size 1 1)
@@ -32363,6 +33183,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "13ee9381-1195-4e6a-9851-04a722f71120")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/66fbfc6a-1524-4418-909f-cef4e266b22a")
 		(sheetname "/")
@@ -32637,6 +33471,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "efdbfb41-ea5d-4855-899d-f1c3f73a9c50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/1904b885-7965-46df-a6f9-e9622896941b")
 		(sheetname "/")
@@ -32898,7 +33746,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "~"
+		(property "LCSC" "C5370863"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32912,7 +33760,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Cost @ 2.5k" "0.11"
+		(property "Cost @ 2.5k" "0.9266"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33287,6 +34135,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0291271d-843c-42f5-881d-92ad2240bf5c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:C_0603_1608Metric")
 		(path "/4e370842-86f0-43ff-9b0d-4ad66dc8e3af")
 		(sheetname "/")
@@ -33553,6 +34415,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a51989b3-8567-483b-89f3-3a4d82e3379f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6288a7ae-2967-435f-abdf-0f026d6da911")
 			(effects
 				(font
 					(size 1 1)
@@ -33835,6 +34711,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2c211e9c-1f92-4570-b4b2-5c7ab11aa950")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:C_0603_1608Metric")
 		(path "/1a98e96b-8ee7-4deb-902d-1a8d182d55be")
 		(sheetname "/")
@@ -34060,6 +34950,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d8dff018-7ebb-4b75-a11a-edbdc3622650")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "569b1995-4bcc-4e9c-9940-fad368f5c7e6")
 			(effects
 				(font
 					(size 1 1)
@@ -34433,6 +35337,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8f2a242b-427b-4767-9bb1-e9a30cab6b8d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:C_0603_1608Metric")
 		(path "/83f3a2e6-bc58-49d2-8a7a-fbb669b33b0e")
 		(sheetname "/")
@@ -34707,6 +35625,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ba687cce-e15c-4b7b-b34f-92dbc7904fa5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4eb8725a-f5d1-4d8c-b024-912b21c3dd3c")
 			(effects
 				(font
 					(size 1 1)
@@ -35094,6 +36026,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5a697f1a-f309-461c-a07a-125a67557f4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:C_0603_1608Metric")
 		(path "/c2fb6085-bfeb-409e-b53d-cce06c9e9e5a")
 		(sheetname "/")
@@ -35360,6 +36306,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b43cd53e-7555-4ef1-8672-c5c365ec2206")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c497d42d-9d17-41aa-a305-340d2a0d1d3f")
 			(effects
 				(font
 					(size 1 1)
@@ -35642,6 +36602,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a2c7696b-7fd8-42d1-93cd-1d4fdfd290c9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:C_0603_1608Metric")
 		(path "/9458e7a6-0f6d-4bf4-a25f-d12ecb8034eb")
 		(sheetname "/")
@@ -35894,6 +36868,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "665c0952-eb99-4e4b-8443-578bd779fe7e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "17f0d4bb-b077-4e41-8569-edf0a6aae996")
 			(effects
 				(font
 					(size 1 1)
@@ -36214,6 +37202,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9d86e142-d1dd-4eee-9573-a801e68f901f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:C_0603_1608Metric")
 		(path "/c8796b29-65dd-423e-ab9f-1981913bb6e6")
 		(sheetname "/")
@@ -36480,6 +37482,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "eaadde6e-7678-4631-95a3-15917b190508")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8e4c9849-c8ed-46a0-a77a-fb8a52e56010")
 			(effects
 				(font
 					(size 1 1)
@@ -36790,6 +37806,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e39a0b4c-a4ae-48cf-aec7-52757291cc0a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:C_0603_1608Metric")
 		(path "/edd5a605-16c4-4a4f-9490-63538fb1c943")
 		(sheetname "/")
@@ -37050,6 +38080,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "99dbb55b-02f2-4cb8-be3b-3d1152cce0be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/b413e381-3419-409b-8fc3-896fda842b74")
 		(sheetname "/")
 		(sheetfile "Swadge-HW.kicad_sch")
@@ -37243,6 +38287,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2d19646d-0205-4500-8e91-c2931bf8dca1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0c2090e3-acfe-45fd-80f5-17da7ea65d70")
 			(effects
 				(font
 					(size 1 1)
@@ -37569,6 +38627,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "08d6f392-a522-4f65-b71d-5d8481cf3098")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:C_0603_1608Metric")
 		(path "/bd50a1fa-6fb2-4788-968c-9c03ba0a209e")
 		(sheetname "/")
@@ -37843,6 +38915,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b2c7d559-9d46-47f1-8d56-7d8ca6ddb8de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Swadge_Parts:R_0603_1608Metric")
 		(path "/b47fdf8b-a2d5-40fc-8b99-929b54a929d0")
 		(sheetname "/")
@@ -38109,6 +39195,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c9c6a229-56fb-4200-913c-95b96a0d9a4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Cost@2500" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "39b78043-e3c2-435d-a698-ed6166ee3d40")
 			(effects
 				(font
 					(size 1 1)
