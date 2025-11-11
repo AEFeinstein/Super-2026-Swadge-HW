@@ -39803,7 +39803,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "c027fb56-6c2a-4af4-b564-2da0bfd4a8cd")
 		(property "Reference" "C26"
 			(at 167.005 190.5 0)
@@ -39814,7 +39814,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized_US"
+		(property "Value" "470uF"
 			(at 167.005 195.58 0)
 			(effects
 				(font
@@ -39888,15 +39888,6 @@
 			)
 		)
 		(property "Cost @ 2.5k" "0.031"
-			(at 166.37 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Cost@2500" ""
 			(at 166.37 193.04 0)
 			(effects
 				(font
