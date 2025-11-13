@@ -38769,7 +38769,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b76facbc-1c81-48a8-8df4-454e027dea11")
 		(property "Reference" "U2"
 			(at 124.46 250.19 0)

@@ -35,3 +35,5 @@ Swadge-S2-Devkit/output
 *gerbers*
 *.zip
 .DS_Store
+fabrication-toolkit-options.json
+netlist.ipc
