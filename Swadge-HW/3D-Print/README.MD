@@ -1,26 +1,33 @@
-# Super 2026 Thing
+# Super 2026 Swadge 3D Printing Assets
 
-No idea what this will be!
+Introducing the WUB TANK, the newest addition to the Swadge shell collection
 
 ## Built With
 
-We'll likely use these tools.
-
 * [Fusion 360]( https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription) 
-* [SOLIDWORKS 2023](https://www.solidworks.com) 
 * [Blender](https://www.blender.org) 
 
 ## Getting Started
 
-Write some instructions about opening files, buying at the booth, printing your own.
+The included files are STEP type so they can be modified to your liking, and most slicer programs will readily load them. The Wub-Tank-Proto.step is the final fit check model before art assets were added. Designed to be readily printable. Recommended settings: 0 top/bottom layers for exposed (honeycomb) infill effect when printed as is.
 
 ## Materials
 
-Write some filament recommendations.
+PLA will work in most cases, but you can use PETG for more durablility.
 
 ## Assembly
 
-Write some assembly instructions. Please no screws this time.
+The WUB TANK Shell requires a single M3x8 screw.
+
+## Add-ons
+
+- Corruption Crest: A friction fit add-on that attaches to the standard acrylic diffuser. It was designed to be one of several Megaman style powerups. I recommend printing this in purple filament.
+
+- Crest Diffuser Template: A version of the corruption crest with all original art removed so you can design your own. GO NUTS! Just don't cut away the tabs that hold it on.
+
+- M-Diffuser: WARNING ADVANCED!!! Designed as a substitute for the included acrylic diffuser, since the prototype did not include one. If you want to make one, you'll need some clear/translucent filament, double sided tape, and be gentle when removing the acrylic so as not to damage the PCB surface. For best results use a clear filament and 100% concentric infill for the bottom 3mm, and a translucent color for the remainder with the top layers turned off to expose the infill with your choice of infill pattern. Print the squarewave insert seperately (in neon green or glow in the dark filament). 
+
+More add-on instructions to come as more files are added
 
 ## Contributing
 
@@ -43,7 +50,7 @@ Don't forget to give the project a star! Thanks again!
 
 * Emily Anthony - [@thelegendofemily](https://www.thelegendofemily.com) 
 * Greg Lord - [@gplord](https://www.gplord.com/)
-* Erik Jacobs 
+* Erik Jacobs - [@Eriktronic3D]
 
 ## Acknowledgments
 
