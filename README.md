@@ -1,10 +1,10 @@
-# Super Magfest 2026 Swadge Hardware
+# Super Magfest 2027 Swadge Hardware
 
 ## Welcome
 
-This is the hardware repository for the Super Magfest 2026 Swadge.
+This is the hardware repository for the Super Magfest 2027 Swadge.
 
-The corresponding firmware repository for the Super Magfest 2026 Swadge [can be found here](https://github.com/AEFeinstein/Super-2024-Swadge-FW).
+The corresponding firmware repository for the Super Magfest 2027 Swadge [can be found here](https://github.com/AEFeinstein/Super-2024-Swadge-FW).
 
 If you have any questions, feel free to create a Github ticket or email us at circuitboards@magfest.org.
 
